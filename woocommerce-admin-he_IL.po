@@ -1,0 +1,5392 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.7\n"
+"Project-Id-Version: WooCommerce Admin to Hebew - תרגום לעברית\n"
+"Language: he\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: amit <amit.r.89@gmail.com>\n"
+"Language-Team: \n"
+
+#: admin/importers/importers-init.php:13
+msgid "WooCommerce Tax Rates (CSV)"
+msgstr "שיעורי מס WooCommerce (CSV)"
+
+#: admin/importers/importers-init.php:13
+msgid "Import <strong>tax rates</strong> to your store via a csv file."
+msgstr "מחירי יבוא <strong> מס </ strong> לחנות שלך באמצעות קובץ CSV."
+
+#: admin/importers/tax-rates-importer.php:103
+#: admin/importers/tax-rates-importer.php:186
+#: admin/importers/tax-rates-importer.php:226
+#: admin/importers/tax-rates-importer.php:241
+msgid "Sorry, there has been an error."
+msgstr "מצטער, חלה טעות."
+
+#: admin/importers/tax-rates-importer.php:104
+msgid "The file does not exist, please try again."
+msgstr "הקובץ לא קיים, אנא נסה שוב."
+
+#: admin/importers/tax-rates-importer.php:187
+msgid "The CSV is invalid."
+msgstr "CSV אינו חוקי."
+
+#: admin/importers/tax-rates-importer.php:198
+msgid ""
+"Import complete - imported <strong>%s</strong> tax rates and skipped <strong>"
+"%s</strong>."
+msgstr ""
+"יבוא מלא -% <strong> המיובאים של </ strong> שיעורי מס ודלג <strong>% s </ "
+"strong>."
+
+#: admin/importers/tax-rates-importer.php:208
+msgid "All done!"
+msgstr "כל הכבוד!"
+
+#: admin/importers/tax-rates-importer.php:208
+msgid "View Tax Rates"
+msgstr "צפו בשיעורי המס"
+
+#: admin/importers/tax-rates-importer.php:259
+msgid "Import Tax Rates"
+msgstr "ייבא שיעורי מס"
+
+#: admin/importers/tax-rates-importer.php:282
+msgid ""
+"Hi there! Upload a CSV file containing tax rates to import the contents into "
+"your shop. Choose a .csv file to upload, then click \"Upload file and import"
+"\"."
+msgstr ""
+"היי שם! העלאה קובץ CSV המכיל שיעורי מס כדי לייבא את התוכן לתוך החנות שלך. "
+"בחר קובץ csv. להעלות, לאחר מכן לחץ על \"העלה קובץ ייבא\"."
+
+#: admin/importers/tax-rates-importer.php:284
+msgid ""
+"Tax rates need to be defined with columns in a specific order (10 columns). "
+"<a href=\"%s\">Click here to download a sample</a>."
+msgstr ""
+"שיעורי מס צריכים להיות מוגדרים עם עמודות לפי סדר מסוים (10 עמודים). href=\"%s"
+"\"> <a לחץ כאן כדי להוריד מדגם </ a>."
+
+#: admin/importers/tax-rates-importer.php:292
+msgid ""
+"Before you can upload your import file, you will need to fix the following "
+"error:"
+msgstr "לפני שאתה יכול להעלות את קובץ היבוא שלך, אתה צריך לתקן את השגיאה הבאה:"
+
+#: admin/importers/tax-rates-importer.php:301
+msgid "Choose a file from your computer:"
+msgstr "בחר קובץ מהמחשב שלך:"
+
+#: admin/importers/tax-rates-importer.php:307
+msgid "Maximum size: %s"
+msgstr "גודל מקסימאלי:% s"
+
+#: admin/importers/tax-rates-importer.php:312
+msgid "OR enter path to file:"
+msgstr "או הזן נתיב לקובץ:"
+
+#: admin/importers/tax-rates-importer.php:319
+msgid "Delimiter"
+msgstr "מפריד"
+
+#: admin/importers/tax-rates-importer.php:325
+msgid "Upload file and import"
+msgstr "העלה קובץ וייבא"
+
+#: admin/includes/duplicate_product.php:23
+msgid "No product to duplicate has been supplied!"
+msgstr "לא סופק מוצר לשכפול"
+
+#: admin/includes/duplicate_product.php:43
+msgid "Product creation failed, could not find original product:"
+msgstr "יצירת מוצר נכשלה, לא הצלחנו למצוא את המוצר מקורי:"
+
+#: admin/includes/duplicate_product.php:90
+msgid "(Copy)"
+msgstr "(העתק)"
+
+#: admin/includes/notice-install.php:6
+msgid ""
+"<strong>Welcome to WooCommerce</strong> &#8211; You're almost ready to start "
+"selling :)"
+msgstr ""
+"<strong> ברוכים הבאים לWooCommerce </ strong> - אתה כמעט מוכן להתחיל למכור :)"
+
+#: admin/includes/notice-install.php:7
+msgid "Install WooCommerce Pages"
+msgstr "התקנת עמודים WooCommerce"
+
+#: admin/includes/notice-install.php:7
+msgid "Skip setup"
+msgstr "דלג על ההתקנה"
+
+#: admin/includes/notice-theme-support.php:6
+msgid ""
+"<strong>Your theme does not declare WooCommerce support</strong> &#8211; if "
+"you encounter layout issues please read our integration guide or choose a "
+"WooCommerce theme :)"
+msgstr ""
+"<strong> הנושא שלך לא להצהיר על תמיכת WooCommerce </ strong> - אם אתה נתקלת "
+"בבעיות פריסה אנא קרא את המדריך לאינטגרציה שלנו, או לבחור WooCommerce נושא :)"
+
+#: admin/includes/notice-theme-support.php:7
+msgid "Theme Integration Guide"
+msgstr "מדריך שילוב נושא"
+
+#: admin/includes/notice-theme-support.php:7
+msgid "Hide this notice"
+msgstr "הסתר הודעה זו"
+
+#: admin/includes/notice-update.php:6
+msgid ""
+"<strong>Data Update Required</strong> &#8211; We just need to update your "
+"install to the latest version"
+msgstr ""
+"נתונים <strong> עדכון דרוש </ strong> - אנחנו רק צריכים לעדכן את ההתקנה שלך "
+"לגרסה העדכנית ביותר"
+
+#: admin/includes/notice-update.php:7
+msgid "Run the updater"
+msgstr "הפעל את המעדכן"
+
+#: admin/includes/notice-update.php:12
+msgid ""
+"It is strongly recommended that you backup your database before proceeding. "
+"Are you sure you wish to run the updater now?"
+msgstr ""
+"מומלץ מאוד לגבות את מסד הנתונים לפני שתמשיכו. האם אתם בטוחים שברצונכם להפעיל "
+"את ה'מעדכן' עכשיו?"
+
+#: admin/includes/updates/woocommerce-update-2.0.php:49
+#: admin/woocommerce-admin-init.php:885
+msgctxt "slug"
+msgid "product-category"
+msgstr "קטגוריית מוצר"
+
+#: admin/includes/updates/woocommerce-update-2.0.php:50
+#: admin/woocommerce-admin-init.php:898
+msgctxt "slug"
+msgid "product-tag"
+msgstr "תג מוצר"
+
+#: admin/includes/updates/woocommerce-update-2.0.php:58
+msgctxt "slug"
+msgid "product"
+msgstr "מוצר"
+
+#: admin/includes/updates/woocommerce-update-2.0.php:179
+#: admin/woocommerce-admin-install.php:207
+msgctxt "page_slug"
+msgid "lost-password"
+msgstr "איבד את הסיסמה-"
+
+#: admin/includes/updates/woocommerce-update-2.0.php:179
+#: admin/woocommerce-admin-install.php:207
+#: admin/woocommerce-admin-status.php:335
+msgid "Lost Password"
+msgstr "איבד את הסיסמא"
+
+#: admin/includes/welcome.php:48
+msgid "Welcome to WooCommerce"
+msgstr "ברוכים הבאים לWooCommerce"
+
+#: admin/includes/welcome.php:135
+msgid "Welcome to WooCommerce %s"
+msgstr "ברוכים הבאים לWooCommerce% s"
+
+#: admin/includes/welcome.php:140
+msgid "Thanks, all done!"
+msgstr "תודה, כל כבוד!"
+
+#: admin/includes/welcome.php:142
+msgid "Thank you for updating to the latest version!"
+msgstr "תודה לך על עדכון לגרסה העדכנית ביותר!"
+
+#: admin/includes/welcome.php:144
+msgid "Thanks for installing!"
+msgstr "תודה על ההתקנה!"
+
+#: admin/includes/welcome.php:146
+msgid ""
+"%s WooCommerce %s is more powerful, stable, and secure than ever before. We "
+"hope you enjoy it."
+msgstr ""
+"% s WooCommerce% s היא יותר חזקה, יציב, ומאובטחת יותר מאי פעם. אנו מקווים "
+"שאתה נהנה מזה."
+
+#: admin/includes/welcome.php:150
+msgid "Version %s"
+msgstr "גרסת% s"
+
+#: admin/includes/welcome.php:153 admin/woocommerce-admin-content.php:41
+#: admin/woocommerce-admin-init.php:88 admin/woocommerce-admin-status.php:278
+msgid "Settings"
+msgstr "הגדרות"
+
+#: admin/includes/welcome.php:154
+msgid "Docs"
+msgstr "Docs"
+
+#: admin/includes/welcome.php:161
+msgid "What's New"
+msgstr "מה חדש"
+
+#: admin/includes/welcome.php:163
+msgid "Credits"
+msgstr "קרדיטים"
+
+#: admin/includes/welcome.php:186
+msgid "Security in mind"
+msgstr "מחשבה על אבטחה"
+
+#: admin/includes/welcome.php:190
+msgid "Sucuri Safe Plugin"
+msgstr "תוסף Sucuri Safe"
+
+#: admin/includes/welcome.php:191
+msgid ""
+"You will be happy to learn that WooCommerce has been audited and certified "
+"by the Sucuri Security team. Whilst there is not much to be seen visually to "
+"understand the amount of work that went into this audit, rest assured that "
+"your website is powered by one of the most powerful and stable eCommerce "
+"plugins available."
+msgstr ""
+"אתה תהיה שמח ללמוד כי WooCommerce כבר נבדק ואושר על ידי צוות אבטחת Sucuri. "
+"בעוד שאין הרבה מה לראות מבחינה ויזואלית כדי להבין את כמות העבודה שהושקעה "
+"בביקורת, היה סמוך ובטוח כי אתר האינטרנט שלך מופעל על ידי אחד מתוספי המסחר "
+"האלקטרוני הכי עוצמתיים והיציבים שיש."
+
+#: admin/includes/welcome.php:194
+msgid "A Smoother Admin Experience"
+msgstr "חווית ניהול טובה יותר"
+
+#: admin/includes/welcome.php:200
+msgid "New Product Panel"
+msgstr "לוח מוצרים חדש"
+
+#: admin/includes/welcome.php:201
+msgid ""
+"We have revised the product data panel making it cleaner, more streamlined, "
+"and more logical. Adding products is a breeze!"
+msgstr ""
+"שכתבנו את לוח הנתונים של המוצרים כך שיהיה נקי יותר, יעיל יותר, והגיוני יותר. "
+"הוספת מוצרים הוא תהליך פשוט ביותר!"
+
+#: admin/includes/welcome.php:206
+msgid "Nicer Order Screens"
+msgstr "מסכי הזמנה יפים יותר"
+
+#: admin/includes/welcome.php:207
+msgid ""
+"Order pages have had a cleanup, with a more easily scannable interface. We "
+"particularly like the new status icons!"
+msgstr ""
+"דפי הזמנה עברו 'ניקוי', עם ממשק קריא וברור יותר. אנחנו אוהבים במיוחד את סמלי "
+"הסטטוס החדשים!"
+
+#: admin/includes/welcome.php:212
+msgid "Multi-Download Support"
+msgstr "תמיכה בהורדות מרובות "
+
+#: admin/includes/welcome.php:213
+msgid ""
+"Products can have multiple downloadable files - purchasers will get access "
+"to all the files added."
+msgstr ""
+"מוצרים יכולים להיות מספר רב של קבצים להורדה - רוכשים יקבלו גישה לכל קבצים "
+"שנוספו."
+
+#: admin/includes/welcome.php:218
+msgid "Less Taxing Taxes"
+msgstr "הפחתת מיסוי מיסים"
+
+#: admin/includes/welcome.php:224
+msgid "New Tax Input Panel"
+msgstr "לוח קלט מס חדש"
+
+#: admin/includes/welcome.php:225
+msgid ""
+"The tax input pages have been streamlined to make inputting taxes simpler - "
+"adding multiple taxes for a single jurisdiction is now much easier using the "
+"priority system. There is also CSV import/export support."
+msgstr ""
+"את דפי מס התשומות היו יעיל כדי להפוך את מסים המזינים פשוטים - הוספת מסים "
+"מרובים לשיפוט יחיד היא עכשיו הרבה יותר קלה שימוש במערכת ראש סדר העדיפויות. "
+"יש גם תמיכה ביבוא / יצוא CSV."
+
+#: admin/includes/welcome.php:229
+msgid "Improved Tax Options"
+msgstr "אפשרויות מיסים משופרים"
+
+#: admin/includes/welcome.php:230
+msgid ""
+"As requested by some users, we now support taxing the billing address "
+"instead of shipping (optional), and we allow you to choose which tax class "
+"applies to shipping."
+msgstr ""
+"כמבוקש על ידי חלק מהמשתמשים, עכשיו אנחנו תומכים במיסוי כתובת החיוב במקום "
+"משלוח (אופציונלי), ואנו מאפשרים לך לבחור אילו סיווגי מס חלים על משלוח."
+
+#: admin/includes/welcome.php:235
+msgid "Product Listing Improvements Customers Will Love"
+msgstr "שיפור ברישום מוצרים שלקוחות יאהבו"
+
+#: admin/includes/welcome.php:241
+msgid "New Sorting Options"
+msgstr "אפשרויות מיון חדשות"
+
+#: admin/includes/welcome.php:242
+msgid "Customers can now sort products by popularity and ratings."
+msgstr "לקוחות יכולים כעת למיין את המוצרים לפי פופולריות ודירוג."
+
+#: admin/includes/welcome.php:247
+msgid "Better Pagination and Result Counts"
+msgstr "ספירת עימוד ותוצאה טובה יותר"
+
+#: admin/includes/welcome.php:248
+msgid ""
+"Numbered pagination has been added to core, and we show the number of "
+"results found above the listings."
+msgstr ""
+"חלוקה לעמודים ממוספרים נוספה לליבה, ואנו מציגים את מספר התוצאות שנמצאו מעל "
+"לרישומים."
+
+#: admin/includes/welcome.php:253
+msgid "Inline Star Rating Display"
+msgstr "תצוגת דירוג כוכבים מוטבעת"
+
+#: admin/includes/welcome.php:254
+msgid ""
+"We have added star ratings to the catalog which are pulled from reviews."
+msgstr "הוספנו דירוגי כוכבים לקטלוג אשר משכו מחוות דעת."
+
+#: admin/includes/welcome.php:262
+msgid "Under the Hood"
+msgstr ".מתחת למכסה המנוע"
+
+#: admin/includes/welcome.php:266
+msgid "New product classes"
+msgstr "סיווג מוצר חדש"
+
+#: admin/includes/welcome.php:267
+msgid ""
+"The product classes have been rewritten and are now factory based. Much more "
+"extendable, and easier to query products using the new <code>get_product()</"
+"code> function."
+msgstr ""
+"מעמדות המוצר שוכתבו והם מבוססים כיום במפעל. הרבה יותר להארכה, וקל יותר "
+"למוצרי השאילתה באמצעות get_product החדש <code> () </ code> פונקציה."
+
+#: admin/includes/welcome.php:271
+msgid "Capability overhaul"
+msgstr "שיפוץ יכולת"
+
+#: admin/includes/welcome.php:272
+msgid ""
+"More granular capabilities for admin/shop manager roles covering products, "
+"orders and coupons."
+msgstr ""
+"יכולות פרטניות יותר לתפקידי מנהל מנהל / חנות כיסוי מוצרים, הזמנות וקופונים."
+
+#: admin/includes/welcome.php:276
+msgid "API Improvements"
+msgstr "שיפורי API"
+
+#: admin/includes/welcome.php:277
+msgid ""
+"<code>WC-API</code> now has real endpoints, and we've optimised the gateways "
+"API significantly by only loading gateways when needed."
+msgstr ""
+"<code> WC-API </ code> עכשיו יש נקודות קצה אמיתיות, ושייעלנו באופן משמעותי "
+"על ידי API השערים בלבד טעינת שערים בעת צורך."
+
+#: admin/includes/welcome.php:283
+msgid "Cache-friendly cart widgets"
+msgstr "יישומוני סל ידידותיים למטמון"
+
+#: admin/includes/welcome.php:284
+msgid ""
+"Cart widgets and other \"fragments\" are now pulled in via AJAX - this works "
+"wonders with static page caching."
+msgstr ""
+"יישומונים סל ו \"שברים\" אחרים נמצאים כעת משכו בבאמצעות AJAX - זה עובד פלאים "
+"באחסון במטמון דף סטטי."
+
+#: admin/includes/welcome.php:288
+msgid "Session handling"
+msgstr "טיפול ב\"שיחות\""
+
+#: admin/includes/welcome.php:289
+msgid ""
+"PHP SESSIONS have been a problem for many users in the past, so we've "
+"developed our own handler using cookies and options to make these more "
+"reliable."
+msgstr ""
+"הפעלות PHP היו בעיה עבור משתמשים רבים בעבר, ולכן פיתחנו המטפל שלנו באמצעות "
+"קוקייס ואפשרויות לעשות אלה אמינים יותר."
+
+#: admin/includes/welcome.php:293
+msgid "Retina Ready"
+msgstr "מוכן לצג רשתית"
+
+#: admin/includes/welcome.php:294
+msgid "All graphics within WC have been optimised for HiDPI displays."
+msgstr "כל הגרפיקה בתוך מקלחת כבר מותאמת לצגי HiDPI."
+
+#: admin/includes/welcome.php:301
+msgid "Better stock handling"
+msgstr "ניהול טוב יותר של המלאי"
+
+#: admin/includes/welcome.php:302
+msgid ""
+"We have added an option to hold stock for unpaid orders (defaults to "
+"60mins). When this time limit is reached, and the order is not paid for, "
+"stock is released and the order is cancelled."
+msgstr ""
+"הוספנו אפשרות להחזיק מלאי עבור הזמנות שלא שולמו (ברירת מחדל היא 60 דק'). "
+"כאשר מגבלת הזמן תמה וההזמנה לא שולמה, המלאי משוחרר וההזמנה מבוטלת"
+
+#: admin/includes/welcome.php:306
+msgid "Improved Line-item storage"
+msgstr "השתפר אחסון Line-פריט"
+
+#: admin/includes/welcome.php:307
+msgid ""
+"We have changed how order items get stored making them easier (and faster) "
+"to access for reporting. Order items are no longer serialised within an "
+"order - they are stored within their own table."
+msgstr ""
+"שינינו את הדרך שבה פריטי ההזמנה מאוחנים,מה שהופך את הדיווח למהיר יותר ופשוט "
+"יותר. פריטי הזמנה כבר לא מקוטלגים בתוך הזמנה אלא מאוחסנים בטבלה אישית."
+
+#: admin/includes/welcome.php:311
+msgid "Autoload"
+msgstr "העלאה אוטומית"
+
+#: admin/includes/welcome.php:312
+msgid ""
+"We have setup autoloading for classes - this has dramatically reduced memory "
+"usage in 2.0."
+msgstr ""
+"הגדרו autoloading לסיווגים - זה מצמצם את השימוש בזיכרון באופן דרמטי ב2.0."
+
+#: admin/includes/welcome.php:319
+msgid "Go to WooCommerce Settings"
+msgstr "עבור לWooCommerce הגדרות"
+
+#: admin/includes/welcome.php:337
+msgid ""
+"WooCommerce is developed and maintained by a worldwide team of passionate "
+"individuals and backed by an awesome developer community. Want to see your "
+"name? <a href=\"https://github.com/woothemes/woocommerce/blob/master/"
+"CONTRIBUTING.md\">Contribute to WooCommerce</a>."
+msgstr ""
+"WooCommerce מפותח ומתוחזק על ידי צוות עולמי של אנשים נלהבים ומגובה על ידי "
+"קהילת מפתחים מדהימה. רוצה לראות את השם שלך? href=\"https://github.com/"
+"woothemes/woocommerce/blob/master/CONTRIBUTING.md\"> <a לתרום WooCommerce </ "
+"a>."
+
+#: admin/includes/welcome.php:363
+msgid "View %s"
+msgstr "צפה ב% s"
+
+#: admin/post-types/product.php:31
+msgid "Make a duplicate from this product"
+msgstr "שכפל מוצר זה"
+
+#: admin/post-types/product.php:32
+msgid "Duplicate"
+msgstr "שכפל"
+
+#: admin/post-types/product.php:61
+msgid "Copy to a new draft"
+msgstr "העתק לטיוטה חדשה"
+
+#: admin/post-types/product.php:86 admin/woocommerce-admin-taxonomies.php:297
+msgid "Image"
+msgstr "תמונה"
+
+#: admin/post-types/product.php:88
+#: admin/post-types/writepanels/writepanel-product_data.php:376
+#: admin/post-types/writepanels/writepanel-product_data.php:470
+#: admin/woocommerce-admin-attributes.php:233
+#: admin/woocommerce-admin-attributes.php:269
+#: admin/woocommerce-admin-attributes.php:307
+#: admin/woocommerce-admin-attributes.php:330
+#: admin/woocommerce-admin-attributes.php:374
+#: admin/woocommerce-admin-attributes.php:399
+#: admin/woocommerce-admin-init.php:437
+msgid "Name"
+msgstr "שם"
+
+#: admin/post-types/product.php:91 admin/post-types/product.php:557
+#: admin/post-types/writepanels/variation-admin-html.php:52
+#: admin/post-types/writepanels/writepanel-product_data.php:98
+#: admin/woocommerce-admin-reports.php:2099
+#: admin/woocommerce-admin-reports.php:2135
+msgid "SKU"
+msgstr "מק\"ט"
+
+#: admin/post-types/product.php:94
+#: admin/post-types/writepanels/writepanel-product-type-variable.php:83
+#: admin/woocommerce-admin-content.php:63
+#: admin/woocommerce-admin-reports.php:90
+msgid "Stock"
+msgstr "מלאי"
+
+#: admin/post-types/product.php:96 admin/post-types/product.php:568
+#: admin/post-types/product.php:789 admin/woocommerce-admin-functions.php:202
+msgid "Price"
+msgstr "מחיר"
+
+#: admin/post-types/product.php:98
+msgid "Categories"
+msgstr "קטגוריות"
+
+#: admin/post-types/product.php:99
+msgid "Tags"
+msgstr "תגיות"
+
+#: admin/post-types/product.php:100 admin/post-types/product.php:632
+#: admin/post-types/product.php:906
+#: admin/post-types/writepanels/writepanel-product_data.php:1058
+#: admin/woocommerce-admin-init.php:450
+msgid "Featured"
+msgstr "מובחר"
+
+#: admin/post-types/product.php:101 admin/woocommerce-admin-attributes.php:251
+#: admin/woocommerce-admin-attributes.php:309
+#: admin/woocommerce-admin-attributes.php:386
+msgid "Type"
+msgstr "סוג"
+
+#: admin/post-types/product.php:102 admin/post-types/shop_order.php:50
+msgid "Date"
+msgstr "תאריך"
+
+#: admin/post-types/product.php:151
+msgid "Edit this item"
+msgstr "ערוך פריט זה"
+
+#: admin/post-types/product.php:151
+#: admin/post-types/writepanels/writepanel-order_data.php:140
+#: admin/post-types/writepanels/writepanel-order_data.php:230
+#: admin/post-types/writepanels/writepanel-order_data.php:387
+#: admin/post-types/writepanels/writepanel-product_data.php:1061
+#: admin/woocommerce-admin-attributes.php:323
+msgid "Edit"
+msgstr "ערוך"
+
+#: admin/post-types/product.php:152
+msgid "Edit this item inline"
+msgstr "ערוך פריט מוטבע זה"
+
+#: admin/post-types/product.php:152
+msgid "Quick&nbsp;Edit"
+msgstr "עריכה מהירה"
+
+#: admin/post-types/product.php:156 admin/post-types/shop_coupon.php:65
+msgid "Restore this item from the Trash"
+msgstr "שחזור פריט זה מהאשפה"
+
+#: admin/post-types/product.php:156 admin/post-types/shop_coupon.php:65
+msgid "Restore"
+msgstr "שחזר"
+
+#: admin/post-types/product.php:158 admin/post-types/shop_coupon.php:67
+msgid "Move this item to the Trash"
+msgstr "הזז פריט זה לאשפה"
+
+#: admin/post-types/product.php:158 admin/post-types/shop_coupon.php:67
+msgid "Trash"
+msgstr "אשפה"
+
+#: admin/post-types/product.php:160 admin/post-types/shop_coupon.php:69
+msgid "Delete this item permanently"
+msgstr "מחוק פריט זה לצמיתות"
+
+#: admin/post-types/product.php:160 admin/post-types/shop_coupon.php:69
+#: admin/post-types/writepanels/writepanel-order_data.php:463
+msgid "Delete Permanently"
+msgstr "מחק לצמיתות"
+
+#: admin/post-types/product.php:165
+msgid "Preview &#8220;%s&#8221;"
+msgstr "תצוגה מקדימה \"% s\""
+
+#: admin/post-types/product.php:165
+msgid "Preview"
+msgstr "תצוגה מקדימה"
+
+#: admin/post-types/product.php:167
+msgid "View &#8220;%s&#8221;"
+msgstr "הצג את \"% s\""
+
+#: admin/post-types/product.php:167 admin/post-types/shop_order.php:171
+msgid "View"
+msgstr "צפייה"
+
+#: admin/post-types/product.php:214
+msgid "Grouped"
+msgstr "מקובצים"
+
+#: admin/post-types/product.php:216
+msgid "External/Affiliate"
+msgstr "חיצוניים / שותפים"
+
+#: admin/post-types/product.php:220 admin/post-types/product.php:407
+#: admin/post-types/writepanels/variation-admin-html.php:174
+#: admin/post-types/writepanels/writepanel-product_data.php:52
+msgid "Virtual"
+msgstr "וירטואלי"
+
+#: admin/post-types/product.php:222 admin/post-types/product.php:403
+#: admin/post-types/writepanels/variation-admin-html.php:172
+#: admin/post-types/writepanels/writepanel-product_data.php:58
+msgid "Downloadable"
+msgstr "להורדה"
+
+#: admin/post-types/product.php:224
+msgid "Simple"
+msgstr "פשוט"
+
+#: admin/post-types/product.php:228 admin/post-types/product.php:387
+msgid "Variable"
+msgstr "משתנה"
+
+#: admin/post-types/product.php:251
+msgid "Toggle featured"
+msgstr "שנה 'נבחרים'"
+
+#: admin/post-types/product.php:253
+msgid "yes"
+msgstr "כן"
+
+#: admin/post-types/product.php:255
+msgid "no"
+msgstr "לא"
+
+#: admin/post-types/product.php:262 admin/post-types/product.php:641
+#: admin/post-types/product.php:930
+#: admin/post-types/writepanels/writepanel-product_data.php:231
+msgid "In stock"
+msgstr "במלאי"
+
+#: admin/post-types/product.php:264 admin/post-types/product.php:642
+#: admin/post-types/product.php:931
+#: admin/post-types/writepanels/writepanel-product_data.php:232
+#: admin/woocommerce-admin-reports.php:2119
+msgid "Out of stock"
+msgstr "אזל מהמלאי"
+
+#: admin/post-types/product.php:373
+msgid "Show all product types"
+msgstr "הצג את כל סוגי המוצרים"
+
+#: admin/post-types/product.php:381
+#: admin/post-types/writepanels/writepanel-product_data.php:39
+msgid "Grouped product"
+msgstr "מוצר מקובץ"
+
+#: admin/post-types/product.php:383
+#: admin/post-types/writepanels/writepanel-product_data.php:40
+msgid "External/Affiliate product"
+msgstr "מוצר / שותפים חיצוני"
+
+#: admin/post-types/product.php:385
+#: admin/post-types/writepanels/writepanel-product_data.php:38
+msgid "Simple product"
+msgstr "מוצר פשוט"
+
+#: admin/post-types/product.php:399
+msgid "Show all sub-types"
+msgstr "הצג את כל תתי הסוגים"
+
+#: admin/post-types/product.php:520
+msgid "[%s with SKU of %s]"
+msgstr "[% S עם מק\"ט של% s]"
+
+#: admin/post-types/product.php:526
+msgid "[%s with ID of %d]"
+msgstr "[% S עם תעודת זהות של% D]"
+
+#: admin/post-types/product.php:552 admin/post-types/product.php:783
+#: admin/post-types/writepanels/writepanels-init.php:46
+#: admin/settings/settings-init.php:508
+msgid "Product Data"
+msgstr "הנתונים של מוצר"
+
+#: admin/post-types/product.php:570
+msgid "Regular price"
+msgstr "מחיר רגיל"
+
+#: admin/post-types/product.php:575 admin/post-types/product.php:813
+msgid "Sale"
+msgstr "מבצע"
+
+#: admin/post-types/product.php:577
+msgid "Sale price"
+msgstr "מחיר מבצע"
+
+#: admin/post-types/product.php:588 admin/post-types/product.php:839
+#: admin/post-types/writepanels/variation-admin-html.php:96
+#: admin/post-types/writepanels/writepanel-product-type-variable.php:84
+#: admin/post-types/writepanels/writepanel-product_data.php:273
+msgid "Weight"
+msgstr "משקל"
+
+#: admin/post-types/product.php:599 admin/post-types/product.php:863
+msgid "L/W/H"
+msgstr "L / W / H"
+
+#: admin/post-types/product.php:601 admin/post-types/product.php:879
+#: admin/post-types/writepanels/writepanel-product-type-variable.php:85
+#: admin/post-types/writepanels/writepanel-product_data.php:286
+msgid "Length"
+msgstr "אורך"
+
+#: admin/post-types/product.php:602 admin/post-types/product.php:880
+#: admin/post-types/writepanels/writepanel-product-type-variable.php:86
+#: admin/post-types/writepanels/writepanel-product_data.php:287
+#: admin/woocommerce-admin-settings.php:797
+msgid "Width"
+msgstr "רוחב"
+
+#: admin/post-types/product.php:603 admin/post-types/product.php:881
+#: admin/post-types/writepanels/writepanel-product-type-variable.php:87
+#: admin/post-types/writepanels/writepanel-product_data.php:288
+#: admin/woocommerce-admin-settings.php:799
+msgid "Height"
+msgstr "גובה"
+
+#: admin/post-types/product.php:613 admin/post-types/product.php:887
+msgid "Visibility"
+msgstr "נראות"
+
+#: admin/post-types/product.php:618 admin/post-types/product.php:893
+msgid "Catalog &amp; search"
+msgstr "קטלוג וחיפוש"
+
+#: admin/post-types/product.php:619 admin/post-types/product.php:894
+#: admin/post-types/writepanels/writepanel-product_data.php:1047
+#: admin/woocommerce-admin-content.php:46
+#: admin/woocommerce-admin-settings.php:183
+msgid "Catalog"
+msgstr "קטלוג"
+
+#: admin/post-types/product.php:620 admin/post-types/product.php:895
+#: admin/post-types/writepanels/writepanel-product_data.php:1048
+msgid "Search"
+msgstr "חפש"
+
+#: admin/post-types/product.php:621 admin/post-types/product.php:896
+#: admin/post-types/writepanels/writepanel-product_data.php:1049
+msgid "Hidden"
+msgstr "נסתר"
+
+#: admin/post-types/product.php:636 admin/post-types/product.php:924
+msgid "In stock?"
+msgstr "במלאי?"
+
+#: admin/post-types/product.php:657 admin/post-types/product.php:942
+#: admin/post-types/writepanels/writepanel-product_data.php:212
+msgid "Manage stock?"
+msgstr "ניהול מלאי?"
+
+#: admin/post-types/product.php:661 admin/post-types/product.php:961
+#: admin/post-types/product.php:977
+#: admin/post-types/writepanels/writepanel-product_data.php:219
+msgid "Stock Qty"
+msgstr "כמות מלאי"
+
+#: admin/post-types/product.php:794 admin/post-types/product.php:818
+#: admin/post-types/product.php:844 admin/post-types/product.php:868
+#: admin/post-types/product.php:892 admin/post-types/product.php:911
+#: admin/post-types/product.php:929 admin/post-types/product.php:947
+#: admin/post-types/product.php:966
+msgid "— No Change —"
+msgstr "- ללא שינוי -"
+
+#: admin/post-types/product.php:795 admin/post-types/product.php:819
+#: admin/post-types/product.php:845 admin/post-types/product.php:869
+#: admin/post-types/product.php:967
+msgid "Change to:"
+msgstr "שנה ל:"
+
+#: admin/post-types/product.php:796 admin/post-types/product.php:820
+msgid "Increase by (fixed amount or %):"
+msgstr "תגדל ב (סכום קבוע או%):"
+
+#: admin/post-types/product.php:797 admin/post-types/product.php:821
+msgid "Decrease by (fixed amount or %):"
+msgstr "ירידה של (סכום קבוע או%):"
+
+#: admin/post-types/product.php:807 admin/post-types/product.php:832
+msgid "Enter price"
+msgstr "הזן מחיר"
+
+#: admin/post-types/product.php:822
+msgid "Decrease regular price by (fixed amount or %):"
+msgstr "ירידת מחיר קבוע על ידי (סכום קבוע או%):"
+
+#: admin/post-types/product.php:912 admin/post-types/product.php:948
+#: admin/post-types/shop_order.php:190 admin/woocommerce-admin-status.php:122
+#: admin/woocommerce-admin-status.php:286
+msgid "Yes"
+msgstr "כן"
+
+#: admin/post-types/product.php:913 admin/post-types/product.php:949
+#: admin/post-types/shop_order.php:192 admin/woocommerce-admin-status.php:122
+#: admin/woocommerce-admin-status.php:286
+msgid "No"
+msgstr "לא"
+
+#: admin/post-types/product.php:1183
+msgid "Sort Products"
+msgstr "מיין מוצרים"
+
+#: admin/post-types/product.php:1222
+msgid "Insert into product"
+msgstr "הכנס לתוך המוצר"
+
+#: admin/post-types/product.php:1223
+msgid "Uploaded to this product"
+msgstr "הועלה למוצר"
+
+#: admin/post-types/shop_coupon.php:25
+msgid "Code"
+msgstr "קוד"
+
+#: admin/post-types/shop_coupon.php:26
+msgid "Coupon type"
+msgstr "סוג קופון"
+
+#: admin/post-types/shop_coupon.php:27
+#: admin/post-types/writepanels/writepanel-coupon_data.php:45
+msgid "Coupon amount"
+msgstr "סכום קופון"
+
+#: admin/post-types/shop_coupon.php:28
+msgid "Description"
+msgstr "תיאור"
+
+#: admin/post-types/shop_coupon.php:29
+msgid "Product IDs"
+msgstr "מזהה מוצר/ים"
+
+#: admin/post-types/shop_coupon.php:30
+msgid "Usage / Limit"
+msgstr "שימוש / הגבלה"
+
+#: admin/post-types/shop_coupon.php:31
+#: admin/post-types/writepanels/writepanel-coupon_data.php:158
+msgid "Expiry date"
+msgstr "תאריך תפוגה"
+
+#: admin/post-types/shop_coupon.php:56
+msgid "Edit coupon"
+msgstr "ערוך את הקופון"
+
+#: admin/post-types/shop_coupon.php:114
+msgid "%s / %s"
+msgstr "% S% s /"
+
+#: admin/post-types/shop_coupon.php:116
+msgid "%s / &infin;"
+msgstr "% S / ∞"
+
+#: admin/post-types/shop_coupon.php:149
+msgid "Show all types"
+msgstr "הצג את כל הסוגים"
+
+#: admin/post-types/shop_order.php:43
+#: admin/settings/settings-payment-gateways.php:29
+#: admin/settings/settings-shipping-methods.php:31
+msgid "Status"
+msgstr "סטטוס"
+
+#: admin/post-types/shop_order.php:44
+msgid "Order"
+msgstr "הזמנה"
+
+#: admin/post-types/shop_order.php:45
+msgid "Billing"
+msgstr "חיוב"
+
+#: admin/post-types/shop_order.php:46
+#: admin/post-types/writepanels/writepanel-order_data.php:539
+#: admin/post-types/writepanels/writepanel-product_data.php:81
+#: admin/settings/settings-tax-rates.php:52
+#: admin/settings/settings-tax-rates.php:217
+#: admin/woocommerce-admin-content.php:49
+#: admin/woocommerce-admin-settings.php:187
+msgid "Shipping"
+msgstr "משלוח"
+
+#: admin/post-types/shop_order.php:47
+msgid "Order Total"
+msgstr "סה\"כ הזמנה"
+
+#: admin/post-types/shop_order.php:48
+#: admin/post-types/writepanels/writepanels-init.php:71
+msgid "Order Notes"
+msgstr "הערות הזמנה"
+
+#: admin/post-types/shop_order.php:49
+msgid "Customer Notes"
+msgstr "הערות של לקוחות"
+
+#: admin/post-types/shop_order.php:51
+#: admin/post-types/writepanels/writepanel-order_data.php:386
+#: admin/post-types/writepanels/writepanel-order_data.php:433
+msgid "Actions"
+msgstr "פעולות"
+
+#: admin/post-types/shop_order.php:95
+#: admin/post-types/writepanels/writepanel-order_data.php:93
+msgid "Guest"
+msgstr "אורח"
+
+#: admin/post-types/shop_order.php:98
+msgid "Order %s"
+msgstr "סדר% s"
+
+#: admin/post-types/shop_order.php:98
+msgid "made by"
+msgstr "נעשה על ידי"
+
+#: admin/post-types/shop_order.php:101
+msgid "Email:"
+msgstr "דואר אלקטרוני:"
+
+#: admin/post-types/shop_order.php:104
+msgid "Tel:"
+msgstr "טל ':"
+
+#: admin/post-types/shop_order.php:114 admin/post-types/shop_order.php:123
+msgid "Via"
+msgstr "באמצעות"
+
+#: admin/post-types/shop_order.php:131
+msgid "Unpublished"
+msgstr "לא פורסם"
+
+#: admin/post-types/shop_order.php:133
+msgid "Y/m/d g:i:s A"
+msgstr "Y / M / D G: i: s"
+
+#: admin/post-types/shop_order.php:139
+msgid "%s ago"
+msgstr "% S לפני"
+
+#: admin/post-types/shop_order.php:141
+msgid "Y/m/d"
+msgstr "Y / M / D"
+
+#: admin/post-types/shop_order.php:158
+#: admin/woocommerce-admin-dashboard.php:176
+msgid "Processing"
+msgstr "מעובד"
+
+#: admin/post-types/shop_order.php:165
+msgid "Complete"
+msgstr "הושלם"
+
+#: admin/post-types/shop_order.php:282
+msgid "Show all statuses"
+msgstr "הצג את כל הסטטוסים"
+
+#: admin/post-types/shop_order.php:301 admin/post-types/shop_order.php:326
+msgid "Show all customers"
+msgstr "הצג את כל הלקוחות"
+
+#: admin/post-types/writepanels/order-download-permission-html.php:6
+msgid "Revoke Access"
+msgstr "בטל את הגישה"
+
+#: admin/post-types/writepanels/order-download-permission-html.php:7
+#: admin/post-types/writepanels/variation-admin-html.php:7
+#: admin/post-types/writepanels/writepanel-product_data.php:369
+#: admin/post-types/writepanels/writepanel-product_data.php:463
+#: admin/woocommerce-admin-init.php:439
+msgid "Click to toggle"
+msgstr "לחץ כדי לעבור"
+
+#: admin/post-types/writepanels/order-download-permission-html.php:9
+msgid "File %d: %s"
+msgstr "% D קובץ:% s"
+
+#: admin/post-types/writepanels/order-download-permission-html.php:9
+msgid "Downloaded %s time"
+msgid_plural "Downloaded %s times"
+msgstr[0] "הורידו % פעמים"
+msgstr[1] ""
+
+#: admin/post-types/writepanels/order-download-permission-html.php:16
+msgid "Downloads Remaining"
+msgstr "הורדות שנותרו"
+
+#: admin/post-types/writepanels/order-download-permission-html.php:19
+#: admin/post-types/writepanels/variation-admin-html.php:149
+#: admin/post-types/writepanels/variation-admin-html.php:157
+#: admin/post-types/writepanels/writepanel-product_data.php:158
+msgid "Unlimited"
+msgstr "בלתי מוגבל"
+
+#: admin/post-types/writepanels/order-download-permission-html.php:22
+msgid "Access Expires"
+msgstr "גישה פגה"
+
+#: admin/post-types/writepanels/order-download-permission-html.php:23
+#: admin/post-types/writepanels/writepanel-product_data.php:164
+msgid "Never"
+msgstr "מעולם לא"
+
+#: admin/post-types/writepanels/order-fee-html.php:10
+msgid "Fee Name"
+msgstr "שם תשלום"
+
+#: admin/post-types/writepanels/order-fee-html.php:17
+#: admin/post-types/writepanels/order-item-html.php:89
+msgid "Tax class"
+msgstr "סיווג מס"
+
+#: admin/post-types/writepanels/order-fee-html.php:19
+#: admin/post-types/writepanels/order-tax-html.php:8
+#: admin/post-types/writepanels/writepanel-order_data.php:561
+#: admin/post-types/writepanels/writepanel-order_data.php:666
+#: admin/woocommerce-admin-reports.php:1658
+#: admin/woocommerce-admin-reports.php:2671
+#: admin/woocommerce-admin-reports.php:2680
+#: admin/woocommerce-admin-users.php:90 admin/woocommerce-admin-users.php:112
+msgid "N/A"
+msgstr "N/A"
+
+#: admin/post-types/writepanels/order-fee-html.php:20
+#: admin/post-types/writepanels/writepanel-product_data.php:179
+msgid "Taxable"
+msgstr "חייב במס"
+
+#: admin/post-types/writepanels/order-fee-html.php:25
+#: admin/post-types/writepanels/order-item-html.php:96
+#: admin/post-types/writepanels/writepanel-product-type-variable.php:54
+#: admin/post-types/writepanels/writepanel-product_data.php:186
+#: admin/settings/settings-init.php:972
+#: admin/settings/settings-tax-rates.php:29
+#: admin/woocommerce-admin-settings.php:228
+msgid "Standard"
+msgstr "סטנדרט"
+
+#: admin/post-types/writepanels/order-fee-html.php:43
+#: admin/post-types/writepanels/order-item-html.php:115
+#: admin/woocommerce-admin-reports.php:1562
+#: admin/woocommerce-admin-reports.php:1615
+#: admin/woocommerce-admin-reports.php:2386
+#: admin/woocommerce-admin-reports.php:2555
+#: admin/woocommerce-admin-reports.php:2633
+msgid "Total"
+msgstr "סך הכל"
+
+#: admin/post-types/writepanels/order-item-html.php:10
+msgid "Product ID:"
+msgstr "מזהה מוצר:"
+
+#: admin/post-types/writepanels/order-item-html.php:13
+msgid "Variation ID:"
+msgstr "מזהה וריאציה:"
+
+#: admin/post-types/writepanels/order-item-html.php:16
+msgid "Product SKU:"
+msgstr "מק\"ט מוצר:"
+
+#: admin/post-types/writepanels/order-item-html.php:44
+msgid "Add&nbsp;meta"
+msgstr "הוסף מטא"
+
+#: admin/post-types/writepanels/order-item-html.php:117
+msgid "Subtotal"
+msgstr "סיכום ביניים"
+
+#: admin/post-types/writepanels/order-tax-html.php:6
+msgid "Tax Rate:"
+msgstr "שיעור מס:"
+
+#: admin/post-types/writepanels/order-tax-html.php:16
+#: admin/post-types/writepanels/writepanel-order_data.php:630
+msgid "Sales Tax:"
+msgstr "מס קנייה:"
+
+#: admin/post-types/writepanels/order-tax-html.php:20
+#: admin/post-types/writepanels/writepanel-order_data.php:638
+msgid "Shipping Tax:"
+msgstr "מס משלוח:"
+
+#: admin/post-types/writepanels/variation-admin-html.php:6
+#: admin/post-types/writepanels/writepanel-product_data.php:368
+#: admin/post-types/writepanels/writepanel-product_data.php:462
+#: admin/woocommerce-admin-init.php:438
+msgid "Remove"
+msgstr "הסר"
+
+#: admin/post-types/writepanels/variation-admin-html.php:20
+msgid "Any"
+msgstr "כל"
+
+#: admin/post-types/writepanels/variation-admin-html.php:52
+msgid ""
+"Enter a SKU for this variation or leave blank to use the parent product SKU."
+msgstr "הזן את מק\"ט עבור וריאציה זו או שאר ריק כדי להשתמש במוצר מק\"ט ההורה."
+
+#: admin/post-types/writepanels/variation-admin-html.php:63
+msgid "Stock Qty:"
+msgstr "כמות מלאי:"
+
+#: admin/post-types/writepanels/variation-admin-html.php:63
+msgid ""
+"Enter a quantity to enable stock management at variation level, or leave "
+"blank to use the parent product's options."
+msgstr ""
+"הזן את הכמות כדי לאפשר ניהול מלאי ברמת גיוון, או שאר ריק כדי להשתמש "
+"באפשרויות של מוצר הבכיר."
+
+#: admin/post-types/writepanels/variation-admin-html.php:72
+msgid "Regular Price:"
+msgstr "מחיר רגיל:"
+
+#: admin/post-types/writepanels/variation-admin-html.php:73
+msgid "Variation price (required)"
+msgstr "מחיר הווריאציה (חובה)"
+
+#: admin/post-types/writepanels/variation-admin-html.php:76
+msgid "Sale Price:"
+msgstr "מחיר מבצע:"
+
+#: admin/post-types/writepanels/variation-admin-html.php:76
+#: admin/post-types/writepanels/writepanel-product_data.php:125
+msgid "Schedule"
+msgstr "לוח זמנים"
+
+#: admin/post-types/writepanels/variation-admin-html.php:76
+msgid "Cancel schedule"
+msgstr "ביטול לוח זמנים"
+
+#: admin/post-types/writepanels/variation-admin-html.php:83
+msgid "Sale start date:"
+msgstr "תאריך תחילת המבצע"
+
+#: admin/post-types/writepanels/variation-admin-html.php:84
+#: admin/post-types/writepanels/writepanel-product_data.php:136
+msgctxt "placeholder"
+msgid "From&hellip;"
+msgstr "מ ..."
+
+#: admin/post-types/writepanels/variation-admin-html.php:87
+msgid "Sale end date:"
+msgstr "תאריך סיום המבצע:"
+
+#: admin/post-types/writepanels/variation-admin-html.php:88
+#: admin/post-types/writepanels/writepanel-product_data.php:137
+msgctxt "placeholder"
+msgid "To&hellip;"
+msgstr "אל ..."
+
+#: admin/post-types/writepanels/variation-admin-html.php:96
+msgid ""
+"Enter a weight for this variation or leave blank to use the parent product "
+"weight."
+msgstr "הזן משקל עבור וריאציה זו או השאר ריק כדי להשתמש במשקל ממוצר בכיר."
+
+#: admin/post-types/writepanels/variation-admin-html.php:104
+msgid "Dimensions (L&times;W&times;H)"
+msgstr "מידות (L × W × H)"
+
+#: admin/post-types/writepanels/variation-admin-html.php:115
+msgid "Shipping class:"
+msgstr "סיווג משלוח:"
+
+#: admin/post-types/writepanels/variation-admin-html.php:119
+#: admin/post-types/writepanels/writepanel-product-type-variable.php:53
+msgid "Same as parent"
+msgstr "כמו בכיר"
+
+#: admin/post-types/writepanels/variation-admin-html.php:130
+msgid "Tax class:"
+msgstr "סיווג מס:"
+
+#: admin/post-types/writepanels/variation-admin-html.php:141
+msgid "File paths:"
+msgstr "נתיבי קובץ:"
+
+#: admin/post-types/writepanels/variation-admin-html.php:141
+msgid ""
+"Enter one or more File Paths, one per line, to make this variation a "
+"downloadable product, or leave blank."
+msgstr ""
+"הזן אחד או יותר נתיבי קבצים, אחד בכל שורה, כדי להפוך את הווריאציה זו מוצר "
+"להורדה, או השאר ריק."
+
+#: admin/post-types/writepanels/variation-admin-html.php:142
+#: admin/post-types/writepanels/writepanel-product_data.php:153
+msgid "File paths/URLs, one per line"
+msgstr "נתיבי קבצים / כתובות, אחת בכל שורה"
+
+#: admin/post-types/writepanels/variation-admin-html.php:143
+#: admin/post-types/writepanels/writepanel-product_data.php:154
+msgid "Choose a file"
+msgstr "בחר קובץ"
+
+#: admin/post-types/writepanels/variation-admin-html.php:143
+msgid "Upload"
+msgstr "העלאה"
+
+#: admin/post-types/writepanels/variation-admin-html.php:143
+#: admin/post-types/writepanels/writepanel-product_data.php:154
+msgid "Insert file URL"
+msgstr "הכנס כתובת URL לקובץ"
+
+#: admin/post-types/writepanels/variation-admin-html.php:148
+msgid "Download Limit:"
+msgstr "מגבלת הורדה:"
+
+#: admin/post-types/writepanels/variation-admin-html.php:148
+#: admin/post-types/writepanels/writepanel-product_data.php:158
+msgid "Leave blank for unlimited re-downloads."
+msgstr "השאר ריק להסרת הגבלה על הורדות מחדש"
+
+#: admin/post-types/writepanels/variation-admin-html.php:156
+msgid "Download Expiry:"
+msgstr "תפוגת הורדה:"
+
+#: admin/post-types/writepanels/variation-admin-html.php:156
+#: admin/post-types/writepanels/writepanel-product_data.php:164
+msgid ""
+"Enter the number of days before a download link expires, or leave blank."
+msgstr "הזן את מספר הימים לפני שיפוג קישור להורדה, או להשאיר ריק."
+
+#: admin/post-types/writepanels/variation-admin-html.php:170
+msgid "Enabled"
+msgstr "מופעל"
+
+#: admin/post-types/writepanels/variation-admin-html.php:172
+msgid ""
+"Enable this option if access is given to a downloadable file upon purchase "
+"of a product"
+msgstr "הפעל אפשרות זו אם הגישה ניתנת להורדת קובץ ברכישת מוצר"
+
+#: admin/post-types/writepanels/variation-admin-html.php:174
+msgid ""
+"Enable this option if a product is not shipped or there is no shipping cost"
+msgstr "הפעל אפשרות זו אם מוצר לא נשלח או שאין עלות משלוח"
+
+#: admin/post-types/writepanels/writepanel-coupon_data.php:37
+msgid "Coupon description"
+msgstr "תיאור קופון"
+
+#: admin/post-types/writepanels/writepanel-coupon_data.php:37
+msgid "Optionally enter a description for this coupon for your reference."
+msgstr "לחלופין להזין תיאור לקופון זה לעיונך."
+
+#: admin/post-types/writepanels/writepanel-coupon_data.php:42
+msgid "Discount type"
+msgstr "סוג הנחה"
+
+#: admin/post-types/writepanels/writepanel-coupon_data.php:45
+msgid "Value of the coupon."
+msgstr "ערך של הקופון."
+
+#: admin/post-types/writepanels/writepanel-coupon_data.php:51
+msgid "Enable free shipping"
+msgstr "אפשר משלוח חינם"
+
+#: admin/post-types/writepanels/writepanel-coupon_data.php:51
+msgid ""
+"Check this box if the coupon grants free shipping. The <a href=\"%s\">free "
+"shipping method</a> must be enabled with the \"must use coupon\" setting "
+"checked."
+msgstr ""
+"סמנו תיבה זו אם הקופון מעניק משלוח חינם. שיטת המשלוח חינם href=\"%s\"> </ a> "
+"חייב לסמן \"חייב להשתמש בקופון\" ."
+
+#: admin/post-types/writepanels/writepanel-coupon_data.php:54
+msgid "Individual use"
+msgstr "שימוש אישי"
+
+#: admin/post-types/writepanels/writepanel-coupon_data.php:54
+msgid ""
+"Check this box if the coupon cannot be used in conjunction with other "
+"coupons."
+msgstr "סמנו תיבה זו אם לא ניתן להשתמש בשילוב של קופון זה עם קופונים אחרים."
+
+#: admin/post-types/writepanels/writepanel-coupon_data.php:57
+msgid "Apply before tax"
+msgstr "החל לפני המס"
+
+#: admin/post-types/writepanels/writepanel-coupon_data.php:57
+msgid ""
+"Check this box if the coupon should be applied before calculating cart tax."
+msgstr "סמנו תיבה זו אם הקופון צריך להיות מיושם לפני חישוב מס סל קניות."
+
+#: admin/post-types/writepanels/writepanel-coupon_data.php:60
+msgid "Exclude sale items"
+msgstr "אל תכלול פריטים במבצע"
+
+#: admin/post-types/writepanels/writepanel-coupon_data.php:60
+msgid ""
+"Check this box if the coupon should not apply to items on sale. Per-item "
+"coupons will only work if the item is not on sale. Per-cart coupons will "
+"only work if there are no sale items in the cart."
+msgstr ""
+"סמנו תיבה זו אם הקופון לא יחול על פריטים במבצע.קופונים לפריטים מסויימים "
+"יעבדו רק אם הפריט אינו במבצע. קופונים לכל סל הקניות יעבדו רק אם אין פריטים "
+"בסל פריטים במבצע."
+
+#: admin/post-types/writepanels/writepanel-coupon_data.php:65
+msgid "Minimum amount"
+msgstr "סכום מינימאלי"
+
+#: admin/post-types/writepanels/writepanel-coupon_data.php:65
+msgid "No minimum"
+msgstr "אין מינימום"
+
+#: admin/post-types/writepanels/writepanel-coupon_data.php:65
+msgid ""
+"This field allows you to set the minimum subtotal needed to use the coupon."
+msgstr ""
+"שדה זה מאפשר לך להגדיר את סכום הביניים המינימאלי הדרוש כדי להשתמש בקופון."
+
+#: admin/post-types/writepanels/writepanel-coupon_data.php:74
+#: admin/woocommerce-admin-taxonomies.php:28
+#: admin/woocommerce-admin-taxonomies.php:122
+msgid "Products"
+msgstr "מוצרים"
+
+#: admin/post-types/writepanels/writepanel-coupon_data.php:75
+#: admin/post-types/writepanels/writepanel-order_data.php:400
+#: admin/post-types/writepanels/writepanel-product_data.php:523
+#: admin/post-types/writepanels/writepanel-product_data.php:540
+#: admin/woocommerce-admin-reports.php:1245
+msgid "Search for a product&hellip;"
+msgstr "חפש את מוצר ..."
+
+#: admin/post-types/writepanels/writepanel-coupon_data.php:89
+msgid ""
+"Products which need to be in the cart to use this coupon or, for \"Product "
+"Discounts\", which products are discounted."
+msgstr ""
+"מוצרים אשר צריכים להיות בסל לשימוש קופון זה או, עבור \"מוצר\" הנחות, שמוצרים "
+"מוזלים."
+
+#: admin/post-types/writepanels/writepanel-coupon_data.php:94
+msgid "Exclude products"
+msgstr "הוצא מוצרים"
+
+#: admin/post-types/writepanels/writepanel-coupon_data.php:95
+msgid "Search for a product…"
+msgstr "חפש את מוצר ..."
+
+#: admin/post-types/writepanels/writepanel-coupon_data.php:109
+msgid ""
+"Products which must not be in the cart to use this coupon or, for \"Product "
+"Discounts\", which products are not discounted."
+msgstr ""
+"מוצרים שלא חייב להיות בסל לשימוש קופון זה או, עבור \"מוצר\" הנחות, שמוצרים "
+"לא מוזלים."
+
+#: admin/post-types/writepanels/writepanel-coupon_data.php:116
+msgid "Product categories"
+msgstr "קטגוריות מוצר"
+
+#: admin/post-types/writepanels/writepanel-coupon_data.php:117
+msgid "Any category"
+msgstr "כל קטגוריה"
+
+#: admin/post-types/writepanels/writepanel-coupon_data.php:125
+msgid ""
+"A product must be in this category for the coupon to remain valid or, for "
+"\"Product Discounts\", products in these categories will be discounted."
+msgstr ""
+"מוצר חייב להיות בקטגוריה זו כדי שהקופון יהיה בתוקף או, עבור \"הנחות\" למוצר, "
+"מוצרים בקטגוריות אלה יהיו מוזלים."
+
+#: admin/post-types/writepanels/writepanel-coupon_data.php:130
+msgid "Exclude categories"
+msgstr "תכלול קטגוריות"
+
+#: admin/post-types/writepanels/writepanel-coupon_data.php:131
+msgid "No categories"
+msgstr "אין קטגוריות"
+
+#: admin/post-types/writepanels/writepanel-coupon_data.php:139
+msgid ""
+"Product must not be in this category for the coupon to remain valid or, for "
+"\"Product Discounts\", products in these categories will not be discounted."
+msgstr ""
+"מוצר לא חייב להיות בקטגוריה זו בכדי שהקופון יהיה בתוקף או, עבור \"הנחות\" "
+"במוצר, מוצרים בקטגוריות אלה לא יהיו מוזלים."
+
+#: admin/post-types/writepanels/writepanel-coupon_data.php:145
+msgid "Email restrictions"
+msgstr "הגבלות אימייל"
+
+#: admin/post-types/writepanels/writepanel-coupon_data.php:145
+msgid "No restrictions"
+msgstr "אין הגבלות"
+
+#: admin/post-types/writepanels/writepanel-coupon_data.php:145
+msgid ""
+"List of emails to check against the customer's billing email when an order "
+"is placed."
+msgstr ""
+"רשימה של הודעות דוא\"ל כדי לבצע השוואה כאשר הזמנה נכנסת מול הדואר האלקטרוני "
+"לחיוב של הלקוח."
+
+#: admin/post-types/writepanels/writepanel-coupon_data.php:152
+msgid "Usage limit"
+msgstr "מגבלת שימוש"
+
+#: admin/post-types/writepanels/writepanel-coupon_data.php:152
+msgctxt "placeholder"
+msgid "Unlimited usage"
+msgstr "שימוש בלתי מוגבל"
+
+#: admin/post-types/writepanels/writepanel-coupon_data.php:152
+msgid "How many times this coupon can be used before it is void."
+msgstr "מספר הפעמים שניתן להשתמש בקופון הזה לפני שהוא מבוטל."
+
+#: admin/post-types/writepanels/writepanel-coupon_data.php:158
+msgctxt "placeholder"
+msgid "Never expire"
+msgstr "אף פעם לא תפוג"
+
+#: admin/post-types/writepanels/writepanel-coupon_data.php:158
+msgid "The date this coupon will expire, <code>YYYY-MM-DD</code>."
+msgstr "קופון זה יפוג בתאריך, </ code> YYYY-MM-DD <code>."
+
+#: admin/post-types/writepanels/writepanel-coupon_data.php:195
+msgid ""
+"Coupon code already exists - customers will use the latest coupon with this "
+"code."
+msgstr "קוד קופון כבר קיים - לקוחות ישתמשו בקופון האחרון עם הקוד הזה."
+
+#: admin/post-types/writepanels/writepanel-order_data.php:59
+msgid "Order Details"
+msgstr "פרטי הזמנה"
+
+#: admin/post-types/writepanels/writepanel-order_data.php:62
+msgid "Order number"
+msgstr "מספר הזמנה"
+
+#: admin/post-types/writepanels/writepanel-order_data.php:67
+msgid "Customer IP:"
+msgstr "IP לקוח:"
+
+#: admin/post-types/writepanels/writepanel-order_data.php:74
+msgid "General Details"
+msgstr "פרטים כלליים"
+
+#: admin/post-types/writepanels/writepanel-order_data.php:76
+msgid "Order status:"
+msgstr "מצב הזמנה:"
+
+#: admin/post-types/writepanels/writepanel-order_data.php:86
+msgid "Order Date:"
+msgstr "תאריך הזמנה"
+
+#: admin/post-types/writepanels/writepanel-order_data.php:87
+msgid "h"
+msgstr "שעות"
+
+#: admin/post-types/writepanels/writepanel-order_data.php:87
+#: admin/settings/settings-init.php:567
+msgid "m"
+msgstr "דק"
+
+#: admin/post-types/writepanels/writepanel-order_data.php:91
+msgid "Customer:"
+msgstr "לקוח:"
+
+#: admin/post-types/writepanels/writepanel-order_data.php:131
+msgid "Customer Note:"
+msgstr "הערת לקוח:"
+
+#: admin/post-types/writepanels/writepanel-order_data.php:132
+msgid "Customer's notes about the order"
+msgstr "הערות לקוח עבור ההזמנה"
+
+#: admin/post-types/writepanels/writepanel-order_data.php:140
+msgid "Billing Details"
+msgstr "פרטי חיוב"
+
+#: admin/post-types/writepanels/writepanel-order_data.php:144
+#: admin/post-types/writepanels/writepanel-order_data.php:234
+msgid "First Name"
+msgstr "שם פרטי"
+
+#: admin/post-types/writepanels/writepanel-order_data.php:148
+#: admin/post-types/writepanels/writepanel-order_data.php:238
+msgid "Last Name"
+msgstr "שם משפחה"
+
+#: admin/post-types/writepanels/writepanel-order_data.php:152
+#: admin/post-types/writepanels/writepanel-order_data.php:242
+#: admin/woocommerce-admin-users.php:155 admin/woocommerce-admin-users.php:204
+msgid "Company"
+msgstr "חברה"
+
+#: admin/post-types/writepanels/writepanel-order_data.php:156
+#: admin/post-types/writepanels/writepanel-order_data.php:246
+#: admin/woocommerce-admin-users.php:159 admin/woocommerce-admin-users.php:208
+msgid "Address 1"
+msgstr "כתובת 1"
+
+#: admin/post-types/writepanels/writepanel-order_data.php:160
+#: admin/post-types/writepanels/writepanel-order_data.php:250
+#: admin/woocommerce-admin-users.php:163 admin/woocommerce-admin-users.php:212
+msgid "Address 2"
+msgstr "כתובת 2"
+
+#: admin/post-types/writepanels/writepanel-order_data.php:164
+#: admin/post-types/writepanels/writepanel-order_data.php:254
+#: admin/settings/settings-tax-rates.php:42
+#: admin/settings/settings-tax-rates.php:217
+#: admin/woocommerce-admin-users.php:167 admin/woocommerce-admin-users.php:216
+msgid "City"
+msgstr "עיר"
+
+#: admin/post-types/writepanels/writepanel-order_data.php:168
+#: admin/post-types/writepanels/writepanel-order_data.php:258
+#: admin/woocommerce-admin-users.php:171 admin/woocommerce-admin-users.php:220
+msgid "Postcode"
+msgstr "מיקוד"
+
+#: admin/post-types/writepanels/writepanel-order_data.php:172
+#: admin/post-types/writepanels/writepanel-order_data.php:262
+#: admin/woocommerce-admin-users.php:179 admin/woocommerce-admin-users.php:228
+msgid "Country"
+msgstr "מדינה"
+
+#: admin/post-types/writepanels/writepanel-order_data.php:175
+#: admin/post-types/writepanels/writepanel-order_data.php:265
+msgid "Select a country&hellip;"
+msgstr "בחר מדינה ..."
+
+#: admin/post-types/writepanels/writepanel-order_data.php:178
+#: admin/post-types/writepanels/writepanel-order_data.php:268
+#: admin/woocommerce-admin-users.php:175 admin/woocommerce-admin-users.php:224
+msgid "State/County"
+msgstr "מדינה / מחוז"
+
+#: admin/post-types/writepanels/writepanel-order_data.php:182
+#: admin/woocommerce-admin-users.php:187
+msgid "Email"
+msgstr "דוא\"ל"
+
+#: admin/post-types/writepanels/writepanel-order_data.php:185
+msgid "Phone"
+msgstr "טלפון"
+
+#: admin/post-types/writepanels/writepanel-order_data.php:193
+#: admin/post-types/writepanels/writepanel-order_data.php:195
+#: admin/post-types/writepanels/writepanel-order_data.php:277
+#: admin/post-types/writepanels/writepanel-order_data.php:279
+msgid "Address"
+msgstr "כתובת"
+
+#: admin/post-types/writepanels/writepanel-order_data.php:195
+msgid "No billing address set."
+msgstr "לא נקבעה כתובת לחיוב."
+
+#: admin/post-types/writepanels/writepanel-order_data.php:208
+msgid "Load billing address"
+msgstr "כתובת חיוב עומס"
+
+#: admin/post-types/writepanels/writepanel-order_data.php:230
+msgid "Shipping Details"
+msgstr "פרטי משלוח"
+
+#: admin/post-types/writepanels/writepanel-order_data.php:279
+msgid "No shipping address set."
+msgstr "כתובת למשלוח לא מוגדרת."
+
+#: admin/post-types/writepanels/writepanel-order_data.php:292
+msgid "Load shipping address"
+msgstr "טען את הכתובת למשלוח"
+
+#: admin/post-types/writepanels/writepanel-order_data.php:292
+msgid "Copy from billing"
+msgstr "העתק מחיוב"
+
+#: admin/post-types/writepanels/writepanel-order_data.php:339
+msgid "Item"
+msgstr "פריט"
+
+#: admin/post-types/writepanels/writepanel-order_data.php:344
+#: admin/post-types/writepanels/writepanel-product_data.php:191
+#: admin/settings/settings-tax-rates.php:217
+msgid "Tax Class"
+msgstr "סיווג מס"
+
+#: admin/post-types/writepanels/writepanel-order_data.php:344
+msgid "Tax class for the line item"
+msgstr "סיווג מס עבור שורת פריט"
+
+#: admin/post-types/writepanels/writepanel-order_data.php:347
+msgid "Qty"
+msgstr "כמות"
+
+#: admin/post-types/writepanels/writepanel-order_data.php:349
+msgid "Cost"
+msgstr "עלות"
+
+#: admin/post-types/writepanels/writepanel-order_data.php:349
+msgid "Line subtotals are before pre-tax discounts, totals are after."
+msgstr "סכומי ביניים הן לפני הנחות לפני-מס, סכומים מופעיר לאחר מכן"
+
+#: admin/post-types/writepanels/writepanel-order_data.php:352
+#: admin/settings/settings-tax-rates.php:387
+#: admin/settings/settings-tax-rates.php:475
+#: admin/woocommerce-admin-content.php:48
+#: admin/woocommerce-admin-settings.php:186
+msgid "Tax"
+msgstr "מס"
+
+#: admin/post-types/writepanels/writepanel-order_data.php:388
+msgid "Delete Lines"
+msgstr "מחק את הקווים"
+
+#: admin/post-types/writepanels/writepanel-order_data.php:390
+msgid "Stock Actions"
+msgstr "פעולות מלאי"
+
+#: admin/post-types/writepanels/writepanel-order_data.php:391
+msgid "Reduce Line Stock"
+msgstr "הפחת קו מלאי"
+
+#: admin/post-types/writepanels/writepanel-order_data.php:392
+msgid "Increase Line Stock"
+msgstr "הגדל את קו המלאי"
+
+#: admin/post-types/writepanels/writepanel-order_data.php:396
+#: admin/post-types/writepanels/writepanel-order_data.php:456
+msgid "Apply"
+msgstr "יישם"
+
+#: admin/post-types/writepanels/writepanel-order_data.php:402
+msgid "Add item(s)"
+msgstr "הוסף פריט (ים)"
+
+#: admin/post-types/writepanels/writepanel-order_data.php:403
+msgid "Add fee"
+msgstr "הוסף תשלום"
+
+#: admin/post-types/writepanels/writepanel-order_data.php:434
+msgid "Resend order emails"
+msgstr "שלח שוב את דוא\"ל/ים ההזמנות"
+
+#: admin/post-types/writepanels/writepanel-order_data.php:465
+msgid "Move to Trash"
+msgstr "העבר לאשפה"
+
+#: admin/post-types/writepanels/writepanel-order_data.php:470
+msgid "Save Order"
+msgstr "שמור הזמנה"
+
+#: admin/post-types/writepanels/writepanel-order_data.php:470
+msgid "Save/update the order"
+msgstr "שמור / עדכן את ההזמנה"
+
+#: admin/post-types/writepanels/writepanel-order_data.php:498
+msgid "Discounts"
+msgstr "הנחות"
+
+#: admin/post-types/writepanels/writepanel-order_data.php:502
+msgid "Cart Discount:"
+msgstr "הנחות סל קניות:"
+
+#: admin/post-types/writepanels/writepanel-order_data.php:502
+msgid "Discounts before tax - calculated by comparing subtotals to totals."
+msgstr "הנחות לפני מס - מחושב על ידי השוואת סכומי ביניים לסך הכל."
+
+#: admin/post-types/writepanels/writepanel-order_data.php:510
+msgid "Order Discount:"
+msgstr "הנחות הזמנה:"
+
+#: admin/post-types/writepanels/writepanel-order_data.php:510
+msgid "Discounts after tax - user defined."
+msgstr "הנחות לאחר מס - מוגדר על ידי משתמש."
+
+#: admin/post-types/writepanels/writepanel-order_data.php:543
+msgid "Label:"
+msgstr "תווית:"
+
+#: admin/post-types/writepanels/writepanel-order_data.php:544
+msgid "The shipping title the customer sees"
+msgstr "כותרת משלוח שהלקוח רואה"
+
+#: admin/post-types/writepanels/writepanel-order_data.php:551
+msgid "Cost:"
+msgstr "עלות:"
+
+#: admin/post-types/writepanels/writepanel-order_data.php:552
+msgid "(ex. tax)"
+msgstr "(דוגמא מס)"
+
+#: admin/post-types/writepanels/writepanel-order_data.php:559
+msgid "Method:"
+msgstr "שיטה:"
+
+#: admin/post-types/writepanels/writepanel-order_data.php:581
+#: admin/post-types/writepanels/writepanel-order_data.php:583
+#: admin/post-types/writepanels/writepanel-order_data.php:682
+#: admin/post-types/writepanels/writepanel-order_data.php:684
+msgid "Other"
+msgstr "אחר"
+
+#: admin/post-types/writepanels/writepanel-order_data.php:597
+msgid "Tax Rows"
+msgstr "שורות מס"
+
+#: admin/post-types/writepanels/writepanel-order_data.php:622
+msgid "+ Add tax row"
+msgstr "+ הוסף שורת מס"
+
+#: admin/post-types/writepanels/writepanel-order_data.php:622
+msgid ""
+"These rows contain taxes for this order. This allows you to display multiple "
+"or compound taxes rather than a single total."
+msgstr ""
+"שורות אלה מכילים מסים להזמנה זה. זה מאפשר לך להציג את מס' סוגי מסים במקום "
+"שורת סיכום אחת."
+
+#: admin/post-types/writepanels/writepanel-order_data.php:626
+msgid "Tax Totals"
+msgstr "סה\"כ מס"
+
+#: admin/post-types/writepanels/writepanel-order_data.php:630
+msgid "Total tax for line items + fees."
+msgstr "מס הכולל לפריטי שורה + עמלות."
+
+#: admin/post-types/writepanels/writepanel-order_data.php:652
+#: admin/post-types/writepanels/writepanels-init.php:70
+msgid "Order Totals"
+msgstr "סיכום הזמנות"
+
+#: admin/post-types/writepanels/writepanel-order_data.php:656
+msgid "Order Total:"
+msgstr "סה\"כ הזמנה:"
+
+#: admin/post-types/writepanels/writepanel-order_data.php:664
+msgid "Payment Method:"
+msgstr "שיטת תשלום:"
+
+#: admin/post-types/writepanels/writepanel-order_data.php:695
+msgid "Calc taxes"
+msgstr "חשב מיסים"
+
+#: admin/post-types/writepanels/writepanel-order_data.php:697
+msgid "Calc totals"
+msgstr "חשב סכומים"
+
+#: admin/post-types/writepanels/writepanel-order_downloads.php:57
+msgid "Choose a downloadable product&hellip;"
+msgstr "בחר מוצר להורדה ..."
+
+#: admin/post-types/writepanels/writepanel-order_downloads.php:87
+msgid "Grant Access"
+msgstr "אשר גישה"
+
+#: admin/post-types/writepanels/writepanel-order_downloads.php:125
+msgid ""
+"Could not grant access - the user may already have permission for this file "
+"or billing email is not set. Ensure the billing email is set, and the order "
+"has been saved."
+msgstr ""
+"לא הייתה אפשרות להעניק למשתמש גישה - ייתכן שלמשתמש יש כבר אישור לקובץ הזה או "
+"שדוא\"ל החיוב אינו מוגדר. אנא ודא כי דוא\"ל החיוב מוגדרת, ושההזמנה נשמרה."
+
+#: admin/post-types/writepanels/writepanel-order_downloads.php:148
+msgid "Are you sure you want to revoke access to this download?"
+msgstr "האם אתה בטוח שאתה רוצה לבטל את הגישה להורדה זו?"
+
+#: admin/post-types/writepanels/writepanel-order_notes.php:44
+msgid "added %s ago"
+msgstr "הוספה לפני % s"
+
+#: admin/post-types/writepanels/writepanel-order_notes.php:44
+msgid "Delete note"
+msgstr "מחק הערה"
+
+#: admin/post-types/writepanels/writepanel-order_notes.php:50
+msgid "There are no notes for this order yet."
+msgstr "אין הערות להזמנה הזו כרגע"
+
+#: admin/post-types/writepanels/writepanel-order_notes.php:56
+msgid "Add note"
+msgstr "הוסף הערה"
+
+#: admin/post-types/writepanels/writepanel-order_notes.php:56
+msgid ""
+"Add a note for your reference, or add a customer note (the user will be "
+"notified)."
+msgstr "הוסף הערה לעיונך, או הוסף הערה ללקוח (המשתמש יקבל הודעה)."
+
+#: admin/post-types/writepanels/writepanel-order_notes.php:62
+msgid "Customer note"
+msgstr "הערת לקוח"
+
+#: admin/post-types/writepanels/writepanel-order_notes.php:63
+msgid "Private note"
+msgstr "הערה פרטית"
+
+#: admin/post-types/writepanels/writepanel-order_notes.php:65
+#: admin/post-types/writepanels/writepanel-product_data.php:501
+msgid "Add"
+msgstr "הוסף"
+
+#: admin/post-types/writepanels/writepanel-product-type-variable.php:23
+msgid "Variations for variable products are defined here."
+msgstr "וריאציות למוצרים משתנים מוגדרות כאן."
+
+#: admin/post-types/writepanels/writepanel-product-type-variable.php:23
+msgid "Variations"
+msgstr "וריאציות"
+
+#: admin/post-types/writepanels/writepanel-product-type-variable.php:65
+msgid ""
+"Before adding variations, add and save some attributes on the "
+"<strong>Attributes</strong> tab."
+msgstr ""
+"לפני הוספת וריאציות,הוסף ושמור כמה תכונות על תכונות <strong> תכונות </ "
+"strong>."
+
+#: admin/post-types/writepanels/writepanel-product-type-variable.php:67
+msgid "Learn more"
+msgstr "מידע נוסף"
+
+#: admin/post-types/writepanels/writepanel-product-type-variable.php:74
+#: admin/post-types/writepanels/writepanel-product_data.php:329
+msgid "Close all"
+msgstr "סגור הכל"
+
+#: admin/post-types/writepanels/writepanel-product-type-variable.php:74
+#: admin/post-types/writepanels/writepanel-product_data.php:329
+msgid "Expand all"
+msgstr "הרחב הכל"
+
+#: admin/post-types/writepanels/writepanel-product-type-variable.php:75
+msgid "Bulk edit:"
+msgstr "עריכה בכמות גדולה:"
+
+#: admin/post-types/writepanels/writepanel-product-type-variable.php:77
+msgid "Toggle &quot;Enabled&quot;"
+msgstr "שנה למצב \"הפעלה\""
+
+#: admin/post-types/writepanels/writepanel-product-type-variable.php:78
+msgid "Toggle &quot;Downloadable&quot;"
+msgstr "שנה למצב \"הורדה\""
+
+#: admin/post-types/writepanels/writepanel-product-type-variable.php:79
+msgid "Toggle &quot;Virtual&quot;"
+msgstr "שנה למצב \"וירטואלי\""
+
+#: admin/post-types/writepanels/writepanel-product-type-variable.php:80
+msgid "Delete all variations"
+msgstr "מחק את כל הווריאציות"
+
+#: admin/post-types/writepanels/writepanel-product-type-variable.php:81
+msgid "Prices"
+msgstr "מחירים"
+
+#: admin/post-types/writepanels/writepanel-product-type-variable.php:82
+msgid "Sale prices"
+msgstr "מחירי מכירה"
+
+#: admin/post-types/writepanels/writepanel-product-type-variable.php:88
+msgid "File Path"
+msgstr "נתיב קובץ"
+
+#: admin/post-types/writepanels/writepanel-product-type-variable.php:89
+msgid "Download limit"
+msgstr "הגבלת הורדה"
+
+#: admin/post-types/writepanels/writepanel-product-type-variable.php:90
+#: admin/post-types/writepanels/writepanel-product_data.php:164
+msgid "Download Expiry"
+msgstr "תפוגת הורדה"
+
+#: admin/post-types/writepanels/writepanel-product-type-variable.php:93
+msgid "Go"
+msgstr "המשך"
+
+#: admin/post-types/writepanels/writepanel-product-type-variable.php:193
+msgid "Add Variation"
+msgstr "הוסף וריאציה"
+
+#: admin/post-types/writepanels/writepanel-product-type-variable.php:195
+msgid "Link all variations"
+msgstr "קשר את כל הווריאציות"
+
+#: admin/post-types/writepanels/writepanel-product-type-variable.php:197
+msgid "Default selections:"
+msgstr "אפשרויות ברירת מחדל:"
+
+#: admin/post-types/writepanels/writepanel-product-type-variable.php:210
+msgid "No default"
+msgstr "ללא ברירת מחדל"
+
+#: admin/post-types/writepanels/writepanel-product-type-variable.php:299
+msgid ""
+"Are you sure you want to link all variations? This will create a new "
+"variation for each and every possible combination of variation attributes "
+"(max 50 per run)."
+msgstr ""
+"האם אתה בטוח שברצונך לקשר את כל הווריאציות? פעולה זו תיצור וריאציה חדשה ולכל "
+"שילוב אפשרי של תכונות (מקסימום 50 לריצה)."
+
+#: admin/post-types/writepanels/writepanel-product-type-variable.php:316
+msgid "variation added"
+msgstr "וריאציה הוספה"
+
+#: admin/post-types/writepanels/writepanel-product-type-variable.php:318
+msgid "variations added"
+msgstr "וריאציות הוספו"
+
+#: admin/post-types/writepanels/writepanel-product-type-variable.php:320
+msgid "No variations added"
+msgstr "לא התווספו וריאציות"
+
+#: admin/post-types/writepanels/writepanel-product-type-variable.php:343
+msgid "Are you sure you want to remove this variation?"
+msgstr "האם אתה בטוח שברצונך להסיר את הווריאציה הזו?"
+
+#: admin/post-types/writepanels/writepanel-product-type-variable.php:399
+msgid "Are you sure you want to delete all variations? This cannot be undone."
+msgstr "האם אתה בטוח שברצונך למחוק את כל הווריאציות? לא ניתן לשחזר את הנתונים."
+
+#: admin/post-types/writepanels/writepanel-product-type-variable.php:402
+msgid "Last warning, are you sure?"
+msgstr "אזהרה אחרונה, האם אתה בטוח?"
+
+#: admin/post-types/writepanels/writepanel-product-type-variable.php:439
+msgid "Enter a value"
+msgstr "הזן ערך"
+
+#: admin/post-types/writepanels/writepanel-product-type-variable.php:517
+#: admin/woocommerce-admin-taxonomies.php:62
+#: admin/woocommerce-admin-taxonomies.php:154
+msgid "Choose an image"
+msgstr "בחר תמונה"
+
+#: admin/post-types/writepanels/writepanel-product-type-variable.php:519
+msgid "Set variation image"
+msgstr "הגדר תמונה לוריאציה"
+
+#: admin/post-types/writepanels/writepanel-product-type-variable.php:563
+msgid "Variable product"
+msgstr "מוצר משתנה"
+
+#: admin/post-types/writepanels/writepanel-product-type-variable.php:629
+msgid "Variation #%s of %s"
+msgstr "וריאציה של #% של% s"
+
+#: admin/post-types/writepanels/writepanel-product_data.php:43
+msgid "Product Type"
+msgstr "סוג המוצר"
+
+#: admin/post-types/writepanels/writepanel-product_data.php:53
+msgid "Virtual products are intangible and aren't shipped."
+msgstr "מוצרים וירטואליים הם מוחשיים ולא נשלחו."
+
+#: admin/post-types/writepanels/writepanel-product_data.php:59
+msgid "Downloadable products give access to a file upon purchase."
+msgstr "מוצרים להורדה לתת גישה לקבצים על רכישה."
+
+#: admin/post-types/writepanels/writepanel-product_data.php:77
+#: admin/woocommerce-admin-content.php:44
+#: admin/woocommerce-admin-settings.php:182
+msgid "General"
+msgstr "כללי"
+
+#: admin/post-types/writepanels/writepanel-product_data.php:79
+#: admin/woocommerce-admin-content.php:47
+#: admin/woocommerce-admin-settings.php:185
+msgid "Inventory"
+msgstr "מלאי"
+
+#: admin/post-types/writepanels/writepanel-product_data.php:83
+msgid "Linked Products"
+msgstr "מוצרים מקושרים"
+
+#: admin/post-types/writepanels/writepanel-product_data.php:85
+#: admin/woocommerce-admin-attributes.php:299
+#: admin/woocommerce-admin-init.php:66
+msgid "Attributes"
+msgstr "תכונות"
+
+#: admin/post-types/writepanels/writepanel-product_data.php:87
+msgid "Advanced"
+msgstr "מתקדם"
+
+#: admin/post-types/writepanels/writepanel-product_data.php:98
+msgid "Stock Keeping Unit"
+msgstr "יחידת שמירה על מניות"
+
+#: admin/post-types/writepanels/writepanel-product_data.php:98
+msgid ""
+"SKU refers to a Stock-keeping unit, a unique identifier for each distinct "
+"product and service that can be purchased."
+msgstr ""
+"מק\"ט מתייחס ליחידה במלאי שמירה, מזהה ייחודיים לכל מוצר ושירות ייחודיים "
+"שניתן לרכוש."
+
+#: admin/post-types/writepanels/writepanel-product_data.php:109
+msgid "Product URL"
+msgstr "כתובת אתר של מוצר"
+
+#: admin/post-types/writepanels/writepanel-product_data.php:109
+msgid "Enter the external URL to the product."
+msgstr "הזן את כתובת אתר החיצונית למוצר."
+
+#: admin/post-types/writepanels/writepanel-product_data.php:112
+msgid "Button text"
+msgstr "טקסט כפתור"
+
+#: admin/post-types/writepanels/writepanel-product_data.php:112
+msgctxt "placeholder"
+msgid "Buy product"
+msgstr "קניית המוצר"
+
+#: admin/post-types/writepanels/writepanel-product_data.php:112
+msgid "This text will be shown on the button linking to the external product."
+msgstr "טקסט זה יוצג על כפתור קישור למוצר החיצוני."
+
+#: admin/post-types/writepanels/writepanel-product_data.php:119
+msgid "Regular Price"
+msgstr "מחיר רגיל"
+
+#: admin/post-types/writepanels/writepanel-product_data.php:125
+msgid "Sale Price"
+msgstr "מחיר מכירה"
+
+#: admin/post-types/writepanels/writepanel-product_data.php:135
+msgid "Sale Price Dates"
+msgstr "תאריכי מחיר מכירה"
+
+#: admin/post-types/writepanels/writepanel-product_data.php:138
+#: admin/post-types/writepanels/writepanel-product_data.php:1082
+msgid "Cancel"
+msgstr "בטל"
+
+#: admin/post-types/writepanels/writepanel-product_data.php:152
+msgid "File paths (one per line)"
+msgstr "נתיבי קבצים (אחד בכל שורה)"
+
+#: admin/post-types/writepanels/writepanel-product_data.php:158
+msgid "Download Limit"
+msgstr "הגבלת הורדה"
+
+#: admin/post-types/writepanels/writepanel-product_data.php:178
+msgid "Tax Status"
+msgstr "סטטוס מס"
+
+#: admin/post-types/writepanels/writepanel-product_data.php:180
+msgid "Shipping only"
+msgstr "משלוח בלבד"
+
+#: admin/post-types/writepanels/writepanel-product_data.php:181
+msgid "None"
+msgstr "אף לא אחד"
+
+#: admin/post-types/writepanels/writepanel-product_data.php:212
+msgid "Enable stock management at product level"
+msgstr "אפשר ניהול מלאי ברמת המוצר"
+
+#: admin/post-types/writepanels/writepanel-product_data.php:219
+msgid ""
+"Stock quantity. If this is a variable product this value will be used to "
+"control stock for all variations, unless you define stock at variation level."
+msgstr ""
+"כמות המלאי. אם מדובר במוצר משתנה ישמש ערך זה כדי לשלוט במאלי עבור כל "
+"הווריאציות, אלא אם כן אתה מגדיר את המלאי ברמת וריאציה."
+
+#: admin/post-types/writepanels/writepanel-product_data.php:230
+msgid "Stock status"
+msgstr "מצב המלאי"
+
+#: admin/post-types/writepanels/writepanel-product_data.php:233
+msgid ""
+"Controls whether or not the product is listed as \"in stock\" or \"out of "
+"stock\" on the frontend."
+msgstr "מגדיר אם המוצר יופיע כ\"במלאי\" או כ\"אזל מהמלאי\" בממשק הלקוח."
+
+#: admin/post-types/writepanels/writepanel-product_data.php:240
+msgid "Allow Backorders?"
+msgstr "אפשר הזמנות ממתינות?"
+
+#: admin/post-types/writepanels/writepanel-product_data.php:241
+msgid "Do not allow"
+msgstr "אל תאפשר"
+
+#: admin/post-types/writepanels/writepanel-product_data.php:242
+msgid "Allow, but notify customer"
+msgstr "אפשר, אבל תודיע ללקוח"
+
+#: admin/post-types/writepanels/writepanel-product_data.php:243
+msgid "Allow"
+msgstr "אפשר"
+
+#: admin/post-types/writepanels/writepanel-product_data.php:244
+msgid ""
+"If managing stock, this controls whether or not backorders are allowed for "
+"this product and variations. If enabled, stock quantity can go below 0."
+msgstr ""
+"אם ניהול המלאי, זה שולט או לא backorders מותר במוצר ובוריאציות זה. אם מופעל, "
+"כמות המניות יכולה ללכת מתחת ל -0."
+
+#: admin/post-types/writepanels/writepanel-product_data.php:255
+msgid "Sold Individually"
+msgstr "נמכר בנפרד"
+
+#: admin/post-types/writepanels/writepanel-product_data.php:255
+msgid ""
+"Enable this to only allow one of this item to be bought in a single order"
+msgstr "אפשר זאת כדי לאפשר הזמנה שכוללת רק פריט אחד"
+
+#: admin/post-types/writepanels/writepanel-product_data.php:273
+msgid "Weight in decimal form"
+msgstr "משקל בצורה עשרונית"
+
+#: admin/post-types/writepanels/writepanel-product_data.php:284
+msgid "Dimensions"
+msgstr "ממדים"
+
+#: admin/post-types/writepanels/writepanel-product_data.php:290
+msgid "LxWxH in decimal form"
+msgstr "LxWxH בצורה עשרונית"
+
+#: admin/post-types/writepanels/writepanel-product_data.php:311
+msgid "No shipping class"
+msgstr "אין סיווג משלוח"
+
+#: admin/post-types/writepanels/writepanel-product_data.php:317
+msgid "Shipping class"
+msgstr "סיווג משלוח"
+
+#: admin/post-types/writepanels/writepanel-product_data.php:317
+msgid ""
+"Shipping classes are used by certain shipping methods to group similar "
+"products."
+msgstr "סוגי משלוח משמשים את דרך לקבץ מוצרים דומים בקבוצה."
+
+#: admin/post-types/writepanels/writepanel-product_data.php:384
+#: admin/post-types/writepanels/writepanel-product_data.php:476
+#: admin/woocommerce-admin-init.php:440
+msgid "Value(s)"
+msgstr "ערך (ים)"
+
+#: admin/post-types/writepanels/writepanel-product_data.php:386
+msgid "Select terms"
+msgstr "בחר תנאים"
+
+#: admin/post-types/writepanels/writepanel-product_data.php:398
+msgid "Select all"
+msgstr "סמן הכל"
+
+#: admin/post-types/writepanels/writepanel-product_data.php:398
+msgid "Select none"
+msgstr "מחק סימון"
+
+#: admin/post-types/writepanels/writepanel-product_data.php:400
+msgid "Add new"
+msgstr "הוסף חדש"
+
+#: admin/post-types/writepanels/writepanel-product_data.php:413
+msgid "Pipe (|) separate terms"
+msgstr "צינור (|) מפריד תנאים"
+
+#: admin/post-types/writepanels/writepanel-product_data.php:427
+#: admin/post-types/writepanels/writepanel-product_data.php:482
+#: admin/woocommerce-admin-init.php:442
+msgid "Visible on the product page"
+msgstr "גלוי בדף המוצר"
+
+#: admin/post-types/writepanels/writepanel-product_data.php:440
+#: admin/post-types/writepanels/writepanel-product_data.php:488
+#: admin/woocommerce-admin-init.php:443
+msgid "Used for variations"
+msgstr "משמש לוריאציות"
+
+#: admin/post-types/writepanels/writepanel-product_data.php:477
+#: admin/woocommerce-admin-init.php:441
+msgid "Enter some text, or some attributes by pipe (|) separating values."
+msgstr "הזן טקסט כלשהו, ​​או כמה תכונות והפרד ערכים על-ידי צינור (|)."
+
+#: admin/post-types/writepanels/writepanel-product_data.php:503
+msgid "Custom product attribute"
+msgstr "תכונה של מוצר מותאם אישית"
+
+#: admin/post-types/writepanels/writepanel-product_data.php:515
+msgid "Save attributes"
+msgstr "שמור תכונות"
+
+#: admin/post-types/writepanels/writepanel-product_data.php:522
+msgid "Up-Sells"
+msgstr "מוצרים נמכרים"
+
+#: admin/post-types/writepanels/writepanel-product_data.php:537
+msgid ""
+"Up-sells are products which you recommend instead of the currently viewed "
+"product, for example, products that are more profitable or better quality or "
+"more expensive."
+msgstr ""
+"'מוצרים נמכרים' הם מוצרים מומלצים במקום המוצר הנצפה, לדוגמא, מוצרים שהם יותר "
+"רווחים או איכותיים יותר או יותר יקרים."
+
+#: admin/post-types/writepanels/writepanel-product_data.php:539
+msgid "Cross-Sells"
+msgstr "קרוס סלינג"
+
+#: admin/post-types/writepanels/writepanel-product_data.php:554
+msgid ""
+"Cross-sells are products which you promote in the cart, based on the current "
+"product."
+msgstr "קרוס סיילס הם מוצרים שאתה מקדם בסל הקניות, המבוססים על המוצר הנוכחי."
+
+#: admin/post-types/writepanels/writepanel-product_data.php:564
+msgid "Choose a grouped product&hellip;"
+msgstr "בחר מוצר מקובץ ..."
+
+#: admin/post-types/writepanels/writepanel-product_data.php:590
+msgid "Grouping"
+msgstr "הקבצה"
+
+#: admin/post-types/writepanels/writepanel-product_data.php:590
+msgid "Set this option to make this product part of a grouped product."
+msgstr "הגדר אפשרות זו כדי להפוך את את מוצר זה למוצר מקובץ."
+
+#: admin/post-types/writepanels/writepanel-product_data.php:610
+msgid "Purchase Note"
+msgstr "הודעה רכישה"
+
+#: admin/post-types/writepanels/writepanel-product_data.php:610
+msgid "Enter an optional note to send the customer after purchase."
+msgstr "רשום הודעה אופציונליאת לשלוח ללקוח אחרי רכישה"
+
+#: admin/post-types/writepanels/writepanel-product_data.php:617
+msgid "Menu order"
+msgstr "סדר של התפריט"
+
+#: admin/post-types/writepanels/writepanel-product_data.php:617
+msgid "Custom ordering position."
+msgstr "מיקום הזמנה אישית."
+
+#: admin/post-types/writepanels/writepanel-product_data.php:625
+msgid "Enable reviews"
+msgstr "אפשר ביקורות"
+
+#: admin/post-types/writepanels/writepanel-product_data.php:714
+msgid "Product SKU must be unique."
+msgstr "מק\"ט המוצר חייב להיות ייחודי."
+
+#: admin/post-types/writepanels/writepanel-product_data.php:1046
+msgid "Catalog/search"
+msgstr "קטלוג / חיפוש"
+
+#: admin/post-types/writepanels/writepanel-product_data.php:1053
+msgid "Catalog visibility:"
+msgstr "מראה הקטלוג:"
+
+#: admin/post-types/writepanels/writepanel-product_data.php:1069
+msgid ""
+"Define the loops this product should be visible in. The product will still "
+"be accessible directly."
+msgstr ""
+"הגדר את לולאות מוצר זה צריך להיות גלוי פנימה המוצר עדיין יהיה נגיש באופן "
+"ישיר."
+
+#: admin/post-types/writepanels/writepanel-product_data.php:1075
+msgid "Enable this option to feature this product."
+msgstr "הפעל אפשרות זו בכדי להפוך מוצר זה ל'נבחר'."
+
+#: admin/post-types/writepanels/writepanel-product_data.php:1077
+msgid "Featured Product"
+msgstr "מוצר נבחר"
+
+#: admin/post-types/writepanels/writepanel-product_data.php:1081
+msgid "OK"
+msgstr "אישור"
+
+#: admin/post-types/writepanels/writepanel-product_images.php:42
+#: admin/post-types/writepanels/writepanel-product_images.php:102
+msgid "Delete image"
+msgstr "מחק תמונה"
+
+#: admin/post-types/writepanels/writepanel-product_images.php:42
+#: admin/post-types/writepanels/writepanel-product_images.php:102
+#: admin/woocommerce-admin-attributes.php:323
+msgid "Delete"
+msgstr "מחיקה"
+
+#: admin/post-types/writepanels/writepanel-product_images.php:53
+msgid "Add product gallery images"
+msgstr "הוסף גלריית תמונות של המוצר"
+
+#: admin/post-types/writepanels/writepanel-product_images.php:79
+msgid "Add Images to Product Gallery"
+msgstr "הוסף תמונות לגלריית המוצר"
+
+#: admin/post-types/writepanels/writepanel-product_images.php:81
+msgid "Add to gallery"
+msgstr "הוסף לגלריה"
+
+#: admin/post-types/writepanels/writepanels-init.php:47
+msgid "Product Gallery"
+msgstr "גלריית מוצר"
+
+#: admin/post-types/writepanels/writepanels-init.php:55
+msgid "Product Short Description"
+msgstr "תיאור קצר של מוצר"
+
+#: admin/post-types/writepanels/writepanels-init.php:64
+msgid "Reviews"
+msgstr "ביקורות"
+
+#: admin/post-types/writepanels/writepanels-init.php:68
+msgid "Order Data"
+msgstr "נתוני הזמנה"
+
+#: admin/post-types/writepanels/writepanels-init.php:69
+msgid "Order Items"
+msgstr "פריטים מההזמנה"
+
+#: admin/post-types/writepanels/writepanels-init.php:69
+msgid ""
+"Note: if you edit quantities or remove items from the order you will need to "
+"manually update stock levels."
+msgstr ""
+"הערה: אם תערכו את הכמויות או תסירו פריטים מההזמנה תצטרכו לעדכן את רמות המלאי "
+"באופן ידני."
+
+#: admin/post-types/writepanels/writepanels-init.php:72
+msgid "Downloadable Product Permissions"
+msgstr "הרשאות מוצר להורדה"
+
+#: admin/post-types/writepanels/writepanels-init.php:72
+msgid ""
+"Note: Permissions for order items will automatically be granted when the "
+"order status changes to processing/completed."
+msgstr ""
+"הערה: הרשאות לפריטים בסדר באופן אוטומטי כאשר יינתנו צו שינויי הסטטוס "
+"לעיבוד / הושלמו."
+
+#: admin/post-types/writepanels/writepanels-init.php:73
+msgid "Order Actions"
+msgstr "פעולות הזמנה"
+
+#: admin/post-types/writepanels/writepanels-init.php:81
+msgid "Coupon Data"
+msgstr "נתוני קופון"
+
+#: admin/post-types/writepanels/writepanels-init.php:100
+msgid "Coupon code"
+msgstr "קוד קופון"
+
+#: admin/post-types/writepanels/writepanels-init.php:101
+msgid "Product name"
+msgstr "שם מוצר"
+
+#: admin/post-types/writepanels/writepanels-init.php:185
+msgid "Allow reviews."
+msgstr "אפשר ביקורות"
+
+#: admin/post-types/writepanels/writepanels-init.php:186
+msgid ""
+"Allow <a href=\"%s\" target=\"_blank\">trackbacks and pingbacks</a> on this "
+"page."
+msgstr ""
+"לאפשר <a href=\"%s\" target=\"_blank\"> Trackbacks וpingbacks </ a> בדף זה."
+
+#: admin/post-types/writepanels/writepanels-init.php:186
+msgid "http://codex.wordpress.org/Introduction_to_Blogging#Managing_Comments"
+msgstr ""
+"http://codex.wordpress.org/Introduction_to_Blogging # Managing_Comments"
+
+#: admin/settings/settings-frontend-styles.php:23
+msgid "Styles"
+msgstr "סגנונות"
+
+#: admin/settings/settings-frontend-styles.php:43
+msgid "Primary"
+msgstr "ראשוני"
+
+#: admin/settings/settings-frontend-styles.php:43
+msgid "Call to action buttons/price slider/layered nav UI"
+msgstr "התקשר לחצני פעולה / מחוון מחיר / שכבתי NAV UI"
+
+#: admin/settings/settings-frontend-styles.php:44
+msgid "Secondary"
+msgstr "משני"
+
+#: admin/settings/settings-frontend-styles.php:44
+msgid "Buttons and tabs"
+msgstr "לחצנים וכרטיסיות"
+
+#: admin/settings/settings-frontend-styles.php:45
+msgid "Highlight"
+msgstr "הבלט"
+
+#: admin/settings/settings-frontend-styles.php:45
+msgid "Price labels and Sale Flashes"
+msgstr "תוויות מחיר והבזקי מכירה"
+
+#: admin/settings/settings-frontend-styles.php:46
+msgid "Content"
+msgstr "תוכן"
+
+#: admin/settings/settings-frontend-styles.php:46
+msgid "Your themes page background - used for tab active states"
+msgstr "הרקע של התבנית שלך - משמש למצבים בהם הכרטיסיות מופעלות"
+
+#: admin/settings/settings-frontend-styles.php:47
+msgid "Subtext"
+msgstr "סאבטקסט"
+
+#: admin/settings/settings-frontend-styles.php:47
+msgid "Used for certain text and asides - breadcrumbs, small text etc."
+msgstr "משמש לטקסט והערות מסוימות - פירורי לחם, טקסט קטן וכו '"
+
+#: admin/settings/settings-frontend-styles.php:51
+msgid ""
+"To edit colours <code>woocommerce/assets/css/woocommerce-base.less</code> "
+"and <code>woocommerce.css</code> need to be writable. See <a href=\"http://"
+"codex.wordpress.org/Changing_File_Permissions\">the Codex</a> for more "
+"information."
+msgstr ""
+"כדי לערוך את הצבעים <code> woocommerce / נכסים / CSS / woocommerce-base.less "
+"</ code> ו<code> woocommerce.css </ code> צריך להיות ניתן לכתיבה. ראה href="
+"\"http://codex.wordpress.org/Changing_File_Permissions\"> <a קודקס </ a> "
+"לקבלת מידע נוסף."
+
+#: admin/settings/settings-init.php:18
+msgid "Localisation"
+msgstr "לוקאליזציה"
+
+#: admin/settings/settings-init.php:19
+msgid "Use informal localisation for %s"
+msgstr "השתמש לוקליזציה פורמאלית ל% s"
+
+#: admin/settings/settings-init.php:33
+msgid "General Options"
+msgstr "אפשרויות כלליות"
+
+#: admin/settings/settings-init.php:36
+msgid "Base Location"
+msgstr "מיקום בסיס"
+
+#: admin/settings/settings-init.php:37
+msgid ""
+"This is the base location for your business. Tax rates will be based on this "
+"country."
+msgstr "זהו מיקום הבסיס לעסק שלך. שיעורי מס יהיו מבוססים על הארץ הזאת."
+
+#: admin/settings/settings-init.php:46
+msgid "Currency"
+msgstr "מטבע"
+
+#: admin/settings/settings-init.php:47
+msgid ""
+"This controls what currency prices are listed at in the catalog and which "
+"currency gateways will take payments in."
+msgstr ""
+"זה מקובע מה המחירים במטבע רשומים בקטלוג ובו שערי מטבע ייקחו תשלומים פנימה"
+
+#: admin/settings/settings-init.php:58
+msgid "Allowed Countries"
+msgstr "מדינות אפשריות"
+
+#: admin/settings/settings-init.php:59
+msgid "These are countries that you are willing to ship to."
+msgstr "אלו הן מדינות שאתם מוכנים לשלוח אליהן"
+
+#: admin/settings/settings-init.php:67
+msgid "All Countries"
+msgstr "כל המדינות"
+
+#: admin/settings/settings-init.php:68 admin/settings/settings-init.php:73
+msgid "Specific Countries"
+msgstr "מדינות ספציפיות"
+
+#: admin/settings/settings-init.php:84
+msgid "Store Notice"
+msgstr "אחסן את ההודעה"
+
+#: admin/settings/settings-init.php:85
+msgid "Enable site-wide store notice text"
+msgstr "אפשר טקסט הודעת חנות ברחבי האתר"
+
+#: admin/settings/settings-init.php:92
+msgid "Store Notice Text"
+msgstr "אחסן הודעת חנות"
+
+#: admin/settings/settings-init.php:95
+msgid ""
+"This is a demo store for testing purposes &mdash; no orders shall be "
+"fulfilled."
+msgstr "זוהי חנות דמה למטרות בדיקה - ההזמנות לא ימומשו."
+
+#: admin/settings/settings-init.php:102
+msgid "Cart, Checkout and Accounts"
+msgstr "סל קניות, קופה/תשלום וחשבונות לקוח"
+
+#: admin/settings/settings-init.php:105 admin/woocommerce-admin-content.php:61
+#: admin/woocommerce-admin-content.php:76
+#: admin/woocommerce-admin-reports.php:63
+msgid "Coupons"
+msgstr "קופונים"
+
+#: admin/settings/settings-init.php:106
+msgid "Enable the use of coupons"
+msgstr "אפשר את השימוש בקופונים"
+
+#: admin/settings/settings-init.php:110
+msgid "Coupons can be applied from the cart and checkout pages."
+msgstr "ניתן להחיל קופונים מסל הקניות ודף הקופה/תשלום."
+
+#: admin/settings/settings-init.php:114
+#: admin/woocommerce-admin-install.php:201
+#: admin/woocommerce-admin-status.php:307
+msgid "Checkout"
+msgstr "קופה/תשלום"
+
+#: admin/settings/settings-init.php:115
+msgid "Enable guest checkout (no account required)"
+msgstr "אפשר לאורחים גישה לקופה/תשלום (אין צורך בחשבון משתמש)"
+
+#: admin/settings/settings-init.php:123
+msgid "Enable customer note field on checkout"
+msgstr "אפשר שדה הערה ללקוח בעת יצאה לקופה/תלשום"
+
+#: admin/settings/settings-init.php:131
+msgid "Force secure checkout"
+msgstr "חיל מאובטח קופה"
+
+#: admin/settings/settings-init.php:137
+msgid ""
+"Force SSL (HTTPS) on the checkout pages (an SSL Certificate is required)."
+msgstr "חיל SSL (HTTPS) בדפי הקופה (נדרשת תעודת SSL)."
+
+#: admin/settings/settings-init.php:141
+msgid "Un-force HTTPS when leaving the checkout"
+msgstr "אל-תכריח HTTPS כאשר יוצאים מאזור הקופה/תלשום"
+
+#: admin/settings/settings-init.php:150
+msgid "Registration"
+msgstr "הרשמה"
+
+#: admin/settings/settings-init.php:151
+msgid "Allow registration on the checkout page"
+msgstr "אפשר רישום בעמוד התשלום/קופה"
+
+#: admin/settings/settings-init.php:159
+msgid "Allow registration on the \"My Account\" page"
+msgstr "אפשר רישום בעמוד \"החשבון שלי\""
+
+#: admin/settings/settings-init.php:167
+msgid "Register using the email address for the username"
+msgstr "הירשם באמצעות כתובת הדואר האלקטרוני של שם המשתמש"
+
+#: admin/settings/settings-init.php:175
+msgid "Customer Accounts"
+msgstr "חשבונות של לקוחות"
+
+#: admin/settings/settings-init.php:176
+msgid "Prevent customers from accessing WordPress admin"
+msgstr "מנע מלקוחות גישה למנהל של וורדפרס"
+
+#: admin/settings/settings-init.php:184
+msgid "Clear cart when logging out"
+msgstr "נקה את סל הקניות בעת ההתנתקות"
+
+#: admin/settings/settings-init.php:192
+msgid "Allow customers to repurchase orders from their account page"
+msgstr "אפשר ללקוחות רכישה חוזרות של הזמנות מדף החשבון שלהם"
+
+#: admin/settings/settings-init.php:201
+msgid "Styles and Scripts"
+msgstr "סגנונות וסקריפטים"
+
+#: admin/settings/settings-init.php:204
+msgid "Styling"
+msgstr "סגנון"
+
+#: admin/settings/settings-init.php:205
+msgid "Enable WooCommerce CSS"
+msgstr "אפשר WooCommerce CSS"
+
+#: admin/settings/settings-init.php:216
+msgid "Scripts"
+msgstr "סקריפטים"
+
+#: admin/settings/settings-init.php:217
+msgid "Enable Lightbox"
+msgstr "אפשר 'Lightbox'"
+
+#: admin/settings/settings-init.php:220
+msgid ""
+"Include WooCommerce's lightbox. Product gallery images and the add review "
+"form will open in a lightbox."
+msgstr ""
+"הכלל Lightbox של WooCommerce. גלריית תמונות מוצרים וטופס הוספת ביקורת ייפתחו "
+"בLightbox."
+
+#: admin/settings/settings-init.php:226
+msgid "Enable enhanced country select boxes"
+msgstr "אפשר תיבות מדינה משופרות"
+
+#: admin/settings/settings-init.php:231
+msgid "This will enable a script allowing the country fields to be searchable."
+msgstr "זה יאפשר סקרפיט שיאפשר חיפוש של שדות המדינה."
+
+#: admin/settings/settings-init.php:236
+msgid "Downloadable Products"
+msgstr "מוצרים להורדה"
+
+#: admin/settings/settings-init.php:239
+msgid "File Download Method"
+msgstr "שיטת הורדת קובץ"
+
+#: admin/settings/settings-init.php:240
+msgid ""
+"Forcing downloads will keep URLs hidden, but some servers may serve large "
+"files unreliably. If supported, <code>X-Accel-Redirect</code>/ <code>X-"
+"Sendfile</code> can be used to serve downloads instead (server requires "
+"<code>mod_xsendfile</code>)."
+msgstr ""
+"מכריח את ההורדות ישמור את כתובות אתרים נסתרות, אבל כמה שרתים יכולים לשמש "
+"קבצים גדולים בלתי מהימן. אם נתמך, <code>-X-Accel הפניה </ code> / <code> X-"
+"sendfile </ code> יכול לשמש גם כדי לשרת את ההורדות במקום (שרת דורש <code> "
+"mod_xsendfile </ code>)."
+
+#: admin/settings/settings-init.php:248
+msgid "Force Downloads"
+msgstr "הכרח הורדה"
+
+#: admin/settings/settings-init.php:249
+msgid "X-Accel-Redirect/X-Sendfile"
+msgstr "X-Accel-Redirect/X-Sendfile"
+
+#: admin/settings/settings-init.php:250
+msgid "Redirect only"
+msgstr "הפניה בלבד"
+
+#: admin/settings/settings-init.php:255
+msgid "Access Restriction"
+msgstr "הגבלת גישה"
+
+#: admin/settings/settings-init.php:256
+msgid "Downloads require login"
+msgstr "הורדות דורשות כניסת משתמש"
+
+#: admin/settings/settings-init.php:260
+msgid "This setting does not apply to guest purchases."
+msgstr "הגדרה זו אינה חלה על רכישות אורחים."
+
+#: admin/settings/settings-init.php:265
+msgid "Grant access to downloadable products after payment"
+msgstr "הענק גישה למוצרים להורדה לאחר תשלום"
+
+#: admin/settings/settings-init.php:269
+msgid ""
+"Enable this option to grant access to downloads when orders are \"processing"
+"\", rather than \"completed\"."
+msgstr ""
+"הפעל אפשרות זו כדי להעניק גישה להורדות כאשר הזמנות \"מעובדות\", אך לא "
+"\"הושלמו\"."
+
+#: admin/settings/settings-init.php:285
+msgid ""
+"Note: The shop page has children - child pages will not work if you enable "
+"this option."
+msgstr ""
+"הערה: יש לעמוד החנות יש 'דפים נחותים' - דפים 'נחותים' לא יעבדו אם הפעלת "
+"אפשרות זו."
+
+#: admin/settings/settings-init.php:290
+msgid "Page Setup"
+msgstr "הגדרת עמוד"
+
+#: admin/settings/settings-init.php:292
+msgid ""
+"Set up core WooCommerce pages here, for example the base page. The base page "
+"can also be used in your %sproduct permalinks%s."
+msgstr ""
+"כאן מגדירים את הדפי ליבה של WooCommerce , למשל דף הבסיס. דף הבסיס יכול לשמש "
+"גם ב% s% permalinks sproduct שלך."
+
+#: admin/settings/settings-init.php:297
+msgid "Shop Base Page"
+msgstr "דף הבסיס של החנות"
+
+#: admin/settings/settings-init.php:298
+msgid ""
+"This sets the base page of your shop - this is where your product archive "
+"will be."
+msgstr ""
+"אופציה זו מגדירה את דף הבסיס של החנות שלך - זה המקום שבו ארכיון המוצר שלך "
+"יהיה."
+
+#: admin/settings/settings-init.php:308
+msgid "Terms Page ID"
+msgstr "מזהה תנאי עמוד"
+
+#: admin/settings/settings-init.php:309
+msgid ""
+"If you define a \"Terms\" page the customer will be asked if they accept "
+"them when checking out."
+msgstr ""
+"אם אתה מגדיר את עמוד \"תנאים\" ללקוח,הלקוח ישאל אם הם מקבלים אותם בעת השלמת "
+"ההזמנה."
+
+#: admin/settings/settings-init.php:320
+msgid "Shop Pages"
+msgstr "עמודי חנות"
+
+#: admin/settings/settings-init.php:320
+msgid ""
+"The following pages need selecting so that WooCommerce knows where they are. "
+"These pages should have been created upon installation of the plugin, if not "
+"you will need to create them."
+msgstr ""
+"בעמודים הבאים, כך שהבחירה צריכים WooCommerce יודע היכן הם נמצאים. הדפים האלה "
+"היו צריכים שנוצרו בהתקנה של התוסף, אם לא תהיה עליך ליצור אותם."
+
+#: admin/settings/settings-init.php:323
+msgid "Cart Page"
+msgstr "עמוד סל קניות"
+
+#: admin/settings/settings-init.php:324
+msgid "Page contents: [woocommerce_cart]"
+msgstr "תוכן דף: [woocommerce_cart]"
+
+#: admin/settings/settings-init.php:334
+msgid "Checkout Page"
+msgstr "דף קופה/תשלום"
+
+#: admin/settings/settings-init.php:335
+msgid "Page contents: [woocommerce_checkout]"
+msgstr "תוכן דף: [woocommerce_checkout]"
+
+#: admin/settings/settings-init.php:345
+msgid "Pay Page"
+msgstr "עמוד תשלום"
+
+#: admin/settings/settings-init.php:346
+msgid "Page contents: [woocommerce_pay] Parent: \"Checkout\""
+msgstr "תוכן דף: [woocommerce_pay] בכיר: \"קופה\""
+
+#: admin/settings/settings-init.php:356
+msgid "Thanks Page"
+msgstr "עמוד תודה"
+
+#: admin/settings/settings-init.php:357
+msgid "Page contents: [woocommerce_thankyou] Parent: \"Checkout\""
+msgstr "תוכן דף: [woocommerce_thankyou] בכיר: \"קופה\""
+
+#: admin/settings/settings-init.php:367
+msgid "My Account Page"
+msgstr "דף החשבון שלי"
+
+#: admin/settings/settings-init.php:368
+msgid "Page contents: [woocommerce_my_account]"
+msgstr "תוכן דף: [woocommerce_my_account]"
+
+#: admin/settings/settings-init.php:378
+msgid "Edit Address Page"
+msgstr "דף עריכת כתובת"
+
+#: admin/settings/settings-init.php:379
+msgid "Page contents: [woocommerce_edit_address] Parent: \"My Account\""
+msgstr "תוכן דף: [woocommerce_edit_address] בכיר: \"החשבון שלי\""
+
+#: admin/settings/settings-init.php:389
+msgid "View Order Page"
+msgstr "צפה בדף ההזמנה"
+
+#: admin/settings/settings-init.php:390
+msgid "Page contents: [woocommerce_view_order] Parent: \"My Account\""
+msgstr "תוכן דף: [woocommerce_view_order] בכיר: \"החשבון שלי\""
+
+#: admin/settings/settings-init.php:400
+msgid "Change Password Page"
+msgstr "דף שינוי סיסמא"
+
+#: admin/settings/settings-init.php:401
+msgid "Page contents: [woocommerce_change_password] Parent: \"My Account\""
+msgstr "תוכן דף: [woocommerce_change_password] בכיר: \"החשבון שלי\""
+
+#: admin/settings/settings-init.php:411
+msgid "Logout Page"
+msgstr "עמוד התנתקות"
+
+#: admin/settings/settings-init.php:412
+msgid "Parent: \"My Account\""
+msgstr "בכיר: \"החשבון שלי\""
+
+#: admin/settings/settings-init.php:422
+msgid "Lost Password Page"
+msgstr "עמוד שחזור סיסמא"
+
+#: admin/settings/settings-init.php:423
+msgid "Page contents: [woocommerce_lost_password] Parent: \"My Account\""
+msgstr "תוכן הדף: [woocommerce_lost_password] בכיר: \"החשבון שלי\""
+
+#: admin/settings/settings-init.php:439
+msgid "Catalog Options"
+msgstr "אפשרויות קטלוג"
+
+#: admin/settings/settings-init.php:442
+msgid "Default Product Sorting"
+msgstr "מיון מוצר ברירת מחדל"
+
+#: admin/settings/settings-init.php:443
+msgid "This controls the default sort order of the catalog."
+msgstr "אופציה זו מגדירה סדר מיון של הקטלוג כברירת המחדל."
+
+#: admin/settings/settings-init.php:449
+msgid "Default sorting (custom ordering + name)"
+msgstr "מיון ברירת מחדל (מותאמת אישית להזמנה + שם)"
+
+#: admin/settings/settings-init.php:450
+msgid "Popularity (sales)"
+msgstr "פופולריות (מכירות)"
+
+#: admin/settings/settings-init.php:451
+msgid "Average Rating"
+msgstr "דירוג ממוצע"
+
+#: admin/settings/settings-init.php:452
+msgid "Sort by most recent"
+msgstr "מיין לפי רוב האחרונה"
+
+#: admin/settings/settings-init.php:453
+msgid "Sort by price (asc)"
+msgstr "מיין לפי מחיר (עולה)"
+
+#: admin/settings/settings-init.php:454
+msgid "Sort by price (desc)"
+msgstr "מיין לפי מחיר (יורד)"
+
+#: admin/settings/settings-init.php:460
+msgid "Shop Page Display"
+msgstr "הצג את דף הבית"
+
+#: admin/settings/settings-init.php:461
+msgid "This controls what is shown on the product archive."
+msgstr "זה מקובע את מה שמוצג על ארכיון המוצר."
+
+#: admin/settings/settings-init.php:467 admin/settings/settings-init.php:482
+msgid "Show products"
+msgstr "הצג מוצרים"
+
+#: admin/settings/settings-init.php:468 admin/settings/settings-init.php:483
+msgid "Show subcategories"
+msgstr "הצג תת-קטגוריות"
+
+#: admin/settings/settings-init.php:469 admin/settings/settings-init.php:484
+msgid "Show both"
+msgstr "הצג את שניהם"
+
+#: admin/settings/settings-init.php:475
+msgid "Default Category Display"
+msgstr "תצוגת ברירת מחדל של קטגוריה"
+
+#: admin/settings/settings-init.php:476
+msgid "This controls what is shown on category archives."
+msgstr "אופציהז זו קובעת מה מוצג בארכיוני הקטגוריה."
+
+#: admin/settings/settings-init.php:490
+msgid "Add to cart"
+msgstr "הוסף לסל"
+
+#: admin/settings/settings-init.php:491
+msgid "Redirect to the cart page after successful addition"
+msgstr "הפנה לסל הקניות לאחר הוספה מוצלחת"
+
+#: admin/settings/settings-init.php:499
+msgid "Enable AJAX add to cart buttons on archives"
+msgstr "אפשר כפתורי AJAX הוספה לסל הקניות על ארכיונים"
+
+#: admin/settings/settings-init.php:508
+msgid ""
+"The following options affect the fields available on the edit product page."
+msgstr "האפשרויות הבאות ישפיעו על השדות הזמינים בדף עריכת מוצר."
+
+#: admin/settings/settings-init.php:511
+msgid "Product Fields"
+msgstr "שדות המוצר"
+
+#: admin/settings/settings-init.php:512
+msgid "Enable the <strong>SKU</strong> field for products"
+msgstr "לאפשר SKU <strong> </ strong> השדה עבור מוצרים"
+
+#: admin/settings/settings-init.php:520
+msgid ""
+"Enable the <strong>weight</strong> field for products (some shipping methods "
+"may require this)"
+msgstr ""
+"אפשר את משקל <strong> </ strong> שדה עבור מוצרים (כמה שיטות משלוח עשויות "
+"לדרוש את זה)"
+
+#: admin/settings/settings-init.php:528
+msgid ""
+"Enable the <strong>dimension</strong> fields for products (some shipping "
+"methods may require this)"
+msgstr ""
+"לאפשר את ממד <strong> </ strong> שדות עבור מוצרים (כמה שיטות משלוח עשויה "
+"לדרוש את זה)"
+
+#: admin/settings/settings-init.php:536
+msgid ""
+"Show <strong>weight and dimension</strong> values on the <strong>Additional "
+"Information</strong> tab"
+msgstr ""
+"הצג משקל <strong> וממד </ strong> ערכים במידע נוסף <strong> </ strong "
+"<כרטיסייה"
+
+#: admin/settings/settings-init.php:544
+msgid "Weight Unit"
+msgstr "יחידת משקל"
+
+#: admin/settings/settings-init.php:545
+msgid "This controls what unit you will define weights in."
+msgstr "אופציה זו מגדירה את יחידת המשקל"
+
+#: admin/settings/settings-init.php:551
+msgid "kg"
+msgstr "ק\"ג"
+
+#: admin/settings/settings-init.php:552
+msgid "g"
+msgstr "גרמים"
+
+#: admin/settings/settings-init.php:553
+msgid "lbs"
+msgstr "פאונד"
+
+#: admin/settings/settings-init.php:554
+msgid "oz"
+msgstr "א\"ז"
+
+#: admin/settings/settings-init.php:560
+msgid "Dimensions Unit"
+msgstr "יחידת מדידה"
+
+#: admin/settings/settings-init.php:561
+msgid "This controls what unit you will define lengths in."
+msgstr "אופציה זו מגדירה את יחידת המדידה"
+
+#: admin/settings/settings-init.php:568
+msgid "cm"
+msgstr "ס\"מ"
+
+#: admin/settings/settings-init.php:569
+msgid "mm"
+msgstr "מ\"מ"
+
+#: admin/settings/settings-init.php:570
+msgid "in"
+msgstr "אינץ"
+
+#: admin/settings/settings-init.php:571
+msgid "yd"
+msgstr "י.ד."
+
+#: admin/settings/settings-init.php:577
+msgid "Product Ratings"
+msgstr "דירוג מוצר"
+
+#: admin/settings/settings-init.php:578
+msgid "Enable ratings on reviews"
+msgstr "אפשר דירוג על ביקורות"
+
+#: admin/settings/settings-init.php:587
+msgid "Ratings are required to leave a review"
+msgstr "נדרשים דירוגים בכדי לכתוב ביקורת"
+
+#: admin/settings/settings-init.php:596
+msgid "Show \"verified owner\" label for customer reviews"
+msgstr "הצג תווית \"אימות בעלים\" לביקורות של לקוחות"
+
+#: admin/settings/settings-init.php:606
+msgid "Pricing Options"
+msgstr "אפשרויות תמחור"
+
+#: admin/settings/settings-init.php:606
+msgid "The following options affect how prices are displayed on the frontend."
+msgstr "האפשרויות הבאות ישפיעו על אופן הצגת המחירים בממשק הלקוחות."
+
+#: admin/settings/settings-init.php:609
+msgid "Currency Position"
+msgstr "מיקום המטבע"
+
+#: admin/settings/settings-init.php:610
+msgid "This controls the position of the currency symbol."
+msgstr "אופציה זו קובעת את מיקום סמל המטבע"
+
+#: admin/settings/settings-init.php:616
+msgid "Left"
+msgstr "שמאל"
+
+#: admin/settings/settings-init.php:617
+msgid "Right"
+msgstr "ימין"
+
+#: admin/settings/settings-init.php:618
+msgid "Left (with space)"
+msgstr "שמאל (עם רווח)"
+
+#: admin/settings/settings-init.php:619
+msgid "Right (with space)"
+msgstr "ימין (עם רווח)"
+
+#: admin/settings/settings-init.php:625
+msgid "Thousand Separator"
+msgstr "מפריד אלפיות"
+
+#: admin/settings/settings-init.php:626
+msgid "This sets the thousand separator of displayed prices."
+msgstr "אופציה זו מוספיה את \"מפריד אלפיות\" למחירים המוצגים."
+
+#: admin/settings/settings-init.php:635
+msgid "Decimal Separator"
+msgstr "מפריד עשרוני"
+
+#: admin/settings/settings-init.php:636
+msgid "This sets the decimal separator of displayed prices."
+msgstr "אופציה זו מוספיה את \"המפריד עשרוני\" למחירים המוצגים."
+
+#: admin/settings/settings-init.php:645
+msgid "Number of Decimals"
+msgstr "מספר ספרות אחרי הנקודה"
+
+#: admin/settings/settings-init.php:646
+msgid "This sets the number of decimal points shown in displayed prices."
+msgstr "אופציה זו מגדירה את מספר הנקודות העשרוניות המוצגות במחירים."
+
+#: admin/settings/settings-init.php:659
+msgid "Trailing Zeros"
+msgstr "מס' אפסים עוקבים"
+
+#: admin/settings/settings-init.php:660
+msgid ""
+"Remove zeros after the decimal point. e.g. <code>$10.00</code> becomes <code>"
+"$10</code>"
+msgstr ""
+"הסר את האפסים אחרי הנקודה העשרונית. למשל <code> 10.00 $ </ code> הופך <code> "
+"10 $ </ code>"
+
+#: admin/settings/settings-init.php:668
+msgid "Image Options"
+msgstr "אפשרויות תמונה"
+
+#: admin/settings/settings-init.php:668
+msgid ""
+"These settings affect the actual dimensions of images in your catalog - the "
+"display on the front-end will still be affected by CSS styles. After "
+"changing these settings you may need to <a href=\"%s\">regenerate your "
+"thumbnails</a>."
+msgstr ""
+"הגדרות אלה משפיעות על הממדים האמיתיים של תמונות בקטלוג שלך - התצוגה על חזיתי "
+"עדיין תושפע מסגנונות CSS. לאחר שינוי הגדרות אלה, ייתכן שתצטרכו href=\"%s\"> "
+"<a להתחדש התמונות הממוזערות שלך </ a>."
+
+#: admin/settings/settings-init.php:671
+msgid "Catalog Images"
+msgstr "קטלוג תמונות "
+
+#: admin/settings/settings-init.php:672
+msgid "This size is usually used in product listings"
+msgstr "גודל זה משמש בדרך כלל ברשימות מוצרים"
+
+#: admin/settings/settings-init.php:685
+msgid "Single Product Image"
+msgstr "תמונת אחת למוצר"
+
+#: admin/settings/settings-init.php:686
+msgid "This is the size used by the main image on the product page."
+msgstr "זהו הגודל המשמש את התמונה הראשית בדף המוצר."
+
+#: admin/settings/settings-init.php:699
+msgid "Product Thumbnails"
+msgstr "תמונות מוקטנות של מוצר"
+
+#: admin/settings/settings-init.php:700
+msgid ""
+"This size is usually used for the gallery of images on the product page."
+msgstr "גודל זה משמש בדרך כלל לגלריה של תמונות בדף המוצר."
+
+#: admin/settings/settings-init.php:719
+msgid "Inventory Options"
+msgstr "אפשרויות מלאי"
+
+#: admin/settings/settings-init.php:722
+msgid "Manage Stock"
+msgstr "ניהול המלאי"
+
+#: admin/settings/settings-init.php:723
+msgid "Enable stock management"
+msgstr "אפשר ניהול מלאי"
+
+#: admin/settings/settings-init.php:730
+msgid "Hold Stock (minutes)"
+msgstr "החזק במלאי (דקות)"
+
+#: admin/settings/settings-init.php:731
+msgid ""
+"Hold stock (for unpaid orders) for x minutes. When this limit is reached, "
+"the pending order will be cancelled. Leave blank to disable."
+msgstr ""
+"החזק מלאי (עבור הזמנות שלא שולמו) ל-x דקות. כאשר עבר זמן מוגדר זה, ההזמנה "
+"תבוטל. השאר ריק בכדי לבטל את האפשרות הזו."
+
+#: admin/settings/settings-init.php:743
+msgid "Notifications"
+msgstr "התראות"
+
+#: admin/settings/settings-init.php:744
+msgid "Enable low stock notifications"
+msgstr "אפשר התראות על מלאי נמוך"
+
+#: admin/settings/settings-init.php:752
+msgid "Enable out of stock notifications"
+msgstr "לאפשר התראות על מלאי שאזל"
+
+#: admin/settings/settings-init.php:760
+msgid "Notification Recipient"
+msgstr "התראות נמען"
+
+#: admin/settings/settings-init.php:768
+msgid "Low Stock Threshold"
+msgstr "סף מלאי נמוך"
+
+#: admin/settings/settings-init.php:781
+msgid "Out Of Stock Threshold"
+msgstr "סף מלאי אזל"
+
+#: admin/settings/settings-init.php:794
+msgid "Out Of Stock Visibility"
+msgstr "מחוץ למלאי"
+
+#: admin/settings/settings-init.php:795
+msgid "Hide out of stock items from the catalog"
+msgstr "הוצא מוצרים שלא במלאי מהקטלוג"
+
+#: admin/settings/settings-init.php:802
+msgid "Stock Display Format"
+msgstr "פורמט הצגת המלאי"
+
+#: admin/settings/settings-init.php:803
+msgid "This controls how stock is displayed on the frontend."
+msgstr "זה שולט באיך המלאי מוצג בצג הלקוח."
+
+#: admin/settings/settings-init.php:809
+msgid "Always show stock e.g. \"12 in stock\""
+msgstr "הצג תמיד מלאי לדוגמא: \"12 במלאי\""
+
+#: admin/settings/settings-init.php:810
+msgid "Only show stock when low e.g. \"Only 2 left in stock\" vs. \"In Stock\""
+msgstr ""
+"הצג מלאי רק כאשר המלאי נמוך לדוגמא: \"רק 2 נותרו במלאי\" לעומת \"במלאי\""
+
+#: admin/settings/settings-init.php:811
+msgid "Never show stock amount"
+msgstr "לעולם אל תציג כמות במלאי"
+
+#: admin/settings/settings-init.php:823
+#: admin/woocommerce-admin-settings.php:292
+msgid "Shipping Options"
+msgstr "אפשרויות משלוח"
+
+#: admin/settings/settings-init.php:826
+msgid "Shipping Calculations"
+msgstr "חישובי משלוח"
+
+#: admin/settings/settings-init.php:827
+msgid "Enable shipping"
+msgstr "אפשר משלוח"
+
+#: admin/settings/settings-init.php:835
+msgid "Enable the shipping calculator on the cart page"
+msgstr "הפעל את מחשבון המשלוח בעמוד סל הקניות"
+
+#: admin/settings/settings-init.php:843
+msgid "Hide shipping costs until an address is entered"
+msgstr "הסתר עלויות משלוח עד הזנת כתובת"
+
+#: admin/settings/settings-init.php:851
+msgid "Shipping Method Display"
+msgstr "תצוגת שיטת משלוח"
+
+#: admin/settings/settings-init.php:852
+msgid ""
+"This controls how multiple shipping methods are displayed on the frontend."
+msgstr "זו שולטת בשיטות משלוח מרובות מוצגות בממשק."
+
+#: admin/settings/settings-init.php:858
+msgid "Radio buttons"
+msgstr "כפתורי רדיו"
+
+#: admin/settings/settings-init.php:859
+msgid "Select box"
+msgstr "בחר תיבה"
+
+#: admin/settings/settings-init.php:865
+msgid "Shipping Destination"
+msgstr "יעד משלוח"
+
+#: admin/settings/settings-init.php:866
+msgid "Only ship to the users billing address"
+msgstr "שלח רק לכתובת החיוב הלקוח"
+
+#: admin/settings/settings-init.php:874
+msgid "Ship to billing address by default"
+msgstr "שלח לכתובת החיוב כברירת המחדל"
+
+#: admin/settings/settings-init.php:882
+msgid "Collect shipping address even when not required"
+msgstr "רשום את הכתובת למשלוח, גם כאשר לא הדבר אינו חובה"
+
+#: admin/settings/settings-init.php:900
+#: admin/woocommerce-admin-settings.php:188
+#: admin/woocommerce-admin-settings.php:329
+msgid "Payment Gateways"
+msgstr "Gateways תשלום"
+
+#: admin/settings/settings-init.php:900
+msgid ""
+"Installed payment gateways are displayed below. Drag and drop payment "
+"gateways to control their display order on the checkout."
+msgstr ""
+"התקינו שערי תשלום מוצגים להלן. גרור ושחרר את שערי תשלום כדי לשלוט בסדר "
+"התצוגה שלהם בקופה."
+
+#: admin/settings/settings-init.php:918
+#: admin/woocommerce-admin-settings.php:222
+msgid "Tax Options"
+msgstr "אפשרויות מס"
+
+#: admin/settings/settings-init.php:921
+msgid "Enable Taxes"
+msgstr "לאפשר למסים"
+
+#: admin/settings/settings-init.php:922
+msgid "Enable taxes and tax calculations"
+msgstr "לאפשר למסים וחישובי מס"
+
+#: admin/settings/settings-init.php:929
+msgid "Prices Entered With Tax"
+msgstr "מחירים נכנסו עם מס"
+
+#: admin/settings/settings-init.php:933
+msgid ""
+"This option is important as it will affect how you input prices. Changing it "
+"will not update existing products."
+msgstr ""
+"אפשרות זו היא חשובה כמו זה עלול להשפיע על אופן מחירי תשומות. שינוי זה לא "
+"לעדכן את המוצרים קיימים."
+
+#: admin/settings/settings-init.php:935
+msgid "Yes, I will enter prices inclusive of tax"
+msgstr "כן, אני אכניס מחירים הכוללים מס"
+
+#: admin/settings/settings-init.php:936
+msgid "No, I will enter prices exclusive of tax"
+msgstr "לא, אני אכניס מחירים שלא כוללים מס"
+
+#: admin/settings/settings-init.php:941
+msgid "Calculate Tax Based On:"
+msgstr "חישוב מס על בסיס:"
+
+#: admin/settings/settings-init.php:943
+msgid "This option determines which address is used to calculate tax."
+msgstr "אפשרות זו קובעת שכתובת משמשת לחישוב מס."
+
+#: admin/settings/settings-init.php:947
+msgid "Customer shipping address"
+msgstr "כתובת לקוח למשלוח"
+
+#: admin/settings/settings-init.php:948
+msgid "Customer billing address"
+msgstr "כתובת חיוב לקוחות"
+
+#: admin/settings/settings-init.php:949 admin/settings/settings-init.php:961
+msgid "Shop base address"
+msgstr "כתובת חנות בסיס"
+
+#: admin/settings/settings-init.php:954
+msgid "Default Customer Address:"
+msgstr "כתובת ברירת מחדל של לקוחות:"
+
+#: admin/settings/settings-init.php:956
+msgid ""
+"This option determines the customers default address (before they input "
+"their own)."
+msgstr "אפשרות זו קובעת את כתובת ברירת המחדל ללקוחות (לפני שהם קלט שלהם)."
+
+#: admin/settings/settings-init.php:960
+msgid "No address"
+msgstr "אין כתובת"
+
+#: admin/settings/settings-init.php:966
+msgid "Shipping Tax Class:"
+msgstr "סוג מס משלוח:"
+
+#: admin/settings/settings-init.php:967
+msgid ""
+"Optionally control which tax class shipping gets, or leave it so shipping "
+"tax is based on the cart items themselves."
+msgstr ""
+"לחלופין לשלוט בי משלוח כיתת מס מקבל, או להשאיר אותו כך מס משלוח מבוסס על סל "
+"הפריטים עצמם."
+
+#: admin/settings/settings-init.php:972
+msgid "Shipping tax class based on cart items"
+msgstr "סוג מס משלוח המבוסס על סל הקניות"
+
+#: admin/settings/settings-init.php:977
+msgid "Rounding"
+msgstr "עיגול"
+
+#: admin/settings/settings-init.php:978
+msgid "Round tax at subtotal level, instead of rounding per line"
+msgstr "מס סיבוב ברמת סיכום הביניים, במקום עיגול בכל שורה"
+
+#: admin/settings/settings-init.php:985
+msgid "Additional Tax Classes"
+msgstr "שיעורי מס נוספים"
+
+#: admin/settings/settings-init.php:986
+msgid ""
+"List additonal tax classes below (1 per line). This is in addition to the "
+"default <code>Standard Rate</code>. Tax classes can be assigned to products."
+msgstr ""
+"רשימת שיעורי מס additonal מתחת לקו (1). זאת, בנוסף לברירת המחדל <code> "
+"התעריף סטנדרטי </ code>. שיעורי מס ניתן להקצות למוצרים."
+
+#: admin/settings/settings-init.php:990
+msgid "Reduced Rate%sZero Rate"
+msgstr "הקטין% דרגו את sZero דרג"
+
+#: admin/settings/settings-init.php:994
+msgid "Display prices during cart/checkout:"
+msgstr "הצגת מחירים בעגלה / עזיבה:"
+
+#: admin/settings/settings-init.php:999
+msgid "Including tax"
+msgstr "כולל מע\"מ"
+
+#: admin/settings/settings-init.php:1000
+msgid "Excluding tax"
+msgstr "לא כולל מס"
+
+#: admin/settings/settings-init.php:1012
+msgid "Email Sender Options"
+msgstr "אפשרויות השולח דואר אלקטרוני"
+
+#: admin/settings/settings-init.php:1012
+msgid ""
+"The following options affect the sender (email address and name) used in "
+"WooCommerce emails."
+msgstr ""
+"האפשרויות הבאות ישפיעו על השולח (כתובת דואר אלקטרוני ושם) ששמש במייל "
+"WooCommerce."
+
+#: admin/settings/settings-init.php:1015
+msgid "\"From\" Name"
+msgstr "שם \"מאת\""
+
+#: admin/settings/settings-init.php:1024
+msgid "\"From\" Email Address"
+msgstr "\"מ\" כתובת דואר אלקטרוני"
+
+#: admin/settings/settings-init.php:1037
+msgid "Email Template"
+msgstr "תבנית דואר אלקטרוני"
+
+#: admin/settings/settings-init.php:1037
+msgid ""
+"This section lets you customise the WooCommerce emails. <a href=\"%s\" "
+"target=\"_blank\">Click here to preview your email template</a>. For more "
+"advanced control copy <code>woocommerce/templates/emails/</code> to "
+"<code>yourtheme/woocommerce/emails/</code>."
+msgstr ""
+"סעיף זה מאפשר לך להתאים אישית את המיילים WooCommerce. <a href=\"%s\" target="
+"\"_blank\"> לחץ כאן כדי לצפות בתצוגה מקדימה תבנית הדוא\"ל שלך </ a>. עבור "
+"עותק שליטה מתקדם יותר <code> woocommerce / תבניות / מיילים / </ code> "
+"ל<code> yourtheme / woocommerce / מיילים / </ code>."
+
+#: admin/settings/settings-init.php:1040
+msgid "Header Image"
+msgstr "תמונת הכותרת"
+
+#: admin/settings/settings-init.php:1041
+msgid ""
+"Enter a URL to an image you want to show in the email's header. Upload your "
+"image using the <a href=\"%s\">media uploader</a>."
+msgstr ""
+"הזן כתובת אתר לתמונה שאתה רוצה להציג בכותרת של הדואר האלקטרוני. להעלות את "
+"התמונה שלך באמצעות התקשורת הועלה href=\"%s\"> </ a>."
+
+#: admin/settings/settings-init.php:1049
+msgid "Email Footer Text"
+msgstr "טקסט כותרת תחתונה דוא\"ל"
+
+#: admin/settings/settings-init.php:1050
+msgid "The text to appear in the footer of WooCommerce emails."
+msgstr "הטקסט יופיע בכותרת התחתונה של המיילים WooCommerce."
+
+#: admin/settings/settings-init.php:1054
+msgid "Powered by WooCommerce"
+msgstr "מופעל על ידי WooCommerce"
+
+#: admin/settings/settings-init.php:1058
+msgid "Base Colour"
+msgstr "צבע בסיס"
+
+#: admin/settings/settings-init.php:1059
+msgid ""
+"The base colour for WooCommerce email templates. Default <code>#557da1</"
+"code>."
+msgstr ""
+"צבע הבסיס לתבניות דואר אלקטרוני WooCommerce. <code> ברירת המחדל # 557da1 </ "
+"code>."
+
+#: admin/settings/settings-init.php:1067
+msgid "Background Colour"
+msgstr "צבע רקע"
+
+#: admin/settings/settings-init.php:1068
+msgid ""
+"The background colour for WooCommerce email templates. Default "
+"<code>#f5f5f5</code>."
+msgstr ""
+"צבע הרקע לתבניות דואר אלקטרוני WooCommerce. <code> ברירת המחדל # f5f5f5 </ "
+"code>."
+
+#: admin/settings/settings-init.php:1076
+msgid "Email Body Background Colour"
+msgstr "צבע רקע גוף דוא\"ל"
+
+#: admin/settings/settings-init.php:1077
+msgid "The main body background colour. Default <code>#fdfdfd</code>."
+msgstr "צבע רקע הגוף העיקרי. <code> ברירת המחדל # fdfdfd </ code>."
+
+#: admin/settings/settings-init.php:1085
+msgid "Email Body Text Colour"
+msgstr "צבע גוף טקסט דוא\"ל"
+
+#: admin/settings/settings-init.php:1086
+msgid "The main body text colour. Default <code>#505050</code>."
+msgstr "צבע גוף הטקסט הראשי. <code> ברירת המחדל # 505,050 </ code>."
+
+#: admin/settings/settings-payment-gateways.php:27
+#: admin/settings/settings-shipping-methods.php:29
+#: admin/woocommerce-admin-init.php:757
+#: admin/woocommerce-admin-taxonomies.php:27
+#: admin/woocommerce-admin-taxonomies.php:121
+msgid "Default"
+msgstr "ברירת מחדל"
+
+#: admin/settings/settings-payment-gateways.php:28
+msgid "Gateway"
+msgstr "גייטוואי"
+
+#: admin/settings/settings-payment-gateways.php:45
+msgid "Gateway ID"
+msgstr "מזהה גייטוואי"
+
+#: admin/settings/settings-shipping-methods.php:23
+msgid "Shipping Methods"
+msgstr "שיטות משלוח"
+
+#: admin/settings/settings-shipping-methods.php:25
+msgid "Drag and drop methods to control their display order."
+msgstr "שיטות גרור ושחרר כדי לשלוט בתצוגה שלהם."
+
+#: admin/settings/settings-shipping-methods.php:30
+msgid "Shipping Method"
+msgstr "שיטת משלוח"
+
+#: admin/settings/settings-shipping-methods.php:46
+msgid "Method ID"
+msgstr "מזהה שיטה"
+
+#: admin/settings/settings-tax-rates.php:29
+msgid "Tax Rates for the \"%s\" Class"
+msgstr "שיעורי מס למעמד \"% s\""
+
+#: admin/settings/settings-tax-rates.php:30
+msgid ""
+"Define tax rates for countries and states below. <a href=\"%s\">See here</a> "
+"for available alpha-2 country codes."
+msgstr ""
+"מגדיר שיעורי מס לארצות ומדינות בהמשך. href=\"%s\"> href=\"#\"> ראה כאן </ a> "
+"לאלפא 2 קודי ארץ זמינים."
+
+#: admin/settings/settings-tax-rates.php:36
+msgid "Country&nbsp;Code"
+msgstr "קידומת בינלאומית"
+
+#: admin/settings/settings-tax-rates.php:36
+msgid "A 2 digit country code, e.g. US. Leave blank to apply to all."
+msgstr "קוד מדינה ספרה 2, לדוגמה: ארה\"ב. שאר ריק כדי להחיל על כולם."
+
+#: admin/settings/settings-tax-rates.php:38
+msgid "State&nbsp;Code"
+msgstr "קוד המדינה"
+
+#: admin/settings/settings-tax-rates.php:38
+msgid "A 2 digit state code, e.g. AL. Leave blank to apply to all."
+msgstr "קוד מדינה 2 ספרות, לדוגמה: AL. שאר ריק כדי להחיל על כולם."
+
+#: admin/settings/settings-tax-rates.php:40
+#: admin/settings/settings-tax-rates.php:217
+msgid "ZIP/Postcode"
+msgstr "מיקוד / תא דואר"
+
+#: admin/settings/settings-tax-rates.php:40
+msgid ""
+"Postcode for this rule. Semi-colon (;) separate multiple values. Leave blank "
+"to apply to all areas. Wildcards (*) can be used. Ranges for numeric "
+"postcodes (e.g. 12345-12350) will be expanded into individual postcodes."
+msgstr ""
+"מיקוד לכלל זה. נקודת פסיק (;) נפרדים ערכים מרובים. השאר ריק כדי להחיל על כל "
+"התחומים/שדות. תווים כלליים (*) יכולים להיות בשימוש. טווחים לpostcodes המספרי "
+"(למשל 12,345-12,350) יורחבו לpostcodes הבודדים."
+
+#: admin/settings/settings-tax-rates.php:42
+msgid ""
+"Cities for this rule. Semi-colon (;) separate multiple values. Leave blank "
+"to apply to all cities."
+msgstr ""
+"ערים לכלל זה. נקודת פסיק (;) נפרדים ערכים מרובים. שאר ריק כדי להחיל על כל "
+"הערים."
+
+#: admin/settings/settings-tax-rates.php:44
+msgid "Rate&nbsp;%"
+msgstr "שיעור%"
+
+#: admin/settings/settings-tax-rates.php:44
+msgid "Enter a tax rate (percentage) to 4 decimal places."
+msgstr "הזן את שיעור מס (אחוז) עד 4 ספרות אחרי נקודה עשרוניות."
+
+#: admin/settings/settings-tax-rates.php:46
+msgid "Tax&nbsp;Name"
+msgstr "שם מס"
+
+#: admin/settings/settings-tax-rates.php:46
+msgid "Enter a name for this tax rate."
+msgstr "הזן שם לשיעור מס זה."
+
+#: admin/settings/settings-tax-rates.php:48
+#: admin/settings/settings-tax-rates.php:217
+msgid "Priority"
+msgstr "עדיפות"
+
+#: admin/settings/settings-tax-rates.php:48
+msgid ""
+"Choose a priority for this tax rate. Only 1 matching rate per priority will "
+"be used. To define multiple tax rates for a single area you need to specify "
+"a different priority per rate."
+msgstr ""
+"בחר בעדיפות לשיעור מס זה. התאמת שיעור רק 1 לכל עדיפות יהיה בשימוש. כדי "
+"להגדיר שיעורי מס מרובים לאזור אחד אתה צריך לציין בראש סדר עדיפויות שונות לכל "
+"שיעור."
+
+#: admin/settings/settings-tax-rates.php:50
+#: admin/settings/settings-tax-rates.php:217
+msgid "Compound"
+msgstr "תרכובת"
+
+#: admin/settings/settings-tax-rates.php:50
+msgid ""
+"Choose whether or not this is a compound rate. Compound tax rates are "
+"applied on top of other tax rates."
+msgstr ""
+"לבחור האם או לא זה הוא שיעור מתחם. שיעורי מס מתחם מיושמים על גבי שיעורי מס "
+"אחרים."
+
+#: admin/settings/settings-tax-rates.php:52
+msgid "Choose whether or not this tax rate also gets applied to shipping."
+msgstr "לבחור אם שיעור מס זה יחול על גם מקבל משלוח."
+
+#: admin/settings/settings-tax-rates.php:59
+msgid "Insert row"
+msgstr "הוסף שורה"
+
+#: admin/settings/settings-tax-rates.php:60
+msgid "Remove selected row(s)"
+msgstr "הסר את השורה שנבחרה (ים)"
+
+#: admin/settings/settings-tax-rates.php:62
+msgid "Export CSV"
+msgstr "יצוא CSV"
+
+#: admin/settings/settings-tax-rates.php:63
+msgid "Import CSV"
+msgstr "יבוא CSV"
+
+#: admin/settings/settings-tax-rates.php:163
+msgid "No row(s) selected"
+msgstr "לא נבחרו שורות"
+
+#: admin/settings/settings-tax-rates.php:217
+msgid "Country Code"
+msgstr "קידומת בינלאומית"
+
+#: admin/settings/settings-tax-rates.php:217
+msgid "State Code"
+msgstr "קוד המדינה"
+
+#: admin/settings/settings-tax-rates.php:217
+msgid "Rate %"
+msgstr "שיעור%"
+
+#: admin/settings/settings-tax-rates.php:217
+msgid "Tax Name"
+msgstr "שם מס"
+
+#: admin/woocommerce-admin-attributes.php:77
+msgid "Please, provide an attribute name, slug and type."
+msgstr "אנא, xסם שם תכונה,סלאג וסוג."
+
+#: admin/woocommerce-admin-attributes.php:79
+msgid "Slug “%s” is too long (28 characters max). Shorten it, please."
+msgstr "סלאג \"% s\" ארוך מדי (28 תווים לכל היותר). לקצר אותו, בבקשה."
+
+#: admin/woocommerce-admin-attributes.php:81
+msgid ""
+"Slug “%s” is not allowed because it is a reserved term. Change it, please."
+msgstr "סלאג \"% s\" אינו מותר, כי זה הוא מונח שמור. לשנות אותו, בבקשה."
+
+#: admin/woocommerce-admin-attributes.php:86
+#: admin/woocommerce-admin-attributes.php:91
+msgid "Slug “%s” is already in use. Change it, please."
+msgstr "סלאג \"% s\" כבר נמצא בשימוש. לשנות אותו, בבקשה."
+
+#: admin/woocommerce-admin-attributes.php:227
+msgid "Edit Attribute"
+msgstr "עריכת תכונה"
+
+#: admin/woocommerce-admin-attributes.php:237
+#: admin/woocommerce-admin-attributes.php:376
+msgid "Name for the attribute (shown on the front-end)."
+msgstr "שם לתכונה (המוצג על חזיתי)."
+
+#: admin/woocommerce-admin-attributes.php:242
+#: admin/woocommerce-admin-attributes.php:308
+#: admin/woocommerce-admin-attributes.php:380
+msgid "Slug"
+msgstr "סלאג"
+
+#: admin/woocommerce-admin-attributes.php:246
+#: admin/woocommerce-admin-attributes.php:382
+msgid ""
+"Unique slug/reference for the attribute; must be shorter than 28 characters."
+msgstr "שבלול / התייחסות לתכונה ייחודית; חייב להיות קצר יותר מ -28 תווים."
+
+#: admin/woocommerce-admin-attributes.php:255
+#: admin/woocommerce-admin-attributes.php:388
+msgid "Select"
+msgstr "בחר"
+
+#: admin/woocommerce-admin-attributes.php:256
+#: admin/woocommerce-admin-attributes.php:389
+msgid "Text"
+msgstr "טקסט"
+
+#: admin/woocommerce-admin-attributes.php:259
+#: admin/woocommerce-admin-attributes.php:392
+msgid ""
+"Determines how you select attributes for products. <strong>Text</strong> "
+"allows manual entry via the product page, whereas <strong>select</strong> "
+"attribute terms can be defined from this section. If you plan on using an "
+"attribute for variations use <strong>select</strong>."
+msgstr ""
+"קובע כיצד אתה בוחר תכונות למוצרים. <strong> טקסט </ strong> מאפשר הזנה ידנית "
+"באמצעות דף המוצר, ואילו <strong> בחר </ strong> יכולים להיות מוגדרים במונחים "
+"של תכונות מסעיף זה. אם אתם מתכננים להשתמש בתכונת וריאציות ללהשתמש <strong> "
+"בחר </ strong>."
+
+#: admin/woocommerce-admin-attributes.php:264
+#: admin/woocommerce-admin-attributes.php:396
+msgid "Default sort order"
+msgstr "סדר מיון ברירת מחדל"
+
+#: admin/woocommerce-admin-attributes.php:268
+#: admin/woocommerce-admin-attributes.php:336
+#: admin/woocommerce-admin-attributes.php:398
+msgid "Custom ordering"
+msgstr "הזמנה אישית"
+
+#: admin/woocommerce-admin-attributes.php:270
+#: admin/woocommerce-admin-attributes.php:333
+#: admin/woocommerce-admin-attributes.php:400
+msgid "Term ID"
+msgstr "זיהוי תנאי"
+
+#: admin/woocommerce-admin-attributes.php:272
+#: admin/woocommerce-admin-attributes.php:402
+msgid ""
+"Determines the sort order on the frontend for this attribute. If using "
+"custom ordering, you can drag and drop the terms in this attribute"
+msgstr ""
+"קובע את סדר המיון על הממשק עבור תכונה זו. אם אתם משתמשים בסידור מותאם אישית, "
+"אתה יכול לגרור ולשחרר את התנאים בתכונה זו"
+
+#: admin/woocommerce-admin-attributes.php:277
+msgid "Update"
+msgstr "עדכן"
+
+#: admin/woocommerce-admin-attributes.php:310
+msgid "Order by"
+msgstr "סדר לפי"
+
+#: admin/woocommerce-admin-attributes.php:311
+msgid "Terms"
+msgstr "תנאים"
+
+#: admin/woocommerce-admin-attributes.php:356
+msgid "Configure&nbsp;terms"
+msgstr "הגדרת מונחים"
+
+#: admin/woocommerce-admin-attributes.php:360
+msgid "No attributes currently exist."
+msgstr "תכונות לא קיימות ברגע זה."
+
+#: admin/woocommerce-admin-attributes.php:370
+msgid "Add New Attribute"
+msgstr "הוסף תכונה חדשה"
+
+#: admin/woocommerce-admin-attributes.php:371
+msgid ""
+"Attributes let you define extra product data, such as size or colour. You "
+"can use these attributes in the shop sidebar using the \"layered nav\" "
+"widgets. Please note: you cannot rename an attribute later on."
+msgstr ""
+"תכונות מאפשרות לך להגדיר את נתוני מוצרים נוספים, כגון גודל או צבע. אתה יכול "
+"להשתמש בתכונות אלה בסרגל הצד של החנות באמצעות יישומונים \"שכבתי הניווט\". "
+"שים לב: אתה לא יכול לשנות את שם תכונה בהמשך."
+
+#: admin/woocommerce-admin-attributes.php:405
+msgid "Add Attribute"
+msgstr "הוסף תכונה"
+
+#: admin/woocommerce-admin-attributes.php:416
+msgid "Are you sure you want to delete this attribute?"
+msgstr "האם אתה בטוח שברצונך למחוק את תכונה הזאת?"
+
+#: admin/woocommerce-admin-content.php:26
+#: admin/woocommerce-admin-reports.php:26
+#: admin/woocommerce-admin-reports.php:66
+#: admin/woocommerce-admin-reports.php:82
+#: admin/woocommerce-admin-reports.php:93
+msgid "Overview"
+msgstr "סקירה"
+
+#: admin/woocommerce-admin-content.php:29
+msgid ""
+"Thank you for using WooCommerce :) Should you need help using or extending "
+"WooCommerce please <a href=\"%s\">read the documentation</a>. For further "
+"assistance you can use the <a href=\"%s\">community forum</a> or if you have "
+"access, <a href=\"%s\">our support desk</a>."
+msgstr ""
+"תודה לך על שימוש WooCommerce :) האם אתה צריך עזרה בשימוש או הארכת "
+"WooCommerce בבקשה href=\"%s\"> <a לקרוא את התיעוד </ a>. לקבלת סיוע נוסף אתה "
+"יכול להשתמש בקהילת href=\"%s\"> <a פורום </ a> או אם יש לך גישה, href=\"%s"
+"\"> <a שולחן התמיכה שלנו </ a>."
+
+#: admin/woocommerce-admin-content.php:31
+msgid ""
+"If you are having problems, or to assist us with support, please check the "
+"status page to identify any problems with your configuration:"
+msgstr ""
+"אם את/ה נתקלת בבעיות, או כדי לסייע לנו עם תמיכה, אנא בדוק את דף הסטטוס כדי "
+"לזהות בעיות בהגדרות שלך:"
+
+#: admin/woocommerce-admin-content.php:33 admin/woocommerce-admin-init.php:89
+#: admin/woocommerce-admin-status.php:26
+msgid "System Status"
+msgstr "מצב מערכת"
+
+#: admin/woocommerce-admin-content.php:35
+msgid ""
+"If you come across a bug, or wish to contribute to the project you can also "
+"<a href=\"%s\">get involved on GitHub</a>."
+msgstr ""
+"אם אתם נתקלים בבעיה באתר, או רוצים לתרום לפרויקט שאתה יכול גם href=\"%s\"> "
+"<a להסתבך בGitHub </ a>."
+
+#: admin/woocommerce-admin-content.php:43
+msgid ""
+"Here you can set up your store and customise it to fit your needs. The "
+"sections available from the settings page include:"
+msgstr ""
+"כאן אתה יכול להגדיר את החנות שלך ולהתאים אותו כך שתתאים לצרכים שלך. הסעיפים "
+"הזמינים מדף ההגדרות כוללים:"
+
+#: admin/woocommerce-admin-content.php:44
+msgid ""
+"General settings such as your shop base, currency, and script/styling "
+"options which affect features used in your store."
+msgstr ""
+"הגדרות כלליות כגון בסיס החנות שלך, ואפשרויות מטבע וסקריפט/עיצוב המשפיעות על "
+"תכונות בחנות שלך."
+
+#: admin/woocommerce-admin-content.php:45
+#: admin/woocommerce-admin-settings.php:184
+msgid "Pages"
+msgstr "עמודים"
+
+#: admin/woocommerce-admin-content.php:45
+msgid ""
+"This is where important store page are defined. You can also set up other "
+"pages (such as a Terms page) here."
+msgstr ""
+"זה מקום שבו מוגדרים מאפיינים חדשובים של דף החנות. ניתן להגדיר כאן גם דפים "
+"אחרים (כגון דף תנאים)."
+
+#: admin/woocommerce-admin-content.php:46
+msgid ""
+"Options for how things like price, images and weights appear in your product "
+"catalog."
+msgstr ""
+"אפשרויות לאיך דברים כמו מחיר, תמונות ומשקלים מופיעות בקטלוג המוצרים שלך."
+
+#: admin/woocommerce-admin-content.php:47
+msgid "Options concerning stock and stock notices."
+msgstr "אפשרויות הנוגעים להודעות מניות ובמניות."
+
+#: admin/woocommerce-admin-content.php:48
+msgid "Options concerning tax, including international and local tax rates."
+msgstr "אפשרויות הנוגעים למס, לרבות שיעורי מס מקומי ובינלאומיים."
+
+#: admin/woocommerce-admin-content.php:49
+msgid ""
+"This is where shipping options are defined, and shipping methods are set up."
+msgstr "זה מקום בו אפשרויות משלוח מוגדרות, ושיטות משלוח מוגדרות."
+
+#: admin/woocommerce-admin-content.php:50
+msgid "Payment Methods"
+msgstr "שיטות תשלום"
+
+#: admin/woocommerce-admin-content.php:50
+msgid ""
+"This is where payment gateway options are defined, and individual payment "
+"gateways are set up."
+msgstr "זה מקום בו אפשרויות תשלום שער מוגדרות, ושערים תשלום בודדים מוגדרים."
+
+#: admin/woocommerce-admin-content.php:51
+#: admin/woocommerce-admin-settings.php:189
+msgid "Emails"
+msgstr "הודעות דוא\"ל"
+
+#: admin/woocommerce-admin-content.php:51
+msgid "Here you can customise the way WooCommerce emails appear."
+msgstr "כאן אתה יכול להתאים אישית את אופן המיילים WooCommerce יופיעו."
+
+#: admin/woocommerce-admin-content.php:52
+#: admin/woocommerce-admin-settings.php:190
+msgid "Integration"
+msgstr "השתלבות"
+
+#: admin/woocommerce-admin-content.php:52
+msgid ""
+"The integration section contains options for third party services which "
+"integrate with WooCommerce."
+msgstr ""
+"סעיף האינטגרציה מכיל אפשרויות לשירותי צד שלישיים שמשתלבים עם WooCommerce."
+
+#: admin/woocommerce-admin-content.php:57 admin/woocommerce-admin-init.php:64
+msgid "Reports"
+msgstr "דיווחים"
+
+#: admin/woocommerce-admin-content.php:59
+msgid ""
+"The reports section can be accessed from the left-hand navigation menu. Here "
+"you can generate reports for sales and customers."
+msgstr ""
+"סעיף הדיווחים ניתן לגשת מתפריט הניווט השמאלי. כאן אתה יכול להפיק דוחות על "
+"מכירות ולקוחות."
+
+#: admin/woocommerce-admin-content.php:60
+#: admin/woocommerce-admin-reports.php:23
+#: admin/woocommerce-admin-reports.php:997
+#: admin/woocommerce-admin-reports.php:1095
+#: admin/woocommerce-admin-reports.php:1214
+msgid "Sales"
+msgstr "מכירות"
+
+#: admin/woocommerce-admin-content.php:60
+msgid "Reports for sales based on date, top sellers and top earners."
+msgstr "דיווחים על מכירות המבוססות על תאריך, מובילים ומוכרי מפרנסים עליונים."
+
+#: admin/woocommerce-admin-content.php:61
+msgid "Coupon usage reports."
+msgstr "דוחות שימוש בקופונים."
+
+#: admin/woocommerce-admin-content.php:62
+#: admin/woocommerce-admin-reports.php:79
+msgid "Customers"
+msgstr "לקוחות"
+
+#: admin/woocommerce-admin-content.php:62
+msgid "Customer reports, such as signups per day."
+msgstr "דוחות יומיים לקוח, כגון רישום ליום."
+
+#: admin/woocommerce-admin-content.php:63
+msgid "Stock reports for low stock and out of stock items."
+msgstr "דוחות מלאי עבור מוצרים עם מלאי נמוך ומלאי שאזל."
+
+#: admin/woocommerce-admin-content.php:68
+#: admin/woocommerce-admin-dashboard.php:142
+msgid "Orders"
+msgstr "הזמנות"
+
+#: admin/woocommerce-admin-content.php:70
+msgid ""
+"The orders section can be accessed from the left-hand navigation menu. Here "
+"you can view and manage customer orders."
+msgstr ""
+"ניתן לגשת לאזור ההזמנות דרך תפריט הניווט מצד שמאל. כאן אתה יכול להציג ולנהל "
+"את ההזמנות של הלקוחות."
+
+#: admin/woocommerce-admin-content.php:71
+msgid ""
+"Orders can also be added from this section if you want to set them up for a "
+"customer manually."
+msgstr ""
+"ניתן גם להוסיף הזמנות באזור זה, אם אתה רוצה להגדיר/להרכיב הזמנה ללקוח באופן "
+"ידני."
+
+#: admin/woocommerce-admin-content.php:78
+msgid ""
+"Coupons can be managed from this section. Once added, customers will be able "
+"to enter coupon codes on the cart/checkout page. If a customer uses a coupon "
+"code they will be viewable when viewing orders."
+msgstr ""
+"ניתן לנהל קופונים באזור זה. ברגע שהוספתם קופון, לקוחות יוכלו להכניס את קוד "
+"הקופון בעמוד סל הקניות/קופה. אם לקוח השתמש בקוד הקופון הם יהיו ניתנים לצפייה "
+"בעת צפייה בהזמנות."
+
+#: admin/woocommerce-admin-content.php:82
+msgid "For more information:"
+msgstr "לקבלת מידע נוסף:"
+
+msgid "WooCommerce"
+msgstr "WooCommerce"
+
+#: admin/woocommerce-admin-content.php:84
+msgid "Project on WordPress.org"
+msgstr "פרויקט על WordPress.org"
+
+#: admin/woocommerce-admin-content.php:85
+msgid "Project on Github"
+msgstr "פרויקט על Github"
+
+#: admin/woocommerce-admin-content.php:86
+msgid "WooCommerce Docs"
+msgstr "WooCommerce Docs"
+
+#: admin/woocommerce-admin-content.php:87
+msgid "Official Extensions"
+msgstr "הרחבות רשמיות"
+
+#: admin/woocommerce-admin-content.php:88
+msgid "Official Themes"
+msgstr "תבניות רשמיות"
+
+#: admin/woocommerce-admin-dashboard.php:40
+msgid "Monthly Sales"
+msgstr "מכירות חודשיות"
+
+#: admin/woocommerce-admin-dashboard.php:43
+msgid "WooCommerce Right Now"
+msgstr "WooCommerce עכשיו"
+
+#: admin/woocommerce-admin-dashboard.php:44
+msgid "WooCommerce Recent Orders"
+msgstr "WooCommerce הזמנות אחרונות"
+
+#: admin/woocommerce-admin-dashboard.php:45
+msgid "WooCommerce Recent Reviews"
+msgstr "WooCommerce ביקורות אחרונות"
+
+#: admin/woocommerce-admin-dashboard.php:78
+msgid "Shop Content"
+msgstr "תוכן החנות"
+
+#: admin/woocommerce-admin-dashboard.php:84
+#: admin/woocommerce-admin-functions.php:200
+#: admin/woocommerce-admin-init.php:761
+#: admin/woocommerce-admin-reports.php:996
+#: admin/woocommerce-admin-reports.php:1094
+msgid "Product"
+msgid_plural "Products"
+msgstr[0] "מוצרים"
+msgstr[1] ""
+
+#: admin/woocommerce-admin-dashboard.php:98
+msgid "Product Category"
+msgid_plural "Product Categories"
+msgstr[0] "קטגוריות מוצר"
+msgstr[1] ""
+
+#: admin/woocommerce-admin-dashboard.php:112
+msgid "Product Tag"
+msgid_plural "Product Tags"
+msgstr[0] "תגיות מוצר"
+msgstr[1] ""
+
+#: admin/woocommerce-admin-dashboard.php:126
+msgid "Attribute"
+msgid_plural "Attributes"
+msgstr[0] "תכונה"
+msgstr[1] ""
+
+#: admin/woocommerce-admin-dashboard.php:148
+msgid "Pending"
+msgstr "ממתין"
+
+#: admin/woocommerce-admin-dashboard.php:162
+msgid "On-Hold"
+msgstr "בהמתנה"
+
+#: admin/woocommerce-admin-dashboard.php:190
+msgid "Completed"
+msgstr "הושלם"
+
+#: admin/woocommerce-admin-dashboard.php:207
+msgid "You are using <strong>WooCommerce %s</strong>."
+msgstr "אתה משתמש ב <strong> WooCommerce% s </ strong>."
+
+#: admin/woocommerce-admin-dashboard.php:238
+msgid "l jS \\of F Y h:i:s A"
+msgstr ""
+
+#: admin/woocommerce-admin-dashboard.php:239
+msgid "item"
+msgid_plural "items"
+msgstr[0] "פריטים"
+msgstr[1] ""
+
+#: admin/woocommerce-admin-dashboard.php:239
+msgid "Total:"
+msgstr "סך הכל:"
+
+#: admin/woocommerce-admin-dashboard.php:245
+msgid "There are no product orders yet."
+msgstr "לא קיימים הזמנות למוצר זה"
+
+#: admin/woocommerce-admin-dashboard.php:279
+msgid "out of 5"
+msgstr "מתוך 5"
+
+#: admin/woocommerce-admin-dashboard.php:287
+msgid "There are no product reviews yet."
+msgstr "לא קיימת ביקורת למוצר זה עדיין."
+
+#: admin/woocommerce-admin-dashboard.php:428
+msgid "Sold"
+msgstr "נמכר"
+
+#: admin/woocommerce-admin-dashboard.php:429
+msgid "Earned"
+msgstr "הרוויח"
+
+#: admin/woocommerce-admin-functions.php:190
+#: admin/woocommerce-admin-install.php:225
+msgid "Order Received"
+msgstr "הזמנה התקבלה"
+
+#: admin/woocommerce-admin-functions.php:192
+msgid ""
+"Thank you, we are now processing your order. Your order's details are below."
+msgstr "תודה , אנחנו מעבדים את ההזמנה שלך. פרטי ההזמנה שלך מופיעים למטה."
+
+#: admin/woocommerce-admin-functions.php:194
+msgid "Order:"
+msgstr "הזמנה:"
+
+#: admin/woocommerce-admin-functions.php:201
+msgid "Quantity"
+msgstr "כמות"
+
+#: admin/woocommerce-admin-functions.php:214
+msgid "Order total:"
+msgstr "סה\"כ בהזמנה:"
+
+#: admin/woocommerce-admin-functions.php:220
+msgid "Customer details"
+msgstr "פרטי לקוח"
+
+#: admin/woocommerce-admin-functions.php:226
+msgid "Billing address"
+msgstr "כתובת חיוב"
+
+#: admin/woocommerce-admin-functions.php:233
+msgid "Shipping address"
+msgstr "כתובת למשלוח"
+
+#: admin/woocommerce-admin-functions.php:465
+msgid "Could not compile woocommerce.less:"
+msgstr "לא הצליח לקמפל woocommerce.less:"
+
+#: admin/woocommerce-admin-functions.php:486
+#: admin/woocommerce-admin-functions.php:487
+msgid "Mark processing"
+msgstr "סמן עיבוד"
+
+#: admin/woocommerce-admin-functions.php:489
+#: admin/woocommerce-admin-functions.php:490
+msgid "Mark completed"
+msgstr "סמן הושלם"
+
+#: admin/woocommerce-admin-functions.php:527
+msgid "Order status changed by bulk edit:"
+msgstr "מצב הזמנה שונה על-ידי עריכה בכמות גדולה:"
+
+#: admin/woocommerce-admin-functions.php:550
+msgid "Order status changed."
+msgid_plural "%s order statuses changed."
+msgstr[0] "מצב הזמנה השתנה."
+msgstr[1] ""
+
+#: admin/woocommerce-admin-init.php:88
+msgid "WooCommerce Settings"
+msgstr "הגדרות WooCommerce"
+
+#: admin/woocommerce-admin-init.php:89
+msgid "WooCommerce Status"
+msgstr "סטטוס WooCommerce"
+
+#: admin/woocommerce-admin-init.php:142 admin/woocommerce-admin-init.php:144
+msgctxt "Admin menu name"
+msgid "Orders"
+msgstr "הזמנות"
+
+#: admin/woocommerce-admin-init.php:433
+msgid ""
+"Are you sure you want to remove the selected items? If you have previously "
+"reduced this item's stock, or this order was submitted by a customer, you "
+"will need to manually restore the item's stock."
+msgstr ""
+"האם אתה בטוח שברצונך להסיר את הפריטים שנבחרו? אם צמצמו בעבר מניותיו של פריט "
+"זה או צו זה הוגש על ידי לקוח, תצטרך להחזיר את מניותיו של הפריט באופן ידני."
+
+#: admin/woocommerce-admin-init.php:434
+msgid "Please select some items."
+msgstr "אנא בחר פריטים מסוימים."
+
+#: admin/woocommerce-admin-init.php:435
+msgid "Remove this item meta?"
+msgstr "הסר פריט מטה זה?"
+
+#: admin/woocommerce-admin-init.php:436
+msgid "Remove this attribute?"
+msgstr "הסר תכונה זו?"
+
+#: admin/woocommerce-admin-init.php:444
+msgid "Enter a name for the new attribute term:"
+msgstr "הזן שם עבור טווח תכונה החדש:"
+
+#: admin/woocommerce-admin-init.php:445
+msgid "Calculate totals based on order items, discounts, and shipping?"
+msgstr "חשב סכומים המבוססים על פריטים מתוך ההזמנה, הנחות ומשלוח?"
+
+#: admin/woocommerce-admin-init.php:446
+msgid ""
+"Calculate line taxes? This will calculate taxes based on the customers "
+"country. If no billing/shipping is set it will use the store base country."
+msgstr ""
+"חישוב מסי קו? זה יהיה לחשב את המסים המבוססים על המדינה הלקוחות. אם אין "
+"חיוב / משלוח מוגדר הוא ישתמש המדינה בסיס החנות."
+
+#: admin/woocommerce-admin-init.php:447
+msgid ""
+"Copy billing information to shipping information? This will remove any "
+"currently entered shipping information."
+msgstr ""
+"העתק את פרטי/מידע אודות החיוב לפרטי המשלוח? אופציה זו תסיר את כל המידע המוזן "
+"בפרטי המשלוח."
+
+#: admin/woocommerce-admin-init.php:448
+msgid ""
+"Load the customer's billing information? This will remove any currently "
+"entered billing information."
+msgstr "טען את פרטי החיוב של הלקוח? אופציה זו תסיר את כל פרטי חיוב הקיימים בו."
+
+#: admin/woocommerce-admin-init.php:449
+msgid ""
+"Load the customer's shipping information? This will remove any currently "
+"entered shipping information."
+msgstr "טען מידע המשלוח של הלקוח? זו תסיר את כל מידע משלוח נכנס ברגע זה."
+
+#: admin/woocommerce-admin-init.php:453
+msgid "No customer selected"
+msgstr "לקוח לא נבחר."
+
+#: admin/woocommerce-admin-init.php:665
+msgid "Product updated. <a href=\"%s\">View Product</a>"
+msgstr "עדכן את המוצר. צפו במוצרי href=\"%s\"> </ a>"
+
+#: admin/woocommerce-admin-init.php:666 admin/woocommerce-admin-init.php:681
+#: admin/woocommerce-admin-init.php:696
+msgid "Custom field updated."
+msgstr "שדה מותאם אישית עודכן."
+
+#: admin/woocommerce-admin-init.php:667 admin/woocommerce-admin-init.php:682
+#: admin/woocommerce-admin-init.php:697
+msgid "Custom field deleted."
+msgstr "שדה מותאם אישית נמחק."
+
+#: admin/woocommerce-admin-init.php:668
+msgid "Product updated."
+msgstr "מוצר עודכן."
+
+#: admin/woocommerce-admin-init.php:669
+msgid "Product restored to revision from %s"
+msgstr "המוצר הוחזר לגרסה משל%"
+
+#: admin/woocommerce-admin-init.php:670
+msgid "Product published. <a href=\"%s\">View Product</a>"
+msgstr "פרסם מוצר. צפו במוצרי href=\"%s\"> </ a>"
+
+#: admin/woocommerce-admin-init.php:671
+msgid "Product saved."
+msgstr "מוצר נשמר."
+
+#: admin/woocommerce-admin-init.php:672
+msgid "Product submitted. <a target=\"_blank\" href=\"%s\">Preview Product</a>"
+msgstr "מוצר שהוגש. מוצרים מקדימה href=\"%s\"> target=\"_blank\" </ a>"
+
+#: admin/woocommerce-admin-init.php:673
+msgid ""
+"Product scheduled for: <strong>%1$s</strong>. <a target=\"_blank\" href="
+"\"%2$s\">Preview Product</a>"
+msgstr ""
+"מוצר מתוכנן ל: <strong>% 1 $ s </ strong>. מוצרים מקדימה href=\"%2$s\"> "
+"target=\"_blank\" </ a>"
+
+#: admin/woocommerce-admin-init.php:674 admin/woocommerce-admin-init.php:689
+#: admin/woocommerce-admin-init.php:704
+msgid "M j, Y @ G:i"
+msgstr "ז J, Y @ G: אני"
+
+#: admin/woocommerce-admin-init.php:675
+msgid ""
+"Product draft updated. <a target=\"_blank\" href=\"%s\">Preview Product</a>"
+msgstr ""
+"הטיוטה מעודכנת של מוצר. מוצרים מקדימה href=\"%s\"> target=\"_blank\" </ a>"
+
+#: admin/woocommerce-admin-init.php:680 admin/woocommerce-admin-init.php:683
+#: admin/woocommerce-admin-init.php:685
+msgid "Order updated."
+msgstr "הזמנה עודכנה"
+
+#: admin/woocommerce-admin-init.php:684
+msgid "Order restored to revision from %s"
+msgstr "הזמנה שוחזרה כדי לשחזר לגרסה משל%"
+
+#: admin/woocommerce-admin-init.php:686
+msgid "Order saved."
+msgstr "הזמנה נמשרה"
+
+#: admin/woocommerce-admin-init.php:687
+msgid "Order submitted."
+msgstr "הזמנה הוגשה."
+
+#: admin/woocommerce-admin-init.php:688
+msgid "Order scheduled for: <strong>%1$s</strong>."
+msgstr "הצו נקבע ל: <strong>% 1 $ s </ strong>."
+
+#: admin/woocommerce-admin-init.php:690
+msgid "Order draft updated."
+msgstr "טיוטת הזמנה עודכנה"
+
+#: admin/woocommerce-admin-init.php:695 admin/woocommerce-admin-init.php:698
+#: admin/woocommerce-admin-init.php:700
+msgid "Coupon updated."
+msgstr "עודכן קופון."
+
+#: admin/woocommerce-admin-init.php:699
+msgid "Coupon restored to revision from %s"
+msgstr "קופון שוחזר לגרסה משל%"
+
+#: admin/woocommerce-admin-init.php:701
+msgid "Coupon saved."
+msgstr "קופון הציל."
+
+#: admin/woocommerce-admin-init.php:702
+msgid "Coupon submitted."
+msgstr "קופון נשמר"
+
+#: admin/woocommerce-admin-init.php:703
+msgid "Coupon scheduled for: <strong>%1$s</strong>."
+msgstr "קופון מתוכנן: <strong>% 1 $ s </ strong>."
+
+#: admin/woocommerce-admin-init.php:705
+msgid "Coupon draft updated."
+msgstr "טיוטת הקופון עודכנה."
+
+#: admin/woocommerce-admin-init.php:722
+msgid "Order notes"
+msgstr "הערות להזמנה"
+
+#: admin/woocommerce-admin-init.php:737
+msgid ""
+"These settings control the permalinks used for products. These settings only "
+"apply when <strong>not using \"default\" permalinks above</strong>."
+msgstr ""
+"הגדרות אלה קובעות את permalinks המשמש למוצרים. הגדרות אלה חלות רק כאשר לא "
+"משתמש <strong> permalinks \"ברירת המחדל\" מעל </ strong>."
+
+#: admin/woocommerce-admin-init.php:744
+msgctxt "default-slug"
+msgid "shop"
+msgstr "חנות"
+
+#: admin/woocommerce-admin-init.php:745
+msgctxt "default-slug"
+msgid "product"
+msgstr "מוצר"
+
+#: admin/woocommerce-admin-init.php:766
+msgid "Shop base"
+msgstr "בסיס החנות"
+
+#: admin/woocommerce-admin-init.php:770
+msgid "Shop base with category"
+msgstr "חנות הבסיס עם קטגוריה"
+
+#: admin/woocommerce-admin-init.php:776
+msgid "Custom Base"
+msgstr "בסיס מותאם אישית"
+
+#: admin/woocommerce-admin-init.php:778
+msgid ""
+"Enter a custom base to use. A base <strong>must</strong> be set or WordPress "
+"will use default instead."
+msgstr ""
+"הזן בסיס מותאם אישית לשימוש. <strong> בסיס חייב </ strong> להיות סט או "
+"וורדפרס ישתמש בברירת מחדל במקום."
+
+#: admin/woocommerce-admin-init.php:806
+msgid "Product permalink base"
+msgstr "בסיס קישור למוצר"
+
+#: admin/woocommerce-admin-init.php:811
+msgid "Product category base"
+msgstr "בסיס קישור קטגוריית מוצר"
+
+#: admin/woocommerce-admin-init.php:818
+msgid "Product tag base"
+msgstr "בסיס תג מוצר"
+
+#: admin/woocommerce-admin-init.php:825
+msgid "Product attribute base"
+msgstr "בסיס תכונה מוצר"
+
+#: admin/woocommerce-admin-install.php:195
+msgctxt "page_slug"
+msgid "shop"
+msgstr "חנות"
+
+#: admin/woocommerce-admin-install.php:195
+msgid "Shop"
+msgstr "חנות"
+
+#: admin/woocommerce-admin-install.php:198
+msgctxt "page_slug"
+msgid "cart"
+msgstr "סל קניות"
+
+#: admin/woocommerce-admin-install.php:198
+#: admin/woocommerce-admin-status.php:303
+msgid "Cart"
+msgstr "סל קניות"
+
+#: admin/woocommerce-admin-install.php:201
+msgctxt "page_slug"
+msgid "checkout"
+msgstr "קופה ותשלום"
+
+#: admin/woocommerce-admin-install.php:204
+msgctxt "page_slug"
+msgid "my-account"
+msgstr "-החשבון שלי"
+
+#: admin/woocommerce-admin-install.php:204
+#: admin/woocommerce-admin-status.php:319
+msgid "My Account"
+msgstr "החשבון שלי"
+
+#: admin/woocommerce-admin-install.php:210
+msgctxt "page_slug"
+msgid "edit-address"
+msgstr "ערוך כתובת"
+
+#: admin/woocommerce-admin-install.php:210
+msgid "Edit My Address"
+msgstr "ערוך את הכתובת שלי"
+
+#: admin/woocommerce-admin-install.php:213
+msgctxt "page_slug"
+msgid "view-order"
+msgstr "הצג הזמנה"
+
+#: admin/woocommerce-admin-install.php:213
+#: admin/woocommerce-admin-status.php:327
+msgid "View Order"
+msgstr "הצג הזמנה"
+
+#: admin/woocommerce-admin-install.php:216
+msgctxt "page_slug"
+msgid "change-password"
+msgstr "שינוי סיסמה"
+
+#: admin/woocommerce-admin-install.php:216
+#: admin/woocommerce-admin-status.php:331
+msgid "Change Password"
+msgstr "שינוי סיסמא"
+
+#: admin/woocommerce-admin-install.php:219
+msgctxt "page_slug"
+msgid "logout"
+msgstr "התנתקות"
+
+#: admin/woocommerce-admin-install.php:219
+msgid "Logout"
+msgstr "התנתקות"
+
+#: admin/woocommerce-admin-install.php:222
+msgctxt "page_slug"
+msgid "pay"
+msgstr "שלם"
+
+#: admin/woocommerce-admin-install.php:222
+msgid "Checkout &rarr; Pay"
+msgstr "לקופה  ← תשלום"
+
+#: admin/woocommerce-admin-install.php:225
+msgctxt "page_slug"
+msgid "order-received"
+msgstr "הזמנות-שהתקבלו"
+
+#: admin/woocommerce-admin-reports.php:32
+msgid "Sales by day"
+msgstr "מכירות לפי יום"
+
+#: admin/woocommerce-admin-reports.php:37
+msgid "Sales by month"
+msgstr "מכירות לפי חודש"
+
+#: admin/woocommerce-admin-reports.php:42
+msgid "Product Sales"
+msgstr "מכירת מוצרים"
+
+#: admin/woocommerce-admin-reports.php:47
+msgid "Top sellers"
+msgstr ""
+
+#: admin/woocommerce-admin-reports.php:52
+msgid "Top earners"
+msgstr "המפרנסים ביותר"
+
+#: admin/woocommerce-admin-reports.php:57
+msgid "Sales by category"
+msgstr "מכירות לפי קטגוריה"
+
+#: admin/woocommerce-admin-reports.php:72
+msgid "Discounts by coupon"
+msgstr "הנחות על ידי קופון"
+
+#: admin/woocommerce-admin-reports.php:104
+msgid "Taxes by month"
+msgstr "מיסים לפי חודש"
+
+#: admin/woocommerce-admin-reports.php:243
+#: admin/woocommerce-admin-reports.php:508
+#: admin/woocommerce-admin-reports.php:713
+#: admin/woocommerce-admin-reports.php:894
+msgid "Sales amount"
+msgstr "סכום מכירות"
+
+#: admin/woocommerce-admin-reports.php:248
+#: admin/woocommerce-admin-reports.php:508
+#: admin/woocommerce-admin-reports.php:713
+#: admin/woocommerce-admin-reports.php:894
+msgid "Number of sales"
+msgstr "מספר המכירות"
+
+#: admin/woocommerce-admin-reports.php:380
+msgid "Total sales"
+msgstr "סך מכירות"
+
+#: admin/woocommerce-admin-reports.php:382
+#: admin/woocommerce-admin-reports.php:388
+#: admin/woocommerce-admin-reports.php:394
+#: admin/woocommerce-admin-reports.php:400
+#: admin/woocommerce-admin-reports.php:406
+#: admin/woocommerce-admin-reports.php:412
+#: admin/woocommerce-admin-reports.php:655
+#: admin/woocommerce-admin-reports.php:661
+#: admin/woocommerce-admin-reports.php:667
+#: admin/woocommerce-admin-reports.php:673
+#: admin/woocommerce-admin-reports.php:839
+#: admin/woocommerce-admin-reports.php:845
+#: admin/woocommerce-admin-reports.php:851
+#: admin/woocommerce-admin-reports.php:857
+#: admin/woocommerce-admin-reports.php:1380
+#: admin/woocommerce-admin-reports.php:1386
+#: admin/woocommerce-admin-reports.php:1392
+#: admin/woocommerce-admin-reports.php:1826
+#: admin/woocommerce-admin-reports.php:1832
+#: admin/woocommerce-admin-reports.php:1838
+#: admin/woocommerce-admin-reports.php:1844
+#: admin/woocommerce-admin-reports.php:1850
+#: admin/woocommerce-admin-reports.php:1856
+#: admin/woocommerce-admin-reports.php:2320
+#: admin/woocommerce-admin-reports.php:2331
+#: admin/woocommerce-admin-reports.php:2342
+msgid "n/a"
+msgstr ""
+
+#: admin/woocommerce-admin-reports.php:386
+msgid "Total orders"
+msgstr "סך כל הזמנות"
+
+#: admin/woocommerce-admin-reports.php:388
+#: admin/woocommerce-admin-reports.php:661
+#: admin/woocommerce-admin-reports.php:845
+msgid "items"
+msgstr "פריטים"
+
+#: admin/woocommerce-admin-reports.php:392
+msgid "Average order total"
+msgstr "סך הזמנה ממוצע"
+
+#: admin/woocommerce-admin-reports.php:398
+msgid "Average order items"
+msgstr "פריטי הזמנה ממוצעים"
+
+#: admin/woocommerce-admin-reports.php:404
+msgid "Discounts used"
+msgstr "הנחות בשימוש"
+
+#: admin/woocommerce-admin-reports.php:410
+msgid "Total shipping costs"
+msgstr "סך כל עלויות משלוח"
+
+#: admin/woocommerce-admin-reports.php:418
+msgid "This month's sales"
+msgstr "המכירות של חודש זה"
+
+#: admin/woocommerce-admin-reports.php:647
+#: admin/woocommerce-admin-reports.php:991
+#: admin/woocommerce-admin-reports.php:1089
+#: admin/woocommerce-admin-reports.php:1372
+msgid "From:"
+msgstr "מ:"
+
+#: admin/woocommerce-admin-reports.php:647
+#: admin/woocommerce-admin-reports.php:991
+#: admin/woocommerce-admin-reports.php:1089
+#: admin/woocommerce-admin-reports.php:1372
+msgid "To:"
+msgstr "ל:"
+
+#: admin/woocommerce-admin-reports.php:647
+#: admin/woocommerce-admin-reports.php:832
+#: admin/woocommerce-admin-reports.php:991
+#: admin/woocommerce-admin-reports.php:1089
+#: admin/woocommerce-admin-reports.php:1245
+#: admin/woocommerce-admin-reports.php:1372
+#: admin/woocommerce-admin-reports.php:1505
+#: admin/woocommerce-admin-reports.php:2309
+#: admin/woocommerce-admin-reports.php:2492
+msgid "Show"
+msgstr "הצג"
+
+#: admin/woocommerce-admin-reports.php:653
+msgid "Total sales in range"
+msgstr "סך כל מכירות בטווח"
+
+#: admin/woocommerce-admin-reports.php:659
+msgid "Total orders in range"
+msgstr "סך כל הזמנות בטווח"
+
+#: admin/woocommerce-admin-reports.php:665
+msgid "Average order total in range"
+msgstr "סך הזמנה ממוצע בטווח"
+
+#: admin/woocommerce-admin-reports.php:671
+msgid "Average order items in range"
+msgstr "פריטי הזמנה ממוצעים בטווח"
+
+#: admin/woocommerce-admin-reports.php:679
+msgid "Sales in range"
+msgstr "מכירות בטווח"
+
+#: admin/woocommerce-admin-reports.php:826
+#: admin/woocommerce-admin-reports.php:2303
+msgid "Year:"
+msgstr "שנה:"
+
+#: admin/woocommerce-admin-reports.php:837
+msgid "Total sales for year"
+msgstr "סך כל מכירות לשנה"
+
+#: admin/woocommerce-admin-reports.php:843
+msgid "Total orders for year"
+msgstr "סך הזמנות לשנה"
+
+#: admin/woocommerce-admin-reports.php:849
+msgid "Average order total for year"
+msgstr "סך הזמנה ממוצע לשנה"
+
+#: admin/woocommerce-admin-reports.php:855
+msgid "Average order items for year"
+msgstr "פריטי הזמנה ממוצעים לשנה"
+
+#: admin/woocommerce-admin-reports.php:863
+msgid "Monthly sales for year"
+msgstr "מכירות חודשיות לשנה"
+
+#: admin/woocommerce-admin-reports.php:1011
+msgid "Product does not exist"
+msgstr "מוצר אינו קיים"
+
+#: admin/woocommerce-admin-reports.php:1110
+msgid "Product no longer exists"
+msgstr "מוצר אינו קיים יותר"
+
+#: admin/woocommerce-admin-reports.php:1209
+msgid "Sales for %s:"
+msgstr "מכירות ל% s:"
+
+#: admin/woocommerce-admin-reports.php:1213
+#: admin/woocommerce-admin-reports.php:2351
+msgid "Month"
+msgstr "חודש"
+
+#: admin/woocommerce-admin-reports.php:1235
+msgid "No sales :("
+msgstr "אין מכירות: ("
+
+#: admin/woocommerce-admin-reports.php:1378
+msgid "Total orders containing coupons"
+msgstr "סך כל הזמנות המכילות קופונים"
+
+#: admin/woocommerce-admin-reports.php:1384
+msgid "Percent of orders containing coupons"
+msgstr "אחוז מסך כל ההזמנות המכילות קופונים"
+
+#: admin/woocommerce-admin-reports.php:1390
+msgid "Total coupon discount"
+msgstr "סה\"כ הנחה המתקבלת על-ידי הקופון"
+
+#: admin/woocommerce-admin-reports.php:1399
+msgid "Most popular coupons"
+msgstr "הקופונים הפופולריים ביותר"
+
+#: admin/woocommerce-admin-reports.php:1409
+msgid "Used 1 time"
+msgid_plural "Used %d times"
+msgstr[0] "שומש פעם אחת"
+msgstr[1] ""
+
+#: admin/woocommerce-admin-reports.php:1412
+#: admin/woocommerce-admin-reports.php:1434
+msgid "No coupons found"
+msgstr "לא נמצאו קופונים"
+
+#: admin/woocommerce-admin-reports.php:1421
+msgid "Greatest discount amount"
+msgstr "סכום הנחה הגדול ביותר"
+
+#: admin/woocommerce-admin-reports.php:1431
+msgid "Discounted %s"
+msgstr "S% הנחה"
+
+#: admin/woocommerce-admin-reports.php:1490
+#: admin/woocommerce-admin-reports.php:2469
+msgid "Show:"
+msgstr "הצג:"
+
+#: admin/woocommerce-admin-reports.php:1547
+msgid "Coupon"
+msgstr "קופון"
+
+#: admin/woocommerce-admin-reports.php:1630
+msgid "Top coupon"
+msgstr "הקופון הטוב ביותר"
+
+#: admin/woocommerce-admin-reports.php:1638
+msgid "Worst coupon"
+msgstr "הקופון הכי גרוע"
+
+#: admin/woocommerce-admin-reports.php:1646
+msgid "Discount average"
+msgstr "הנחה ממוצעת"
+
+#: admin/woocommerce-admin-reports.php:1654
+msgid "Discount median"
+msgstr "הנחת חציון"
+
+#: admin/woocommerce-admin-reports.php:1674
+msgid "Monthly discounts by coupon"
+msgstr "הנחות חודשיות לפי הקופון"
+
+#: admin/woocommerce-admin-reports.php:1824
+msgid "Total customers"
+msgstr "סך כל הלקוחות"
+
+#: admin/woocommerce-admin-reports.php:1830
+msgid "Total customer sales"
+msgstr "סך כל מכירות ללקוח"
+
+#: admin/woocommerce-admin-reports.php:1836
+msgid "Total guest sales"
+msgstr "סך כל מכירות אורחים"
+
+#: admin/woocommerce-admin-reports.php:1842
+msgid "Total customer orders"
+msgstr "סך כל הזמנות של לקוחות"
+
+#: admin/woocommerce-admin-reports.php:1848
+msgid "Total guest orders"
+msgstr "הזמנות אורחים סך"
+
+#: admin/woocommerce-admin-reports.php:1854
+msgid "Average orders per customer"
+msgstr "הזמנות ממוצעות ללקוח"
+
+#: admin/woocommerce-admin-reports.php:1862
+msgid "Signups per day"
+msgstr "הרשמות ליום"
+
+#: admin/woocommerce-admin-reports.php:2083
+msgid "Low stock"
+msgstr "מניית נמוכה"
+
+#: admin/woocommerce-admin-reports.php:2106
+#: admin/woocommerce-admin-reports.php:2145
+msgid "%d in stock"
+msgid_plural "%d in stock"
+msgstr[0] "ד% במנייה"
+msgstr[1] ""
+
+#: admin/woocommerce-admin-reports.php:2111
+msgid "No products are low in stock."
+msgstr "אין מוצרים הם נמוכים במניות."
+
+#: admin/woocommerce-admin-reports.php:2143
+msgid "Marked out of stock"
+msgstr "סימנה אזל מהמלאי"
+
+#: admin/woocommerce-admin-reports.php:2150
+msgid "No products are out in stock."
+msgstr "אין מוצרים נמצאים במלאי."
+
+#: admin/woocommerce-admin-reports.php:2314
+msgid "Total taxes for year"
+msgstr "סך כל מסים לשנה"
+
+#: admin/woocommerce-admin-reports.php:2325
+msgid "Total product taxes for year"
+msgstr "מסי התוצר לשנה"
+
+#: admin/woocommerce-admin-reports.php:2336
+msgid "Total shipping tax for year"
+msgstr "מס משלוח סה\"כ לתקופה של שנה"
+
+#: admin/woocommerce-admin-reports.php:2352
+msgid "Total Sales"
+msgstr "סך כל מכירות"
+
+#: admin/woocommerce-admin-reports.php:2352
+msgid "This is the sum of the 'Order Total' field within your orders."
+msgstr "זה הוא הסכום של השדה 'סה\"כ סדר' בהזמנות שלך."
+
+#: admin/woocommerce-admin-reports.php:2353
+msgid "Total Shipping"
+msgstr "סה\"כ משלוח"
+
+#: admin/woocommerce-admin-reports.php:2353
+msgid "This is the sum of the 'Shipping Total' field within your orders."
+msgstr "זה הוא הסכום של השדה 'סה\"כ משלוח \"בתוך ההזמנות שלך."
+
+#: admin/woocommerce-admin-reports.php:2354
+msgid "Total Product Taxes"
+msgstr "מסים מסך תוצר"
+
+#: admin/woocommerce-admin-reports.php:2354
+msgid "This is the sum of the 'Cart Tax' field within your orders."
+msgstr "זה הוא הסכום של השדה 'מס עגלה' בהזמנות שלך."
+
+#: admin/woocommerce-admin-reports.php:2355
+msgid "Total Shipping Taxes"
+msgstr "מסים משלוח סך הכל"
+
+#: admin/woocommerce-admin-reports.php:2355
+msgid "This is the sum of the 'Shipping Tax' field within your orders."
+msgstr "זה הוא הסכום של השדה 'מס משלוח \"בתוך ההזמנות שלך."
+
+#: admin/woocommerce-admin-reports.php:2356
+msgid "Total Taxes"
+msgstr "סה\"כ מיסים"
+
+#: admin/woocommerce-admin-reports.php:2356
+msgid ""
+"This is the sum of the 'Cart Tax' and 'Shipping Tax' fields within your "
+"orders."
+msgstr "זה הוא הסכום של \"מס עגלות 'והשדות\" מס משלוח \"בתוך ההזמנות שלך."
+
+#: admin/woocommerce-admin-reports.php:2357
+msgid "Net profit"
+msgstr "רווח נקי"
+
+#: admin/woocommerce-admin-reports.php:2357
+msgid "Total sales minus shipping and tax."
+msgstr "סך מכירות בניכוי דמים משלוח ומסים."
+
+#: admin/woocommerce-admin-reports.php:2402
+msgid "Toggle tax rows"
+msgstr "החלפת שורות מס"
+
+#: admin/woocommerce-admin-reports.php:2545
+msgid "Category"
+msgstr "קטגוריה"
+
+#: admin/woocommerce-admin-reports.php:2648
+msgid "Top category"
+msgstr "קטגוריה הטובה ביותר"
+
+#: admin/woocommerce-admin-reports.php:2657
+msgid "Worst category"
+msgstr "הקטגוריה הגרועה ביותר"
+
+#: admin/woocommerce-admin-reports.php:2665
+msgid "Category sales average"
+msgstr "ממוצע מכירות קטגוריה"
+
+#: admin/woocommerce-admin-reports.php:2676
+msgid "Category sales median"
+msgstr "מכירות קטגוריה חציון"
+
+#: admin/woocommerce-admin-reports.php:2696
+msgid "Monthly sales by category"
+msgstr "מכירות חודשיות לפי קטגוריה"
+
+#: admin/woocommerce-admin-settings.php:45
+msgid "Action failed. Please refresh the page and retry."
+msgstr "פעולה נכשלה. אנא רענן את הדף ונסה שוב."
+
+#: admin/woocommerce-admin-settings.php:164
+msgid "Your settings have been saved."
+msgstr "ההגדרות שלך נשמרו."
+
+#: admin/woocommerce-admin-settings.php:210
+msgid ""
+"More functionality and gateway options available via <a href=\"%s\" target="
+"\"_blank\">WC official extensions</a>."
+msgstr ""
+"פונקציונלי יותר ואפשרויות זמינות דרך שער <a href=\"%s\" target=\"_blank\"> "
+"הרחבות רשמיות מקלחת </ a>."
+
+#: admin/woocommerce-admin-settings.php:228
+msgid "Tax Rates"
+msgstr "שיעורי מס"
+
+#: admin/woocommerce-admin-settings.php:255
+msgid "Email Options"
+msgstr "אפשרויות דואר אלקטרוני"
+
+#: admin/woocommerce-admin-settings.php:388
+msgid "Save changes"
+msgstr "שמור את השינויים"
+
+#: admin/woocommerce-admin-settings.php:429
+msgid "The changes you made will be lost if you navigate away from this page."
+msgstr "השינויים שביצעת לא יישמרו אם תצאו מדף זה."
+
+#: admin/woocommerce-admin-settings.php:801
+msgid "Hard Crop"
+msgstr "יבול קשה"
+
+#: admin/woocommerce-admin-settings.php:826
+msgid "Select a page&hellip;"
+msgstr "בחר דף ..."
+
+#: admin/woocommerce-admin-settings.php:849
+msgid "Choose a country&hellip;"
+msgstr "בחר מדינה ..."
+
+#: admin/woocommerce-admin-settings.php:869
+msgid "Choose countries&hellip;"
+msgstr "בחר מדינות ..."
+
+#: admin/woocommerce-admin-status.php:27
+#: admin/woocommerce-admin-status.php:664
+msgid "Tools"
+msgstr "כלי עבודה"
+
+#: admin/woocommerce-admin-status.php:62
+msgid "Please include this information when requesting support:"
+msgstr "נא לכלול את המידע הזה כשבקש תמיכה:"
+
+#: admin/woocommerce-admin-status.php:63
+msgid "Download System Report File"
+msgstr "הורד קובץ דוח מערכת"
+
+#: admin/woocommerce-admin-status.php:71
+msgid "Environment"
+msgstr "הסביבה"
+
+#: admin/woocommerce-admin-status.php:77
+msgid "Home URL"
+msgstr "כתובת דף הבית"
+
+#: admin/woocommerce-admin-status.php:81
+msgid "Site URL"
+msgstr "כתובת URL של האתר"
+
+#: admin/woocommerce-admin-status.php:85
+msgid "WC Version"
+msgstr "WC גירסה"
+
+#: admin/woocommerce-admin-status.php:89
+msgid "WC Database Version"
+msgstr "גרסת מסד הנתונים WC"
+
+#: admin/woocommerce-admin-status.php:93
+msgid "WP Version"
+msgstr "גרסת WP"
+
+#: admin/woocommerce-admin-status.php:97
+msgid "Web Server Info"
+msgstr "מידע שרת אינטרנט"
+
+#: admin/woocommerce-admin-status.php:101
+msgid "PHP Version"
+msgstr "גרסת PHP"
+
+#: admin/woocommerce-admin-status.php:105
+msgid "MySQL Version"
+msgstr "MySQL גרסה"
+
+#: admin/woocommerce-admin-status.php:109
+msgid "WP Memory Limit"
+msgstr "מגבלת זכרון WP"
+
+#: admin/woocommerce-admin-status.php:114
+msgid ""
+"%s - We recommend setting memory to at least 64MB. See: <a href=\"%s"
+"\">Increasing memory allocated to PHP</a>"
+msgstr ""
+"% S - אנו ממליצים על הגדרת זיכרון ללפחות 64MB. ראה: הגדלת זכרון href=\"%s\"> "
+"<a הוקצה ל-PHP </ a>"
+
+#: admin/woocommerce-admin-status.php:121
+msgid "WP Debug Mode"
+msgstr "מצב Debug WP"
+
+#: admin/woocommerce-admin-status.php:125
+msgid "WP Max Upload Size"
+msgstr "גודל העלאה מקסימאלי WP"
+
+#: admin/woocommerce-admin-status.php:129
+msgid "PHP Post Max Size"
+msgstr "גודל מקסימאלי הודעה PHP"
+
+#: admin/woocommerce-admin-status.php:133
+msgid "PHP Time Limit"
+msgstr "הגבל את זמן PHP"
+
+#: admin/woocommerce-admin-status.php:137
+msgid "WC Logging"
+msgstr "WC רישום"
+
+#: admin/woocommerce-admin-status.php:140
+msgid "Log directory is writable."
+msgstr "תיקיית הלוג ניתנת לעריכה/שכתוב."
+
+#: admin/woocommerce-admin-status.php:142
+msgid ""
+"Log directory (<code>woocommerce/logs/</code>) is not writable. Logging will "
+"not be possible."
+msgstr ""
+"ספריית יומן (<code> woocommerce / יומנים / </ code>) אינה ניתן לכתיבה. רישום "
+"לא יהיה אפשרי."
+
+#: admin/woocommerce-admin-status.php:149
+msgid "fsockopen/cURL"
+msgstr "fsockopen / תלתל"
+
+#: admin/woocommerce-admin-status.php:152
+msgid "Your server has fsockopen and cURL enabled."
+msgstr "השרת שלך ולהתכרבל fsockopen מופעל."
+
+#: admin/woocommerce-admin-status.php:154
+msgid "Your server has fsockopen enabled, cURL is disabled."
+msgstr "השרת שלך fsockopen מאופשר, סלסול אינו זמין."
+
+#: admin/woocommerce-admin-status.php:156
+msgid "Your server has cURL enabled, fsockopen is disabled."
+msgstr "השרת שלך להתכרבל מופעל, fsockopen אינו זמין."
+
+#: admin/woocommerce-admin-status.php:160
+msgid ""
+"Your server does not have fsockopen or cURL enabled - PayPal IPN and other "
+"scripts which communicate with other servers will not work. Contact your "
+"hosting provider."
+msgstr ""
+"השרת שלך לא צריך fsockopen או תלתל מאופשר - IPN PayPal ותסריטים אחרים אשר "
+"מתקשר עם שרתים אחרים לא יעבוד. צור קשר עם ספק האירוח שלך."
+
+#: admin/woocommerce-admin-status.php:165
+msgid "SOAP Client"
+msgstr "SOAP לקוח"
+
+#: admin/woocommerce-admin-status.php:167
+msgid "Your server has the SOAP Client class enabled."
+msgstr "ה-SOAP ברמת הלקוח על השרת שלך מופעל."
+
+#: admin/woocommerce-admin-status.php:170
+msgid ""
+"Your server does not have the <a href=\"%s\">SOAP Client</a> class enabled - "
+"some gateway plugins which use SOAP may not work as expected."
+msgstr ""
+"השרת שלך לא לקבל את לקוח SOAP href=\"%s\"> </ a> כיתה מופעלת - כמה תוספים "
+"ששער להשתמש בסבון עלולים שלא לפעול כמצופה."
+
+#: admin/woocommerce-admin-status.php:175
+msgid "WP Remote Post"
+msgstr "פוסט מרוחק WP"
+
+#: admin/woocommerce-admin-status.php:186
+msgid "wp_remote_post() was successful - PayPal IPN is working."
+msgstr "wp_remote_post () הייתה מוצלחת - IPN PayPal הוא עובד."
+
+#: admin/woocommerce-admin-status.php:189
+msgid ""
+"wp_remote_post() failed. PayPal IPN won't work with your server. Contact "
+"your hosting provider. Error:"
+msgstr ""
+"wp_remote_post () נכשל. PayPal IPN לא יעבוד עם השרת שלך. צור קשר עם ספק "
+"האירוח שלך. שגיאה:"
+
+#: admin/woocommerce-admin-status.php:192
+msgid "wp_remote_post() failed. PayPal IPN may not work with your server."
+msgstr "wp_remote_post () נכשל. PayPal IPN לא יכול לעבוד עם השרת שלך."
+
+#: admin/woocommerce-admin-status.php:215
+msgid "Plugins"
+msgstr "תוספים"
+
+#: admin/woocommerce-admin-status.php:221
+msgid "Installed Plugins"
+msgstr "תוספים מותקנים"
+
+#: admin/woocommerce-admin-status.php:259
+msgid "is available"
+msgstr "זמין"
+
+#: admin/woocommerce-admin-status.php:262
+msgid "by"
+msgstr "על ידי"
+
+#: admin/woocommerce-admin-status.php:262
+msgid "version"
+msgstr "גרסה"
+
+#: admin/woocommerce-admin-status.php:285
+msgid "Force SSL"
+msgstr "הכרח SSL"
+
+#: admin/woocommerce-admin-status.php:292
+msgid "WC Pages"
+msgstr "עמודים WC"
+
+#: admin/woocommerce-admin-status.php:299
+msgid "Shop Base"
+msgstr "חנות בסיס"
+
+#: admin/woocommerce-admin-status.php:311
+msgid "Pay"
+msgstr "שלם"
+
+#: admin/woocommerce-admin-status.php:315
+msgid "Thanks"
+msgstr "תודה"
+
+#: admin/woocommerce-admin-status.php:323
+msgid "Edit Address"
+msgstr "ערוך כתובת"
+
+#: admin/woocommerce-admin-status.php:355
+msgid "Page not set"
+msgstr "דף לא קבע"
+
+#: admin/woocommerce-admin-status.php:365
+msgid "Page does not exist"
+msgstr "עמוד לא קיים"
+
+#: admin/woocommerce-admin-status.php:370
+msgid "Page does not contain the shortcode: %s"
+msgstr "עמוד אינו מכיל shortcode:% s"
+
+#: admin/woocommerce-admin-status.php:389
+msgid "WC Taxonomies"
+msgstr "WC טקסונומיות"
+
+#: admin/woocommerce-admin-status.php:395
+msgid "Order Statuses"
+msgstr "מצב הזמנות"
+
+#: admin/woocommerce-admin-status.php:405
+msgid "Product Types"
+msgstr "סוגי מוצרים"
+
+#: admin/woocommerce-admin-status.php:418
+msgid "Templates"
+msgstr "תבניות"
+
+#: admin/woocommerce-admin-status.php:424
+msgid "Template Overrides"
+msgstr "מחליף תבנית"
+
+#: admin/woocommerce-admin-status.php:442
+msgid "No core overrides present in theme."
+msgstr "אין ליבה עוקפת הווה בנושא."
+
+#: admin/woocommerce-admin-status.php:537
+msgid "WC Transients"
+msgstr "   ארעיים WC"
+
+#: admin/woocommerce-admin-status.php:538
+msgid "Clear transients"
+msgstr "ארעיים WC"
+
+#: admin/woocommerce-admin-status.php:539
+msgid "This tool will clear the product/shop transients cache."
+msgstr "כלי זה ינקה את המטמון של המוצר / חנות הארעיים"
+
+#: admin/woocommerce-admin-status.php:542
+msgid "Expired Transients"
+msgstr "ארעיים פגי תוקף"
+
+#: admin/woocommerce-admin-status.php:543
+msgid "Clear expired transients"
+msgstr "נקה ארעיים שפג תוקפם"
+
+#: admin/woocommerce-admin-status.php:544
+msgid "This tool will clear ALL expired transients from Wordpress."
+msgstr "כלי זה ינקה את כל אירועים פגי התוקף ומוורדפרס."
+
+#: admin/woocommerce-admin-status.php:547
+msgid "Term counts"
+msgstr "ספירת מונחים"
+
+#: admin/woocommerce-admin-status.php:548
+msgid "Recount terms"
+msgstr "ספירת מונחים מחדש"
+
+#: admin/woocommerce-admin-status.php:549
+msgid ""
+"This tool will recount product terms - useful when changing your settings in "
+"a way which hides products from the catalog."
+msgstr ""
+"כלי זה סיפור מחדש את מונחי המוצר - כלי זה שימושי בעת שינוי ההגדרות שלך באופן "
+"שמסתיר את מוצרים מהקטלוג."
+
+#: admin/woocommerce-admin-status.php:552
+msgid "Capabilities"
+msgstr "יכולות"
+
+#: admin/woocommerce-admin-status.php:553
+msgid "Reset capabilities"
+msgstr "איפוס יכולות"
+
+#: admin/woocommerce-admin-status.php:554
+msgid ""
+"This tool will reset the admin, customer and shop_manager roles to default. "
+"Use this if your users cannot access all of the WooCommerce admin pages."
+msgstr ""
+"כלי זה יאפס את תפקידי מנהל, הלקוחות וshop_manager לברירת מחדל. השתמש באפשרות "
+"זו אם המשתמשים שלך לא יכולים לגשת לכל דפי מנהל WooCommerce."
+
+#: admin/woocommerce-admin-status.php:557
+msgid "Customer Sessions"
+msgstr "\"שיחות\" לקוחות"
+
+#: admin/woocommerce-admin-status.php:558
+msgid "Clear all sessions"
+msgstr "נקה את כל ה\"שיחות\""
+
+#: admin/woocommerce-admin-status.php:559
+msgid ""
+"<strong class=\"red\">Warning</strong> This tool will delete all customer "
+"session data from the database, including any current live carts."
+msgstr ""
+"<strong class=\"red\"> אזהרה </ strong> כלי זה ימחק את כל נתוני לקוחות הפעלה "
+"מהאתר, לרבות כל עגלות עדכניות."
+
+#: admin/woocommerce-admin-status.php:569
+msgid "Product Transients Cleared"
+msgstr "ארעי מוצרים כחכחו"
+
+#: admin/woocommerce-admin-status.php:610
+msgid "%d Transients Rows Cleared"
+msgstr "שורות ארעי% d כחכחו"
+
+#: admin/woocommerce-admin-status.php:618
+msgid "Roles successfully reset"
+msgstr "תפקידים שאופסו בהצלחה"
+
+#: admin/woocommerce-admin-status.php:630
+msgid "Terms successfully recounted"
+msgstr "מנוחים שנספרו מחדש"
+
+#: admin/woocommerce-admin-status.php:649
+msgid "There was an error calling %s::%s"
+msgstr "הייתה שגיאה בקריאה ל% s ::% s"
+
+#: admin/woocommerce-admin-status.php:652
+msgid "There was an error calling %s"
+msgstr "הייתה שגיאה בקורא% s"
+
+#: admin/woocommerce-admin-taxonomies.php:25
+#: admin/woocommerce-admin-taxonomies.php:118
+msgid "Display type"
+msgstr "סוג התצוגה"
+
+#: admin/woocommerce-admin-taxonomies.php:29
+#: admin/woocommerce-admin-taxonomies.php:123
+msgid "Subcategories"
+msgstr "תת קטגוריה"
+
+#: admin/woocommerce-admin-taxonomies.php:30
+#: admin/woocommerce-admin-taxonomies.php:124
+msgid "Both"
+msgstr "שניהם"
+
+#: admin/woocommerce-admin-taxonomies.php:34
+#: admin/woocommerce-admin-taxonomies.php:129
+msgid "Thumbnail"
+msgstr "תמונה ממוזערת"
+
+#: admin/woocommerce-admin-taxonomies.php:38
+#: admin/woocommerce-admin-taxonomies.php:134
+msgid "Upload/Add image"
+msgstr "העלאת / הוספת תמונה"
+
+#: admin/woocommerce-admin-taxonomies.php:39
+#: admin/woocommerce-admin-taxonomies.php:135
+msgid "Remove image"
+msgstr "הסר את התמונה"
+
+#: admin/woocommerce-admin-taxonomies.php:64
+#: admin/woocommerce-admin-taxonomies.php:156
+msgid "Use image"
+msgstr "השתמש בתמונה"
+
+#: admin/woocommerce-admin-taxonomies.php:222
+msgid ""
+"Product categories for your store can be managed here. To change the order "
+"of categories on the front-end you can drag and drop to sort them. To see "
+"more categories listed click the \"screen options\" link at the top of the "
+"page."
+msgstr ""
+"ניתן לנהל כאן את קטגוריות המוצרים לחנות שלך. כדי לשנות את הסדר של קטגוריות "
+"ב'פרונט-אנד' (צד הלקוח) חזיתי גרור ושחרר את הקטגוריה כדי למיין אותם. כדי "
+"לראות קטגוריות נוספות לחץ על הקישור \"אפשרויות מסך\" בחלק העליון של הדף."
+
+#: admin/woocommerce-admin-taxonomies.php:237
+msgid ""
+"Shipping classes can be used to group products of similar type. These groups "
+"can then be used by certain shipping methods to provide different rates to "
+"different products."
+msgstr ""
+"סוגי המשלוח יכולים לשמש לקיבוץ מוצרים מסוג דומה. קבוצות אלה לאחר מכן ניתן "
+"להשתמש בסוגי המשלוח השונים בכדי לספק תעריפים שונים למוצרים שונים."
+
+#: admin/woocommerce-admin-taxonomies.php:365
+msgid "Edit Class"
+msgstr "ערוך סוג"
+
+#: admin/woocommerce-admin-users.php:26
+msgid "Billing Address"
+msgstr "כתובת לחיוב"
+
+#: admin/woocommerce-admin-users.php:27
+msgid "Shipping Address"
+msgstr "כתובת למשלוח"
+
+#: admin/woocommerce-admin-users.php:28
+msgid "Paying Customer?"
+msgstr "לקוח משלם?"
+
+#: admin/woocommerce-admin-users.php:29
+msgid "Completed Orders"
+msgstr "הזמנות שהושלמו"
+
+#: admin/woocommerce-admin-users.php:144
+msgid "Customer Billing Address"
+msgstr "כתובת לחיוב לקוחות"
+
+#: admin/woocommerce-admin-users.php:147 admin/woocommerce-admin-users.php:196
+msgid "First name"
+msgstr "שם פרטי"
+
+#: admin/woocommerce-admin-users.php:151 admin/woocommerce-admin-users.php:200
+msgid "Last name"
+msgstr "שם משפחה"
+
+#: admin/woocommerce-admin-users.php:176
+msgid "Country or state code"
+msgstr "ארץ או קוד מדינה"
+
+#: admin/woocommerce-admin-users.php:180 admin/woocommerce-admin-users.php:229
+msgid "2 letter Country code"
+msgstr "קוד מדינה מכתב 2"
+
+#: admin/woocommerce-admin-users.php:183
+msgid "Telephone"
+msgstr "טלפון"
+
+#: admin/woocommerce-admin-users.php:193
+msgid "Customer Shipping Address"
+msgstr "כתובת למשלוח ללקוח"
+
+#: admin/woocommerce-admin-users.php:225
+msgid "State/County or state code"
+msgstr "מדינה / מחוז או מדינת קוד"
+
+msgid "http://www.woothemes.com/woocommerce/"
+msgstr "http://www.woothemes.com/woocommerce/"
+
+msgid "An e-commerce toolkit that helps you sell anything. Beautifully."
+msgstr "ערכת מסחר אלקטרוני המסייעת לך למכור משהו. יפה."
+
+msgid "WooThemes"
+msgstr "WooThemes"
+
+msgid "http://woothemes.com"
+msgstr "http://woothemes.com"
